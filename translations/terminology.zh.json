@@ -1,0 +1,612 @@
+[
+  {
+    "en": "Palimpsest",
+    "zh": "重写之书",
+    "category": "文物",
+    "status": "暂定",
+    "note": "原义为反复书写的旧抄本；本作字迹不褪、语言层叠且不可搬动。重写指叠写，不译作会清除旧字的涂改本。可与用户讨论更偏文献学的“重写本”。",
+    "evidence": [
+      {
+        "id": "line:042b253",
+        "en": "AGATA: I am Agata of the Phylax. I'm here to find a book called the Palimpsest.  I have a letter of introduction."
+      },
+      {
+        "id": "line:0c2203b",
+        "en": "DACIER: Keraunos requests... must descend into... view the Palimpsest itself..."
+      },
+      {
+        "id": "line:0fad018",
+        "en": "DACIER: I'll tell the others to let you pass. If the ancient records are correct, the Palimpsest should still be in the lowest chamber."
+      }
+    ]
+  },
+  {
+    "en": "Order of the Phylax",
+    "zh": "守护者团",
+    "category": "组织",
+    "status": "暂定",
+    "note": "以制止危险魔法为使命；不预设为宗教骑士团。Phylax 指成员时用守护者。",
+    "evidence": [
+      {
+        "id": "line:085930a",
+        "en": "AGATA: I am Agata, of the Order of the Phylax."
+      },
+      {
+        "id": "line:06c0c90",
+        "en": "AGATA: I am Agata, free member of the Order of the Phylax."
+      },
+      {
+        "id": "line:0fd1e9b",
+        "en": "AGATA: I am Agata, of the Order of the Phylax."
+      }
+    ]
+  },
+  {
+    "en": "Phylax",
+    "zh": "守护者",
+    "category": "组织成员",
+    "status": "暂定",
+    "note": "组织简称按语境用守护者团；避免所有出现位置机械同译。",
+    "evidence": [
+      {
+        "id": "line:085930a",
+        "en": "AGATA: I am Agata, of the Order of the Phylax."
+      },
+      {
+        "id": "line:042b253",
+        "en": "AGATA: I am Agata of the Phylax. I'm here to find a book called the Palimpsest.  I have a letter of introduction."
+      },
+      {
+        "id": "line:012b5a5",
+        "en": "BEN: The Phylax and city cops are in cahoots now? I'm not ready for this."
+      }
+    ]
+  },
+  {
+    "en": "golem",
+    "zh": "魔像",
+    "category": "魔法造物",
+    "status": "工作统一",
+    "note": "齐卡隆不是普通机器人；memory golem 用记忆魔像。",
+    "evidence": [
+      {
+        "id": "line:018f0e8",
+        "en": "JUNA: And then there's Zikaron, who's like... some kind of golem full of cryptic, ancient memories, or something?"
+      },
+      {
+        "id": "line:Assets/Cutscenes/QuestLog.yarn-Evaluate_QuestLog-3303",
+        "en": "Description: Follow the mysterious golem."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter11/sideQuests.yarn-hermitMan-7146",
+        "en": "HERMIT: And not just that golem and your little earth mage. Older things too."
+      }
+    ]
+  },
+  {
+    "en": "memory golem",
+    "zh": "记忆魔像",
+    "category": "魔法造物",
+    "status": "工作统一",
+    "note": "保留文化记忆及作证等功能；不要无依据改成灵魂容器。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-returnBarbCave-8614",
+        "en": "????: I recognize his voice. And he has the memory golem with him. We saw him running away from Stral."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-dreyfussReintro-8635",
+        "en": "SYMON: Tati, what if it's my grandparents who spoke through the memory golem? They went to the temple to commit their memories to him, before the Ausleners came."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-dreyfussReintro-8643",
+        "en": "DREYFUSS: To preserve our culture, memory golems were built to think, hide[oxfordComma /] and even fight back."
+      }
+    ]
+  },
+  {
+    "en": "ley line",
+    "zh": "魔力地脉",
+    "category": "魔法系统",
+    "status": "工作统一",
+    "note": "与抽取、输送、枯竭等用语关联；不是普通电线。复数与变体统一。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3612",
+        "en": "KONITZ: You basically just flip some switches. But the seek spell works a lot better if you're elevated, away from the ley line."
+      },
+      {
+        "id": "line:Assets/Cutscenes/nikolai/stral.yarn-airOfficer-3885",
+        "en": "LIEUTENANT: The engine draws magical energy from the ley line... a LOT of energy."
+      },
+      {
+        "id": "line:Assets/Cutscenes/nikolai/stral.yarn-airOfficer-3887",
+        "en": "KONITZ: Oh, so the fleet completely drained the ley line.... how many hours of storage does it have, normally?"
+      }
+    ]
+  },
+  {
+    "en": "magic",
+    "zh": "魔法",
+    "category": "魔法系统",
+    "status": "按语境",
+    "note": "指能量时可译魔力；魔法技艺、法术、能量不可全部统一成同一个词。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/ben/akosNpcs.yarn-akosMan1b-33",
+        "en": "MAN: You're back around, huh? Don't use any magic around here, okay?"
+      },
+      {
+        "id": "line:09b727a",
+        "en": "MOBSTER: Boss, you didn't say this guy knows magic!?"
+      },
+      {
+        "id": "line:03ae94a",
+        "en": "AGATA: I need you to use magic on the blue bird."
+      }
+    ]
+  },
+  {
+    "en": "spell",
+    "zh": "法术",
+    "category": "魔法系统",
+    "status": "按语境",
+    "note": "cast a spell 通常译施法；功能性台词可用具体动作。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/battleLogic/BattleLogic.yarn-prepare_SILENCED-50",
+        "en": "Can't cast spells while silenced!"
+      },
+      {
+        "id": "line:0c014b0",
+        "en": "GORDON: It was an energy transfer spell! I was trying to draw energy from its barrier!"
+      },
+      {
+        "id": "line:0bf2a31",
+        "en": "CORDELIA: That's a prohibited spell! It's against the law to cast it on a living being!"
+      }
+    ]
+  },
+  {
+    "en": "ward",
+    "zh": "防护法术",
+    "category": "魔法系统",
+    "status": "按语境",
+    "note": "视具体用途用警戒法术、结界等，不能一律译护盾。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/ChapterSelect.yarn-ChapterSelect_Ben-308",
+        "en": "Inscription on an ancient urn,<br>Held in the Akos Museum of Ancient Culture -<br><br>\"Early we woke and turned the prow towards the horizon,<br>And, as rosy dawn spread her fingers across the wine-dark sea,<br>Offered libations mixed with sacrificial blood, poured <br>Onto the waves that lapped like jackals' tongues <br>Against the stout oak hull. <br>"
+      },
+      {
+        "id": "line:095b97e",
+        "en": "CORDELIA: No one is in any danger. The magical wards placed on the Menagerie Garden prevent any real harm."
+      },
+      {
+        "id": "line:05ddf99",
+        "en": "CORDELIA: It's broken the wards!"
+      }
+    ]
+  },
+  {
+    "en": "Astral Plane",
+    "zh": "星界",
+    "category": "空间",
+    "status": "工作统一",
+    "note": "古代魔法道路所在空间。保留角色不熟悉其名称的差别。",
+    "evidence": [
+      {
+        "id": "line:0f33a56",
+        "en": "Alex Astral Plane"
+      },
+      {
+        "id": "line:Assets/Cutscenes/debugEvents.yarn-nibarosPeakTest-1096",
+        "en": "Nibaros Peak Astral Plane"
+      },
+      {
+        "id": "line:Assets/Cutscenes/alex/serenDay.yarn-monstroidEncounter-4422",
+        "en": "CREATURE: The king and queen are very suspicious of one another. They decreed that you can only traverse the astral plane in groups of two or more."
+      }
+    ]
+  },
+  {
+    "en": "Royal Roads",
+    "zh": "王家御道",
+    "category": "古代设施",
+    "status": "暂定",
+    "note": "与星界内道路有关；不是普通公路，也不是处处可互换的星界同义词。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-cordeliaAstralExplain-10921",
+        "en": "CORDELIA: This is a section of the Royal Roads."
+      }
+    ]
+  },
+  {
+    "en": "Great War",
+    "zh": "大战",
+    "category": "历史事件",
+    "status": "工作统一",
+    "note": "本作历史事件；不擅加现实世界大战的编号。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5538",
+        "en": "CORDELIA: He is one of the four sages who defeated General Corsin on the top of Mt. Nibaros, at the end of the Great War."
+      }
+    ]
+  },
+  {
+    "en": "Great Lacuna",
+    "zh": "大空白期",
+    "category": "历史分期",
+    "status": "暂定",
+    "note": "涉及人类魔法在历史记录中的长期断裂，需随文献语境校对。",
+    "evidence": [
+      {
+        "id": "line:03cdd1c",
+        "en": "BOOK: On this point, all scholars agree. As to what happened during the Great Lacuna, there is only speculation. We have many unverifiable tales..."
+      },
+      {
+        "id": "line:Assets/Cutscenes/ethosArchives/ethosScenes_DEMO.yarn-annex2_text1_DEMO-7776",
+        "en": "BOOK: On this point, all scholars agree. As to what happened during the Great Lacuna, there is only speculation. We have many unverifiable tales..."
+      }
+    ]
+  },
+  {
+    "en": "Shinar",
+    "zh": "希纳尔",
+    "category": "古代文明",
+    "status": "暂定",
+    "note": "Shinari 按希纳尔人/希纳尔的处理。",
+    "evidence": [
+      {
+        "id": "line:0a772f3",
+        "en": "BOOK: It is an indisputable fact that magic, as we know it, lay dormant for as much as two millennia between the fall of Shinar and its rediscovery by the Etrun Empire."
+      },
+      {
+        "id": "line:032572c",
+        "en": "ARCHAEOLOGIST: You spend seven years learning to read Shinari inscriptions..."
+      },
+      {
+        "id": "line:0dfe930",
+        "en": "BOOK: What are we to make of the disappearance of the Shinari people? Later historical sources are unanimous in stating that they created magic and dominated the world with it."
+      }
+    ]
+  },
+  {
+    "en": "Mt. Nibaros",
+    "zh": "尼巴罗斯山",
+    "category": "地点",
+    "status": "暂定",
+    "note": "峰顶、山口、山脉按实际后缀区分。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/Bullshots.yarn-bullshotControls-287",
+        "en": "Nibaros trailer shot"
+      },
+      {
+        "id": "line:Assets/Cutscenes/Bullshots.yarn-bullshotControls-288",
+        "en": "Nibaros trailer shot debug"
+      },
+      {
+        "id": "line:Assets/Cutscenes/debugEvents.yarn-gordon-789",
+        "en": "Nibaros Pass (Bathos)"
+      }
+    ]
+  },
+  {
+    "en": "Akos",
+    "zh": "阿科斯",
+    "category": "地点",
+    "status": "沿用试译",
+    "note": "与序章选章的博物馆名称一致。",
+    "evidence": [
+      {
+        "id": "line:0c11312",
+        "en": "OLD WOMAN: We call that the old \"Akos Retirement Plan.\""
+      },
+      {
+        "id": "line:0f3ab8b",
+        "en": "Dimitri's Restaurant, in the city of Akos, southern Tyche."
+      },
+      {
+        "id": "line:Assets/Cutscenes/ChapterSelect.yarn-ChapterSelect_Ben-308",
+        "en": "Inscription on an ancient urn,<br>Held in the Akos Museum of Ancient Culture -<br><br>\"Early we woke and turned the prow towards the horizon,<br>And, as rosy dawn spread her fingers across the wine-dark sea,<br>Offered libations mixed with sacrificial blood, poured <br>Onto the waves that lapped like jackals' tongues <br>Against the stout oak hull. <br>"
+      }
+    ]
+  },
+  {
+    "en": "Tyche",
+    "zh": "堤刻",
+    "category": "地点",
+    "status": "暂定",
+    "note": "保留专名，不把神话词源直接当成剧情设定。",
+    "evidence": [
+      {
+        "id": "line:0f3ab8b",
+        "en": "Dimitri's Restaurant, in the city of Akos, southern Tyche."
+      },
+      {
+        "id": "line:04d6eb9",
+        "en": "JUNA: I like a good soak in the watering hole once in a while, but I spend most of my time on the windswept plains north of Tyche."
+      },
+      {
+        "id": "line:Assets/Cutscenes/QuestLog.yarn-Evaluate_QuestLog-3451",
+        "en": "Description: Head back to Magico's Lab in Ben's world, northeast of Akos, on the Tyche Peninsula."
+      }
+    ]
+  },
+  {
+    "en": "Seren",
+    "zh": "塞伦",
+    "category": "地点",
+    "status": "暂定",
+    "note": "亚历珊德拉的故乡城市。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/debugEvents.yarn-bullshotsAndDebugWarp-846",
+        "en": "Seren Check"
+      },
+      {
+        "id": "line:0eed0de",
+        "en": "Seren"
+      },
+      {
+        "id": "line:0e62b1d",
+        "en": "Seren Landscape B"
+      }
+    ]
+  },
+  {
+    "en": "Leornia",
+    "zh": "莱奥尼亚",
+    "category": "地点/政体",
+    "status": "暂定",
+    "note": "区分城市、王国、所属世界；不把同名所在地自动扩大为整个世界。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/ChapterSelect.yarn-ChapterSelect_Cordelia-321",
+        "en": "\"His Royal Majesty, by consent of the People and Parliament of the Kingdom of Leornia, declares that henceforth and forevermore, the Practice of Magic shall be the Right of all Subjects of the Kingdom."
+      },
+      {
+        "id": "line:Assets/Cutscenes/ChapterSelect.yarn-ChapterSelect_Cordelia-324",
+        "en": "-From the text of the Leornian Constitution"
+      },
+      {
+        "id": "line:Assets/Cutscenes/debugEvents.yarn-debug_overlay-678",
+        "en": "4_LeorniaMatch"
+      }
+    ]
+  },
+  {
+    "en": "Auslen",
+    "zh": "奥斯伦",
+    "category": "国家",
+    "status": "暂定",
+    "note": "国家、军队、国民依语法处理。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/ChapterSelect.yarn-ChapterSelect_Nikolai-329",
+        "en": "\"The goal of this war is not merely to expand Auslen's borders, but rather to annihilate all of the undesirable people on the other side of them."
+      },
+      {
+        "id": "line:Assets/Cutscenes/ChapterSelect.yarn-ChapterSelect_Nikolai-331",
+        "en": "\"Only by destroying all of them, down to the last one, can we guarantee that the dwindling supply of magic, our Life's Blood, belongs to the noble race of Ausleners.\" <br><br>-Chancellor Uralt, Speech to the General Staff, two days before the beginning of the war."
+      },
+      {
+        "id": "line:00eff71",
+        "en": "APINGORIX: The Auslen Army put a price on your head. A big one. And they're willing to overlook my... past disagreements."
+      }
+    ]
+  },
+  {
+    "en": "Yina",
+    "zh": "伊纳",
+    "category": "族群",
+    "status": "暂定",
+    "note": "记忆保存与迫害历史的重要主体；不译成泛称野蛮人。",
+    "evidence": [
+      {
+        "id": "line:050a040",
+        "en": "BOOK: ...of the Yina and other wandering tribes, who were able to channel some amount of magic while close to a magical artifact of ancient provenance."
+      },
+      {
+        "id": "line:0e55233",
+        "en": "BOOK: The Yina present us with one of the only living historical links to the first age of magic. Despite numerous periods in which their nation was deported..."
+      },
+      {
+        "id": "line:06eef62",
+        "en": "BOOK: In this treatise, therefore, I will address the textual integrity of that tradition, and make a case for inviting Yina scholars into the historical discourse."
+      }
+    ]
+  },
+  {
+    "en": "Keraunos",
+    "zh": "凯劳诺斯",
+    "category": "人物",
+    "status": "暂定",
+    "note": "四贤者之一，保留与本的世界相关的历史线索。",
+    "evidence": [
+      {
+        "id": "line:0c2203b",
+        "en": "DACIER: Keraunos requests... must descend into... view the Palimpsest itself..."
+      },
+      {
+        "id": "line:0ea5b1b",
+        "en": "DACIER: Well, this is an exquisite forgery, I must say. Whoever did this knows the handwriting of Keraunos quite well."
+      },
+      {
+        "id": "line:0becb84",
+        "en": "DACIER: Are you... he's not Keraunos is he? He doesn't look a thing like the engravings."
+      }
+    ]
+  },
+  {
+    "en": "Haelan Reed",
+    "zh": "海兰·里德",
+    "category": "人物",
+    "status": "暂定",
+    "note": "简称海兰；医者、历史与宪制相关语境统一。",
+    "evidence": [
+      {
+        "id": "line:0b2d832",
+        "en": "CORDELIA: Father, I... found a spell. That's why I was late. It's an old spell that I read about in Haelan Reed's journals."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosLight-5625",
+        "en": "CORDELIA: But the truth must be because Haelan Reed wanted a world where magic could be studied and controlled. That desire created yet another world."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter8/chapter8.yarn-ethosExteriorArchives-5750",
+        "en": "CORDELIA: Haelan Reed was a medical doctor. She was married to George Reed, a member of parliament."
+      }
+    ]
+  },
+  {
+    "en": "Pierre Le Dernier",
+    "zh": "皮埃尔·勒德尼耶",
+    "category": "人物",
+    "status": "暂定",
+    "note": "简称勒德尼耶；不得因姓氏词义擅加“最后的贤者”等称号。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5566",
+        "en": "<align=\"center\">I journeyed to Seren, to find Pierre Le Dernier, in the hope that he could explain what had happened.</align>"
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-bernardScene-5597",
+        "en": "KERAUNOS: I am looking for my friend, a scholar of magic. Pierre Le Dernier."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosLight-5607",
+        "en": "KERAUNOS: Where is the original owner of this house? Pierre Le Dernier."
+      }
+    ]
+  },
+  {
+    "en": "Gustav Heizer",
+    "zh": "古斯塔夫·海泽",
+    "category": "人物",
+    "status": "暂定",
+    "note": "简称海泽；隐藏身份与关系按原文揭示进度处理。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/chapter8/chapter8.yarn-ethosExteriorArchives-5757",
+        "en": "CORDELIA: Whoever Gustav Heizer was, he must have believed in them. It would not have been unusual for his place and time."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apokatastasis6-6824",
+        "en": "HAELAN: I suspected that, like me, Gustav Heizer must still be alive, after all these years."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter11/gluhender.yarn-prismRevamp-12619",
+        "en": "JEROME: Gustav Heizer must have spent almost 150 years on a quest for power. Or else, what was he doing, all that time?"
+      }
+    ]
+  },
+  {
+    "en": "Uralt",
+    "zh": "乌拉尔特",
+    "category": "人物",
+    "status": "暂定",
+    "note": "Chancellor 译总理，暂不套用皇帝或元首。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/ChapterSelect.yarn-ChapterSelect_Nikolai-331",
+        "en": "\"Only by destroying all of them, down to the last one, can we guarantee that the dwindling supply of magic, our Life's Blood, belongs to the noble race of Ausleners.\" <br><br>-Chancellor Uralt, Speech to the General Staff, two days before the beginning of the war."
+      },
+      {
+        "id": "line:Assets/Cutscenes/debugEvents.yarn-uraltTest-1083",
+        "en": "URALT: You dare challenge me?"
+      },
+      {
+        "id": "line:Assets/Cutscenes/QuestLog.yarn-Evaluate_QuestLog-3429",
+        "en": "Description: Head to the peak of Mt. Nibaros, in the center of the continent, to confront Chancellor Uralt."
+      }
+    ]
+  },
+  {
+    "en": "Corsin",
+    "zh": "科尔辛",
+    "category": "人物",
+    "status": "沿用试译",
+    "note": "General Corsin 科尔辛将军。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-durandalArchaeo-2999",
+        "en": "ARCHAEOLOGIST: I came here in search of a famous heirloom sword. Its last known owner was stationed at this monastery, during the war against Corsin."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5538",
+        "en": "CORDELIA: He is one of the four sages who defeated General Corsin on the top of Mt. Nibaros, at the end of the Great War."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5547",
+        "en": "HEIZER: You can't seriously believe that. Look at what Corsin achieved, in this war."
+      }
+    ]
+  },
+  {
+    "en": "Maimun",
+    "zh": "迈蒙",
+    "category": "人物",
+    "status": "暂定",
+    "note": "记忆中的教师；他的完整句子与齐卡隆自身的短语区分。",
+    "evidence": [
+      {
+        "id": "line:0da5fa0",
+        "en": "MAIMUN: Nikolai."
+      },
+      {
+        "id": "line:0a900e4",
+        "en": "MAIMUN: On the shelf next to Zikaron there is a very important book. You must take it."
+      },
+      {
+        "id": "line:02097f2",
+        "en": "MAIMUN: Take the book. Hurry!"
+      }
+    ]
+  },
+  {
+    "en": "von Rohr",
+    "zh": "冯·罗尔",
+    "category": "人物",
+    "status": "暂定",
+    "note": "称谓依场景职务，不擅用历史人物替代。",
+    "evidence": [
+      {
+        "id": "line:Assets/Cutscenes/debugEvents.yarn-chapterWarper-1051",
+        "en": "VON ROHR: Which chapter do you want to start, scum!?"
+      },
+      {
+        "id": "line:Assets/Cutscenes/QuestLog.yarn-Evaluate_QuestLog-3423",
+        "en": "Description: Confront von Rohr in the control room of the Diacon."
+      },
+      {
+        "id": "line:Assets/Cutscenes/chapter6/chapter6.yarn-campCommander1-5201",
+        "en": "COMMANDER: I'm glad you arrived before Director von Rohr. You know how he can be."
+      }
+    ]
+  },
+  {
+    "en": "Diacon",
+    "zh": "迪亚孔",
+    "category": "设施",
+    "status": "暂定",
+    "note": "暂保留音译，设施具体称呼结合演出与全篇补足，勿直接改称核电站。",
+    "evidence": [
+      {
+        "id": "line:005fa39",
+        "en": "GORDON: If it was illegal, wouldn't the Diacon have stopped it?"
+      },
+      {
+        "id": "line:0a569f8",
+        "en": "CORDELIA: The Diacon prevents FORBIDDEN magic! That spell is legal as long as it isn't targeting a living being!"
+      },
+      {
+        "id": "line:Assets/Cutscenes/battleCutscenes/BossCutscenes.yarn-battle_liganti_diacon-240",
+        "en": "Absorbing magic from the Diacon!"
+      }
+    ]
+  }
+]

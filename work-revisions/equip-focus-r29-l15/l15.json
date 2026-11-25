@@ -1,0 +1,28 @@
+{
+  "revision": "l15",
+  "archive": "四重奏-1.5.20260912-原生Linux-l15-简体中文完整覆盖包.zip",
+  "archive_sha256": "d8e985c0592df527f44a89d769872ea12eff6e209927fed48c4ca79cb918e7c3",
+  "files": {
+    "覆盖到游戏目录/QuartetLinux_Data/globalgamemanagers.assets": "f9da09a0c155d1a9ee6989e4366ed38c2260723d82c6312f394bc7cb4db2c455",
+    "覆盖到游戏目录/QuartetLinux_Data/level2": "4d7415606b1fb119cf8d5f4019c8862b003991c585aa44d7e2bba054664c6709",
+    "覆盖到游戏目录/QuartetLinux_Data/level3": "2a37bd7a833f816271fdd4fcc9162c377302f906d6471a36f0d22cc1ac6a4427",
+    "覆盖到游戏目录/QuartetLinux_Data/level4": "193d8e138c02d2539fc296bb42b2ed5f8d74882acd575519c0043bb1eb2875c1",
+    "覆盖到游戏目录/QuartetLinux_Data/level5": "a2704c7d417c8e92e7c164e3cf6ff8bcacfa95e9cd98821a7bab305359517ee2",
+    "覆盖到游戏目录/QuartetLinux_Data/level6": "effcbd1e78e64d7e716d7a84decb41c5afc62a4ce142f91ec581bf5c872a1428",
+    "覆盖到游戏目录/QuartetLinux_Data/level7": "93d8e4f80f26cb347b7b8bb0ef4ed9ec16e7c5cb1404abc4dd2a76c9c6738bfc",
+    "覆盖到游戏目录/QuartetLinux_Data/Managed/Assembly-CSharp.dll": "0d091655253ae503cb5cee9e915594bfd181d37c927d888b5b2283ae22ba3abc",
+    "覆盖到游戏目录/QuartetLinux_Data/Managed/Quartet.Chinese.dll": "54d7767cde62095f4ce3262bf493d9be5fceef57b802510bff1bf1c2948944a8",
+    "覆盖到游戏目录/QuartetLinux_Data/Managed/Unity.TextMeshPro.dll": "bac7aef8e63889f74d61ca43ebfc70bea3f9f964b24bb0047d0df6820e4eb216",
+    "覆盖到游戏目录/QuartetLinux_Data/Managed/YarnSpinner.Unity.dll": "f61913745ead4c4acb55ded21cc170d9ab76d3be6403d69457f2dae1bd7f2c14",
+    "覆盖到游戏目录/QuartetLinux_Data/resources.assets": "39b322c3e68f5e7c236abf6a71c9df1658daa1c06865ad9d9dffea27d61141f8",
+    "覆盖到游戏目录/QuartetLinux_Data/sharedassets2.assets": "a76d67401ed725d34f1007cef5981702cd00f42080ad9a015d47725e7a8f13ef",
+    "覆盖到游戏目录/QuartetLinux_Data/sharedassets3.assets": "39c841e583eab6619eb06288375176c7b52fbe9055fc34ad5160ca83b36293ee",
+    "覆盖到游戏目录/QuartetLinux_Data/sharedassets4.assets": "5d8d107aded4b77729515188b525106b819863a37efc958d5b7cc34c37bb93ec",
+    "覆盖到游戏目录/QuartetLinux_Data/StreamingAssets/aa/StandaloneLinux64/default_scenes_all_ea60dd099c8879daf558d03120f9e90c.bundle": "6de243c88c7022953c5cfd8d3a1e1f6d6046a45c3885800d9b35e60ebd808a41",
+    "覆盖到游戏目录/QuartetLinux_Data/StreamingAssets/aa/StandaloneLinux64/maps_assets_all_289d9cda3d4d19cfd32a1a9f845b5b0f.bundle": "f8a8ba9d03a9cadfbefaf63766941b436cc5121906f80cdd12c12b77642ecc7b",
+    "覆盖到游戏目录/QuartetLinux_Data/Managed/Quartet.RecentItems.dll": "e1f1bbc83e08c259788bcd9587c8fff229dfc5a9ab9bcec146c02c60acd0ee1a",
+    "覆盖到游戏目录/QuartetLinux_Data/sharedassets7.assets.resS": "f0b093a9daf4bc9308b819147a9464710ff59af91429e4bf17d375c06b0ece79"
+  },
+  "offline_fixture": false,
+  "game_visual_verified": false
+}

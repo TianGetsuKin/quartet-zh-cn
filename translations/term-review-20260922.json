@@ -1,0 +1,138 @@
+{
+  "changes": [
+    {
+      "scope": "dialogue",
+      "id": "line:0e31d7d",
+      "before": "退出",
+      "after": "退出游戏"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:095b97e",
+      "before": "CORDELIA: 不会有危险。兽苑里的防护法术会防止真正的伤害。",
+      "after": "CORDELIA: 不会有危险。珍兽园里的防护法术会防止真正的伤害。"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:088489a",
+      "before": "Title: 前往风塔",
+      "after": "Title: 前往风之塔"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:0c0610b",
+      "before": "Description: 副市长“客客气气地”请本登上风塔顶层。",
+      "after": "Description: 副市长“客客气气地”请本登上风之塔顶层。"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:023dea6",
+      "before": "Title: 神秘洞穴",
+      "after": "Title: 神秘洞窟"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/chapter5/toMerdoyo.yarn-upRiverGrasslands-4872",
+      "before": "JUNA: 西边有个渡河的地方，过了河，往北去修道院就好走了。",
+      "after": "JUNA: 西边有个渡河处，过了河，往北去修道院就好走了。"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/chapter5/toMerdoyo.yarn-junasHerd-4900",
+      "before": "JUNA: 我们族群常来这处水塘。至少，以前是常来的。",
+      "after": "JUNA: 我们族群常来这处水潭。至少，以前是常来的。"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-grasslandsSafari-2962",
+      "before": "TOURIST: 水塘附近的草丛里有动静，听着像是个……很大的家伙。你要是也听见了，最好赶紧跑。",
+      "after": "TOURIST: 水潭附近的草丛里有动静，听着像是个……很大的家伙。你要是也听见了，最好赶紧跑。"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsMailman-8538",
+      "before": "MAILMAN: 想搭船回河岔口？水流的缘故，只能送你们单程。",
+      "after": "MAILMAN: 想搭船回河流交汇处？水流的缘故，只能送你们单程。"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-hunterGreeting-8556",
+      "before": "HUNTER: 不过，我确实看到了大群动物留下的足迹，通向这里东北边的集会地。诺托兽一般不会成这么大的群。",
+      "after": "HUNTER: 不过，我确实看到了大群动物留下的足迹，通向这里东北边的会面地点。诺托兽一般不会成这么大的群。"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-hunterGreeting-8558",
+      "before": "JUNA: 集会地很偏僻，飞空艇恐怕没法在附近安全降落。得步行过去。",
+      "after": "JUNA: 会面地点很偏僻，飞空艇恐怕没法在附近安全降落。得步行过去。"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-hunterGreeting-8559",
+      "before": "ALEXANDRA: 集会地？",
+      "after": "ALEXANDRA: 会面地点？"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-harwellQuestGive-8800",
+      "before": "HARWELL: 不过，珍本馆里的每本书，都被学者们护得紧紧的。",
+      "after": "HARWELL: 不过，珍本图书馆里的每本书，都被学者们护得紧紧的。"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildMaster-11136",
+      "before": "GUILD MASTER: 欢迎来到探险者公会！",
+      "after": "GUILD MASTER: 欢迎来到探险家公会！"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/DeveloperCommentary.yarn-devcom_ch11_1-12857",
+      "before": "PNH: 我一直喜欢《最终幻想 IX》最后迷宫继续揭示剧情与世界观的方式，所以在尼巴罗斯也想这样做。",
+      "after": "PNH: 我一直喜欢《最终幻想 IX》最后迷宫继续揭示剧情与世界观的方式，所以在尼巴罗斯山也想这样做。"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/debugEvents.yarn-debug_overlays-823",
+      "before": "焚毁的高街",
+      "after": "焚毁的商业街"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/debugEvents.yarn-bullshotsAndDebugWarp-854",
+      "before": "焚毁的高街",
+      "after": "焚毁的商业街"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/debugEvents.yarn-agataQnodes-995",
+      "before": "钓鱼地点提示",
+      "after": "钓鱼点提示"
+    },
+    {
+      "scope": "dialogue",
+      "id": "line:Assets/Cutscenes/debugEvents.yarn-cordeliaQuestWarps-1042",
+      "before": "沙地洞穴",
+      "after": "沙洞"
+    },
+    {
+      "scope": "resource",
+      "en": "Not as ridiculous as it looks. Powers up Zap Zap (+20 AP)",
+      "before": "并不像看着那么可笑。强化“电呀电”（AP +20）",
+      "after": "并不像看着那么可笑。将“电呀电”强化为“电电电”（最大 AP +20）",
+      "technicalName": "armor_goldenFleece"
+    },
+    {
+      "scope": "location",
+      "en": "Northeastern Wilds - Dragon Pond",
+      "before": "东北荒野 - 龙潭",
+      "after": "东北荒野 - 龙池"
+    }
+  ],
+  "reviewed_skill_replacement_equipment": 11,
+  "notes": [
+    "Golden Fleece replaces skill_thunderstorm with skill_thunderstormBETTER; original and upgraded names are intentionally distinct",
+    "Main-menu Quit remains 退出; only FieldMenu_Quit_Prompt line:0e31d7d changes",
+    "Generic words and natural paraphrases were not globally replaced",
+    "Dragon Pond is standardized as 龙池; other dialogue fixes follow map display names"
+  ]
+}

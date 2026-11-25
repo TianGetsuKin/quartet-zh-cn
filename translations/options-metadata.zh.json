@@ -1,0 +1,777 @@
+[
+  {
+    "index": 1673,
+    "en": "16 Directions",
+    "zh": "16 方向"
+  },
+  {
+    "index": 1759,
+    "en": "8 Directions",
+    "zh": "8 方向"
+  },
+  {
+    "index": 2499,
+    "en": "Adjust sound effects' volume.",
+    "zh": "调整音效音量。"
+  },
+  {
+    "index": 2500,
+    "en": "Adjust the music volume.",
+    "zh": "调整音乐音量。"
+  },
+  {
+    "index": 2501,
+    "en": "Adjust the speed of dialogue messages.",
+    "zh": "调整对话文字的显示速度。"
+  },
+  {
+    "index": 2502,
+    "en": "Adjust the window resolution.",
+    "zh": "调整游戏窗口的分辨率。"
+  },
+  {
+    "index": 2505,
+    "en": "Adjusts the difficulty level of combat and other challenges.",
+    "zh": "调整战斗及其他挑战的难度。"
+  },
+  {
+    "index": 2643,
+    "en": "Analog Movement Mode",
+    "zh": "摇杆移动方式"
+  },
+  {
+    "index": 2927,
+    "en": "Audio",
+    "zh": "声音"
+  },
+  {
+    "index": 2954,
+    "en": "Automatic",
+    "zh": "自动"
+  },
+  {
+    "index": 2956,
+    "en": "Automatically save your game at this interval (when changing maps).",
+    "zh": "切换地图时，按此时间间隔自动保存进度。"
+  },
+  {
+    "index": 2957,
+    "en": "Automatically select the most recently used action for each character in battle.",
+    "zh": "在战斗中，自动选中各角色上次使用的指令。"
+  },
+  {
+    "index": 2958,
+    "en": "Autosave",
+    "zh": "自动存档"
+  },
+  {
+    "index": 2983,
+    "en": "BGM Volume",
+    "zh": "音乐音量"
+  },
+  {
+    "index": 3011,
+    "en": "Background Mode",
+    "zh": "后台运行"
+  },
+  {
+    "index": 3130,
+    "en": "Behavior for when turbo ([turbo]) is pressed.",
+    "zh": "设置加速键（[turbo]）的使用方式。"
+  },
+  {
+    "index": 3242,
+    "en": "Borderless",
+    "zh": "无边框"
+  },
+  {
+    "index": 3320,
+    "en": "Button Names",
+    "zh": "按键名称样式"
+  },
+  {
+    "index": 3416,
+    "en": "CRT Filter (Experimental)",
+    "zh": "CRT 滤镜（实验性）"
+  },
+  {
+    "index": 3990,
+    "en": "Casual",
+    "zh": "轻松"
+  },
+  {
+    "index": 4036,
+    "en": "Changes text styling fonts.  'Pixel (Narrow)' only affects dialogue.",
+    "zh": "更改字体样式。“窄体像素”仅影响对话文字。"
+  },
+  {
+    "index": 4287,
+    "en": "Confirm / Interact",
+    "zh": "确认／交互"
+  },
+  {
+    "index": 4361,
+    "en": "Controls",
+    "zh": "操作"
+  },
+  {
+    "index": 4616,
+    "en": "Cursor Memory",
+    "zh": "记忆指令"
+  },
+  {
+    "index": 5002,
+    "en": "Developer Commentary",
+    "zh": "开发者解说"
+  },
+  {
+    "index": 5031,
+    "en": "Difficult",
+    "zh": "困难"
+  },
+  {
+    "index": 5032,
+    "en": "Difficulty",
+    "zh": "难度"
+  },
+  {
+    "index": 5056,
+    "en": "Disabled",
+    "zh": "关"
+  },
+  {
+    "index": 5065,
+    "en": "Display",
+    "zh": "显示"
+  },
+  {
+    "index": 5327,
+    "en": "Enable/Disable CRT visual filter effects.\nNOTE: Dialogue excluded.  Other visual effects may render incorrectly.",
+    "zh": "开启或关闭 CRT 显像管滤镜。\n注意：不影响对话文字；其他画面效果可能显示异常。"
+  },
+  {
+    "index": 5328,
+    "en": "Enable/Disable any full screen flash effects in cutscenes and battles.",
+    "zh": "开启或关闭过场与战斗中的全屏闪光效果。"
+  },
+  {
+    "index": 5337,
+    "en": "Enabled",
+    "zh": "开"
+  },
+  {
+    "index": 5338,
+    "en": "Enables display VSync.",
+    "zh": "开启垂直同步。"
+  },
+  {
+    "index": 5833,
+    "en": "Fast",
+    "zh": "快"
+  },
+  {
+    "index": 5975,
+    "en": "Flash Effects",
+    "zh": "闪光效果"
+  },
+  {
+    "index": 6084,
+    "en": "Full Screen",
+    "zh": "全屏"
+  },
+  {
+    "index": 6157,
+    "en": "Gameplay",
+    "zh": "游戏"
+  },
+  {
+    "index": 6523,
+    "en": "Hold for Turbo",
+    "zh": "按住加速"
+  },
+  {
+    "index": 6524,
+    "en": "Hold to Run",
+    "zh": "按住奔跑"
+  },
+  {
+    "index": 6525,
+    "en": "Hold to Walk",
+    "zh": "按住行走"
+  },
+  {
+    "index": 6539,
+    "en": "How the controller's left analog stick should move the player.",
+    "zh": "设置使用手柄左摇杆时的移动方式。"
+  },
+  {
+    "index": 6540,
+    "en": "How the player should move when run ([run]) is pressed.",
+    "zh": "设置奔跑键（[run]）的使用方式。"
+  },
+  {
+    "index": 6919,
+    "en": "Instant",
+    "zh": "立即显示"
+  },
+  {
+    "index": 7572,
+    "en": "Keep Changes",
+    "zh": "保留更改"
+  },
+  {
+    "index": 7573,
+    "en": "Keep Running",
+    "zh": "始终运行"
+  },
+  {
+    "index": 8173,
+    "en": "Message Display Speed",
+    "zh": "文字显示速度"
+  },
+  {
+    "index": 8247,
+    "en": "Misc / Swap",
+    "zh": "其他操作／切换队伍"
+  },
+  {
+    "index": 8287,
+    "en": "Moderate",
+    "zh": "中"
+  },
+  {
+    "index": 8355,
+    "en": "Multiply or stretch graphics to match the current window resolution.",
+    "zh": "按倍数缩放或拉伸画面，以适应当前窗口分辨率。"
+  },
+  {
+    "index": 8503,
+    "en": "Nightmare",
+    "zh": "噩梦"
+  },
+  {
+    "index": 8906,
+    "en": "Off",
+    "zh": "关"
+  },
+  {
+    "index": 8920,
+    "en": "On",
+    "zh": "开"
+  },
+  {
+    "index": 9048,
+    "en": "Override Downward Movement and Navigation.\nDown Arrow key always works.",
+    "zh": "设置向下移动及选择的按键。\n↓ 键始终有效。"
+  },
+  {
+    "index": 9049,
+    "en": "Override Leftward Movement and Navigation.\nLeft Arrow key always works.",
+    "zh": "设置向左移动及选择的按键。\n← 键始终有效。"
+  },
+  {
+    "index": 9051,
+    "en": "Override Rightward Movement and Navigation.\nRight Arrow key always works.",
+    "zh": "设置向右移动及选择的按键。\n→ 键始终有效。"
+  },
+  {
+    "index": 9052,
+    "en": "Override Up Movement and Navigation.\nUp Arrow key always works.",
+    "zh": "设置向上移动及选择的按键。\n↑ 键始终有效。"
+  },
+  {
+    "index": 9053,
+    "en": "Override button display names in UI/help text.",
+    "zh": "设置界面及操作说明中显示的按键名称样式。"
+  },
+  {
+    "index": 9054,
+    "en": "Override key for increasing gameplay speed.",
+    "zh": "设置游戏加速按键。"
+  },
+  {
+    "index": 9055,
+    "en": "Override key for menu cancellation.\nEsc key always works.",
+    "zh": "设置取消操作按键。\nEsc 键始终有效。"
+  },
+  {
+    "index": 9056,
+    "en": "Override key for misc actions (e.g., party swap).",
+    "zh": "设置切换队伍等其他操作的按键。"
+  },
+  {
+    "index": 9057,
+    "en": "Override key for running.",
+    "zh": "设置奔跑按键。"
+  },
+  {
+    "index": 9058,
+    "en": "Override key to cycle tabs, party members to the left.",
+    "zh": "设置向左切换分页或队员的按键。"
+  },
+  {
+    "index": 9059,
+    "en": "Override key to cycle tabs, party members to the right.",
+    "zh": "设置向右切换分页或队员的按键。"
+  },
+  {
+    "index": 9060,
+    "en": "Override key to open chests, speak to NPCs, confirm menu selections.\nEnter key always works.",
+    "zh": "设置开启宝箱、与角色交谈和确认菜单选项的按键。\nEnter 键始终有效。"
+  },
+  {
+    "index": 9061,
+    "en": "Override key to open the menu.\nEsc key always works.",
+    "zh": "设置打开菜单的按键。\nEsc 键始终有效。"
+  },
+  {
+    "index": 9064,
+    "en": "Oxford Commas",
+    "zh": "牛津逗号"
+  },
+  {
+    "index": 9193,
+    "en": "Party Memory",
+    "zh": "战后队列"
+  },
+  {
+    "index": 9230,
+    "en": "Pause Everything",
+    "zh": "全部暂停"
+  },
+  {
+    "index": 9231,
+    "en": "Pause Input",
+    "zh": "暂停输入"
+  },
+  {
+    "index": 9278,
+    "en": "Pixel (Narrow)",
+    "zh": "窄体像素"
+  },
+  {
+    "index": 9279,
+    "en": "Pixel Perfect",
+    "zh": "整数倍缩放"
+  },
+  {
+    "index": 9856,
+    "en": "Reset Keyboard Inputs",
+    "zh": "重置键盘按键"
+  },
+  {
+    "index": 9864,
+    "en": "Resets keyboard inputs to their original settings.",
+    "zh": "将键盘按键恢复为默认设置。"
+  },
+  {
+    "index": 9868,
+    "en": "Resolution",
+    "zh": "分辨率"
+  },
+  {
+    "index": 9945,
+    "en": "Run Mode",
+    "zh": "奔跑方式"
+  },
+  {
+    "index": 9982,
+    "en": "SFX Volume",
+    "zh": "音效音量"
+  },
+  {
+    "index": 10098,
+    "en": "Saves current party art (realtime) next to your save folder for OBS/streaming software.",
+    "zh": "实时导出当前队伍的角色图至存档文件夹旁，供 OBS 等直播软件使用。"
+  },
+  {
+    "index": 10471,
+    "en": "Slow",
+    "zh": "慢"
+  },
+  {
+    "index": 10715,
+    "en": "Streamer Assets",
+    "zh": "直播用角色图"
+  },
+  {
+    "index": 10719,
+    "en": "Stretch to Fill",
+    "zh": "拉伸填满"
+  },
+  {
+    "index": 10793,
+    "en": "Swap Confirm/Cancel",
+    "zh": "交换确认与取消"
+  },
+  {
+    "index": 10794,
+    "en": "Swap the Confirm and Cancel buttons on controllers.",
+    "zh": "交换手柄的确认键与取消键。"
+  },
+  {
+    "index": 10801,
+    "en": "Swapped",
+    "zh": "已交换"
+  },
+  {
+    "index": 11145,
+    "en": "Text Style",
+    "zh": "字体样式"
+  },
+  {
+    "index": 12279,
+    "en": "Turbo Mode",
+    "zh": "加速模式"
+  },
+  {
+    "index": 13014,
+    "en": "Upscale Mode",
+    "zh": "画面缩放"
+  },
+  {
+    "index": 13069,
+    "en": "VSync",
+    "zh": "垂直同步"
+  },
+  {
+    "index": 13310,
+    "en": "What the game does if focus moves to a different application.",
+    "zh": "切换到其他应用时，游戏如何在后台运行。"
+  },
+  {
+    "index": 13311,
+    "en": "What to do with swapped party members after combat.",
+    "zh": "设置战斗结束后是否保留调整过的队列。"
+  },
+  {
+    "index": 13322,
+    "en": "Whether the final item in lists of words, actions[oxfordComma /] or other terms uses a comma.",
+    "zh": "设置英文列举内容时，是否在最后一项前加逗号。[oxfordComma /]"
+  },
+  {
+    "index": 13323,
+    "en": "Whether to run the game in a window or to fill the screen.",
+    "zh": "选择窗口或全屏显示。"
+  },
+  {
+    "index": 13640,
+    "en": "[Contains Spoilers!] Press [party] when the prompt appears while exploring to learn more about the game from us, the developers!",
+    "zh": "【含剧透】探索时出现提示，按 [party] 即可听我们这些开发者聊聊游戏背后的故事！"
+  },
+  {
+    "index": 2794,
+    "en": "Ashbless's Summa Sorcelogica",
+    "zh": "阿什布莱斯《魔法学总论》"
+  },
+  {
+    "index": 3034,
+    "en": "Bailey's Handbook of Rienese Villages",
+    "zh": "贝利《里恩村落手册》"
+  },
+  {
+    "index": 3980,
+    "en": "Carlyle's Lectures on the Enlightened Century",
+    "zh": "卡莱尔《启蒙世纪讲座》"
+  },
+  {
+    "index": 4027,
+    "en": "Chamberlain's Foundations of Modern Enchantment",
+    "zh": "张伯伦《现代附魔基础》"
+  },
+  {
+    "index": 4618,
+    "en": "Cust's The Wild East",
+    "zh": "卡斯特《荒野东方》"
+  },
+  {
+    "index": 5951,
+    "en": "Findlay's Ancient and Comparative Geography",
+    "zh": "芬德利《古代与比较地理学》"
+  },
+  {
+    "index": 6154,
+    "en": "Galton's Art of Travel",
+    "zh": "高尔顿《旅行的艺术》"
+  },
+  {
+    "index": 6247,
+    "en": "Gibbon's Decline and Fall of the Etrun Empire",
+    "zh": "吉本《埃特伦帝国衰亡史》"
+  },
+  {
+    "index": 6381,
+    "en": "Haddon's Law of Magical Development",
+    "zh": "哈登《魔法发展定律》"
+  },
+  {
+    "index": 6382,
+    "en": "Hallett's Railway Survey Techniques",
+    "zh": "哈利特《铁路勘测技术》"
+  },
+  {
+    "index": 6509,
+    "en": "Higginson's Elements of Steel Suspension",
+    "zh": "希金森《钢制悬索结构原理》"
+  },
+  {
+    "index": 7451,
+    "en": "Isembard's Tunnel Construction",
+    "zh": "伊森巴德《隧道施工》"
+  },
+  {
+    "index": 7535,
+    "en": "Jordan's Encyclopedia of the Supernatural",
+    "zh": "乔丹《超自然百科全书》"
+  },
+  {
+    "index": 7709,
+    "en": "LeGuin's Transmutations",
+    "zh": "勒古恩《变形术》"
+  },
+  {
+    "index": 7716,
+    "en": "Leckie's Principia Magica",
+    "zh": "莱基《魔法原理》"
+  },
+  {
+    "index": 7847,
+    "en": "Littledale's Barbarians of the Nibaros Plateau",
+    "zh": "利特尔戴尔《尼巴罗斯高原的蛮族》"
+  },
+  {
+    "index": 7927,
+    "en": "Luard's Annotated Medieval Chronicles",
+    "zh": "卢阿德《中世纪编年史注疏》"
+  },
+  {
+    "index": 8297,
+    "en": "Moir's Airlock Components",
+    "zh": "莫尔《气闸组件》"
+  },
+  {
+    "index": 8357,
+    "en": "Munson's Royal Reigns and the Great Charter",
+    "zh": "芒森《王朝统治与大宪章》"
+  },
+  {
+    "index": 8676,
+    "en": "Norgate's Leornia Under the Ignian Kings",
+    "zh": "诺盖特《伊格尼王朝治下的莱奥尼亚》"
+  },
+  {
+    "index": 9032,
+    "en": "Ormer's Topology of Cantrips and Spells",
+    "zh": "奥默《小术与法术的拓扑学》"
+  },
+  {
+    "index": 9630,
+    "en": "Rashdall's Universities of the Middle Ages",
+    "zh": "拉什达尔《中世纪大学》"
+  },
+  {
+    "index": 10806,
+    "en": "Swift's Extraordinary Travelogue",
+    "zh": "斯威夫特《奇异游记》"
+  },
+  {
+    "index": 12196,
+    "en": "Trestrail's Engine Mechanics",
+    "zh": "特雷斯特雷尔《发动机力学》"
+  },
+  {
+    "index": 12197,
+    "en": "Trevithick's Phlogiston Engine",
+    "zh": "特雷维西克《燃素发动机》"
+  },
+  {
+    "index": 13285,
+    "en": "Wallace's Islands of the Tychic Sea",
+    "zh": "华莱士《堤刻海诸岛》"
+  },
+  {
+    "index": 13358,
+    "en": "Wingrove's History of Liberal Reforms",
+    "zh": "温格罗夫《自由改革史》"
+  },
+  {
+    "index": 51,
+    "en": "\nInput new key...",
+    "zh": "\n请输入新按键……"
+  },
+  {
+    "index": 4613,
+    "en": "Current: ",
+    "zh": "当前按键："
+  },
+  {
+    "index": 5557,
+    "en": "Every Minute",
+    "zh": "每分钟"
+  },
+  {
+    "index": 5556,
+    "en": "Every 5 Minutes",
+    "zh": "每5分钟"
+  },
+  {
+    "index": 5554,
+    "en": "Every 10 Minutes",
+    "zh": "每10分钟"
+  },
+  {
+    "index": 5555,
+    "en": "Every 15 Minutes",
+    "zh": "每15分钟"
+  },
+  {
+    "index": 2947,
+    "en": "Auto-Save",
+    "zh": "自动存档"
+  },
+  {
+    "index": 6067,
+    "en": "Free Movement",
+    "zh": "自由移动"
+  },
+  {
+    "index": 11088,
+    "en": "Tap to Toggle",
+    "zh": "按一下切换"
+  },
+  {
+    "index": 8921,
+    "en": "On (Except Menus)",
+    "zh": "开启（菜单除外）"
+  },
+  {
+    "index": 7578,
+    "en": "Key Art",
+    "zh": "角色立绘"
+  },
+  {
+    "index": 5899,
+    "en": "Field Sprite",
+    "zh": "地图角色像素图"
+  },
+  {
+    "index": 123,
+    "en": "  Scanlines",
+    "zh": "  扫描线"
+  },
+  {
+    "index": 125,
+    "en": "  Tube Distortion",
+    "zh": "  显像管畸变"
+  },
+  {
+    "index": 119,
+    "en": "  Chromatic Aberration",
+    "zh": "  色差"
+  },
+  {
+    "index": 118,
+    "en": "  Blur",
+    "zh": "  模糊"
+  },
+  {
+    "index": 11352,
+    "en": "The amount of blur for the CRT effect.",
+    "zh": "调整CRT效果的模糊程度。"
+  },
+  {
+    "index": 11539,
+    "en": "The intensity of scanlines to for the CRT effect.",
+    "zh": "调整CRT效果的扫描线强度。"
+  },
+  {
+    "index": 11541,
+    "en": "The intensity of the tube distortion CRT effect.",
+    "zh": "调整CRT效果的显像管畸变强度。"
+  },
+  {
+    "index": 11540,
+    "en": "The intensity of the chromatic aberration CRT effect.",
+    "zh": "调整CRT效果的色差强度。"
+  },
+  {
+    "index": 6434,
+    "en": "Heckethorne: The Secret Societies of All Ages",
+    "zh": "赫克索恩《历代秘密结社》"
+  },
+  {
+    "index": 9447,
+    "en": "Proceedings of the World Explorer Society",
+    "zh": "《世界探险家协会会刊》"
+  },
+  {
+    "index": 13349,
+    "en": "Willans' Theory of Electrical Conversion",
+    "zh": "威兰斯《电能转换理论》"
+  },
+  {
+    "index": 7791,
+    "en": "Lewes' Biography of Leornish Magicians",
+    "zh": "刘易斯《莱奥尼亚魔法师列传》"
+  },
+  {
+    "index": 5022,
+    "en": "Dicas' Scientific Instrument Assembly",
+    "zh": "迪卡斯《科学仪器组装》"
+  },
+  {
+    "index": 1041,
+    "en": "(No Book)",
+    "zh": "（无书）"
+  },
+  {
+    "index": 2537,
+    "en": "All Items",
+    "zh": "全部物品"
+  },
+  {
+    "index": 12107,
+    "en": "Tomes",
+    "zh": "宝典"
+  },
+  {
+    "index": 4315,
+    "en": "Consumables",
+    "zh": "消耗品"
+  },
+  {
+    "index": 2741,
+    "en": "Armor",
+    "zh": "防具"
+  },
+  {
+    "index": 13303,
+    "en": "Weapons",
+    "zh": "武器"
+  },
+  {
+    "index": 6430,
+    "en": "Headgear",
+    "zh": "头部装备"
+  },
+  {
+    "index": 7585,
+    "en": "Key Items",
+    "zh": "重要物品"
+  },
+  {
+    "index": 2412,
+    "en": "Accessories",
+    "zh": "饰品"
+  },
+  {
+    "index": 20516,
+    "en": "{0:n0} VAL",
+    "zh": "{0:n0} 瓦尔"
+  },
+  {
+    "index": 9854,
+    "en": "Reset",
+    "zh": "重置"
+  }
+]

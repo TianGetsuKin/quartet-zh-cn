@@ -1,0 +1,1243 @@
+{
+  "estimated_only": false,
+  "summary": {
+    "basis": "Four user screenshots plus live Nikolai map, 2026-09-22",
+    "free_offsets_removed": true,
+    "runtime_visual_after_fix": "pending",
+    "duplicate_refugee_camp_caption_hidden": 8342527515565520812,
+    "chapter_alternative_labels_retained": [
+      [
+        -7346586336695801037,
+        7506286731534937460
+      ],
+      [
+        -6168718310970485018,
+        -827380046149912537
+      ],
+      [
+        -8065939559636826006,
+        4350767044786947347
+      ],
+      [
+        -1066997091978713265,
+        8984030943962254486
+      ]
+    ],
+    "nikolai_density_revision": {
+      "changed_labels": 11,
+      "font_percent": 70,
+      "free_offsets": 0,
+      "other_worlds_unchanged": true,
+      "after_change_visual": "pending"
+    }
+  },
+  "labels": [
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -8065939559636826006,
+      "source_alignment": 1,
+      "alignment": 3,
+      "source_en": "Marsh",
+      "en": "<link=\"qzhmap-8065939559636826006\"><size=80%>Marsh</size></link>",
+      "zh": "<link=\"qzhmap-8065939559636826006\"><size=80%>沼泽</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        149.0,
+        169.875
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -8050619389622468978,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Javelin Cave",
+      "en": "<link=\"qzhmap-8050619389622468978\"><size=80%>Javelin Cave</size></link>",
+      "zh": "<link=\"qzhmap-8050619389622468978\"><size=80%>标枪洞窟</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        81.375,
+        133.5
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -7659294738057829896,
+      "source_alignment": 1,
+      "alignment": 2,
+      "source_en": "Wind Gate",
+      "en": "<link=\"qzhmap-7659294738057829896\"><size=80%>Wind Gate</size></link>",
+      "zh": "<link=\"qzhmap-7659294738057829896\"><size=80%>风之门</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        75.375,
+        110.6875
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -7213347083226943077,
+      "source_alignment": 3,
+      "alignment": 3,
+      "source_en": "Northeastern Wilds",
+      "en": "<link=\"qzhmap-7213347083226943077\"><size=80%>Northeastern Wilds</size></link>",
+      "zh": "<link=\"qzhmap-7213347083226943077\"><size=80%>东北荒野</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        116.1875,
+        111.3125
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -6448556460792996929,
+      "source_alignment": 0,
+      "alignment": 0,
+      "source_en": "Stani's Farm",
+      "en": "<link=\"qzhmap-6448556460792996929\"><size=80%>Stani's Farm</size></link>",
+      "zh": "<link=\"qzhmap-6448556460792996929\"><size=80%>斯塔尼的农场</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        124.875,
+        145.25
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -4753584137573905589,
+      "source_alignment": 0,
+      "alignment": 0,
+      "source_en": "Fishing Spot",
+      "en": "<link=\"qzhmap-4753584137573905589\"><size=80%>Fishing Spot</size></link>",
+      "zh": "<link=\"qzhmap-4753584137573905589\"><size=80%>钓鱼点</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        162.1875,
+        132.5
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -4726012948526621772,
+      "source_alignment": 0,
+      "alignment": 0,
+      "source_en": "Duck Dog Shrine",
+      "en": "<link=\"qzhmap-4726012948526621772\"><size=80%>Duck Dog Shrine</size></link>",
+      "zh": "<link=\"qzhmap-4726012948526621772\"><size=80%>鸭犬圣祠</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        160.0625,
+        37.375
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -4096449859657760679,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Mt. Nibaros",
+      "en": "<link=\"qzhmap-4096449859657760679\"><size=80%>Mt. Nibaros</size></link>",
+      "zh": "<link=\"qzhmap-4096449859657760679\"><size=80%>尼巴罗斯山</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        80.0,
+        83.0
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -2096845001639422898,
+      "source_alignment": 1,
+      "alignment": 3,
+      "source_en": "",
+      "en": "<link=\"qzhmap-2096845001639422898\"><size=80%>River Run</size></link>",
+      "zh": "<link=\"qzhmap-2096845001639422898\"><size=80%>河道</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        135.125,
+        83.25
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -1066997091978713265,
+      "source_alignment": 0,
+      "alignment": 3,
+      "source_en": "Magico's Lab",
+      "en": "<link=\"qzhmap-1066997091978713265\"><size=80%>Magico's Lab</size></link>",
+      "zh": "<link=\"qzhmap-1066997091978713265\"><size=80%>魔法佬实验室</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        143.6875,
+        160.1875
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 249754621263480075,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Desert Ruins",
+      "en": "<link=\"qzhmap249754621263480075\"><size=80%>Desert Ruins</size></link>",
+      "zh": "<link=\"qzhmap249754621263480075\"><size=80%>沙漠遗迹</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        38.0,
+        84.0
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 280075286078857213,
+      "source_alignment": 1,
+      "alignment": 0,
+      "source_en": "Akos",
+      "en": "<link=\"qzhmap280075286078857213\"><size=80%>Akos</size></link>",
+      "zh": "<link=\"qzhmap280075286078857213\"><size=80%>阿科斯</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        124.05562591552734,
+        175.01687622070312
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 1709246736502939183,
+      "source_alignment": 3,
+      "alignment": 3,
+      "source_en": "Merdoyo",
+      "en": "<link=\"qzhmap1709246736502939183\"><size=80%>Merdoyo</size></link>",
+      "zh": "<link=\"qzhmap1709246736502939183\"><size=80%>梅尔多约</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        91.75,
+        125.8125
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 1764407134106636805,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Grasslands",
+      "en": "<link=\"qzhmap1764407134106636805\"><size=80%>Grasslands</size></link>",
+      "zh": "<link=\"qzhmap1764407134106636805\"><size=80%>草原</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        97.8125,
+        100.5625
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 3214521742052502401,
+      "source_alignment": 1,
+      "alignment": 0,
+      "source_en": "",
+      "en": "<link=\"qzhmap3214521742052502401\"><size=80%>Meeting\nSite</size></link>",
+      "zh": "<link=\"qzhmap3214521742052502401\"><size=80%>会面地点</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        105.1875,
+        85.3125
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 4175369717169926139,
+      "source_alignment": 3,
+      "alignment": 3,
+      "source_en": "Siope Monastery",
+      "en": "<link=\"qzhmap4175369717169926139\"><size=80%>Siope Monastery</size></link>",
+      "zh": "<link=\"qzhmap4175369717169926139\"><size=80%>西奥佩修道院</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        96.6875,
+        94.4375
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 4350767044786947347,
+      "source_alignment": 1,
+      "alignment": 3,
+      "source_en": "Marsh",
+      "en": "<link=\"qzhmap4350767044786947347\"><size=80%>Marsh</size></link>",
+      "zh": "<link=\"qzhmap4350767044786947347\"><size=80%>沼泽</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        149.0,
+        169.875
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 7626090150562634580,
+      "source_alignment": 0,
+      "alignment": 2,
+      "source_en": "Wind Tower",
+      "en": "<link=\"qzhmap7626090150562634580\"><size=80%>Wind\nTower</size></link>",
+      "zh": "<link=\"qzhmap7626090150562634580\"><size=80%>风之塔</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        107.5,
+        171.375
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 8856855050874296467,
+      "source_alignment": 2,
+      "alignment": 1,
+      "source_en": "Villa",
+      "en": "<link=\"qzhmap8856855050874296467\"><size=80%>Villa</size></link>",
+      "zh": "<link=\"qzhmap8856855050874296467\"><size=80%>别墅</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        106.0,
+        178.375
+      ]
+    },
+    {
+      "world": "bathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 8984030943962254486,
+      "source_alignment": 0,
+      "alignment": 3,
+      "source_en": "Magico's Lab",
+      "en": "<link=\"qzhmap8984030943962254486\"><size=80%>Magico's Lab</size></link>",
+      "zh": "<link=\"qzhmap8984030943962254486\"><size=80%>魔法佬实验室</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        143.6875,
+        160.1875
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -7319390023168224927,
+      "source_alignment": 0,
+      "alignment": 0,
+      "source_en": "Mt. Nibaros",
+      "en": "<link=\"qzhmap-7319390023168224927\"><size=70%>Mt. Nibaros</size></link>",
+      "zh": "<link=\"qzhmap-7319390023168224927\"><size=70%>尼巴罗斯山</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        80.0,
+        83.0
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -6168718310970485018,
+      "source_alignment": 1,
+      "alignment": 3,
+      "source_en": "",
+      "en": "<link=\"qzhmap-6168718310970485018\"><size=80%>Stral</size></link>",
+      "zh": "<link=\"qzhmap-6168718310970485018\"><size=80%>斯特拉尔</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        148.0625,
+        95.9375
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -5848219704523421684,
+      "source_alignment": 3,
+      "alignment": 3,
+      "source_en": "Barbarian Forest",
+      "en": "<link=\"qzhmap-5848219704523421684\"><size=70%>Barbarian\nForest</size></link>",
+      "zh": "<link=\"qzhmap-5848219704523421684\"><size=70%>蛮族\n森林</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        102.375,
+        82.25
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -5485324683564652003,
+      "source_alignment": 1,
+      "alignment": 0,
+      "source_en": "",
+      "en": "<link=\"qzhmap-5485324683564652003\"><size=70%>Southern\nCheckpoint</size></link>",
+      "zh": "<link=\"qzhmap-5485324683564652003\"><size=70%>南部\n检查站</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        135.9375,
+        102.75
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -4600692427678357283,
+      "source_alignment": 1,
+      "alignment": 2,
+      "source_en": "",
+      "en": "<link=\"qzhmap-4600692427678357283\"><size=70%>Outlying\nFarm</size></link>",
+      "zh": "<link=\"qzhmap-4600692427678357283\"><size=70%>郊外\n农场</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        95.5,
+        98.375
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -4547378278437367212,
+      "source_alignment": 3,
+      "alignment": 3,
+      "source_en": "Nibaros Pass",
+      "en": "<link=\"qzhmap-4547378278437367212\"><size=70%>Nibaros\nPass</size></link>",
+      "zh": "<link=\"qzhmap-4547378278437367212\"><size=70%>尼巴罗斯\n山口</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        88.375,
+        92.25
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -3988441339670377836,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "",
+      "en": "<link=\"qzhmap-3988441339670377836\"><size=70%>Refugee\nCamp</size></link>",
+      "zh": "<link=\"qzhmap-3988441339670377836\"><size=70%>难民营</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        123.5625,
+        104.375
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -967868708107095447,
+      "source_alignment": 1,
+      "alignment": 0,
+      "source_en": "Scorched Mountain",
+      "en": "<link=\"qzhmap-967868708107095447\"><size=80%>Scorched Mountain</size></link>",
+      "zh": "<link=\"qzhmap-967868708107095447\"><size=80%>焦灼之山</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        81.375,
+        133.4375
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -943035178888664614,
+      "source_alignment": 0,
+      "alignment": 0,
+      "source_en": "",
+      "en": "<link=\"qzhmap-943035178888664614\"><size=70%>Helva\nCommons</size></link>",
+      "zh": "<link=\"qzhmap-943035178888664614\"><size=70%>赫尔瓦\n广场</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        75.5,
+        95.5
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -827380046149912537,
+      "source_alignment": 3,
+      "alignment": 3,
+      "source_en": "Stral",
+      "en": "<link=\"qzhmap-827380046149912537\"><size=80%>Stral</size></link>",
+      "zh": "<link=\"qzhmap-827380046149912537\"><size=80%>斯特拉尔</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        148.0,
+        95.9375
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -471639941020704765,
+      "source_alignment": 1,
+      "alignment": 3,
+      "source_en": "Auslen Bunker",
+      "en": "<link=\"qzhmap-471639941020704765\"><size=80%>Auslen Bunker</size></link>",
+      "zh": "<link=\"qzhmap-471639941020704765\"><size=80%>奥斯伦地堡</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        147.4375,
+        44.125
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 1091003847835642506,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "",
+      "en": "<link=\"qzhmap1091003847835642506\"><size=70%>Riverside</size></link>",
+      "zh": "<link=\"qzhmap1091003847835642506\"><size=70%>河畔</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        106.5,
+        99.375
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 1578690407722337637,
+      "source_alignment": 2,
+      "alignment": 2,
+      "source_en": "Helva Bluffs",
+      "en": "<link=\"qzhmap1578690407722337637\"><size=80%>Helva Bluffs</size></link>",
+      "zh": "<link=\"qzhmap1578690407722337637\"><size=80%>赫尔瓦峭壁</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        57.4375,
+        81.5625
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 2500783167489063049,
+      "source_alignment": 2,
+      "alignment": 2,
+      "source_en": "The Archives",
+      "en": "<link=\"qzhmap2500783167489063049\"><size=80%>The Archives</size></link>",
+      "zh": "<link=\"qzhmap2500783167489063049\"><size=80%>档案馆</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        56.0625,
+        65.375
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 4383114031759414572,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Zrodlo",
+      "en": "<link=\"qzhmap4383114031759414572\"><size=70%>Zrodlo</size></link>",
+      "zh": "<link=\"qzhmap4383114031759414572\"><size=70%>兹鲁德沃</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        139.25,
+        106.375
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 5143689191241382023,
+      "source_alignment": 1,
+      "alignment": 0,
+      "source_en": "",
+      "en": "<link=\"qzhmap5143689191241382023\"><size=70%>Hermit's\nCabin</size></link>",
+      "zh": "<link=\"qzhmap5143689191241382023\"><size=70%>隐士\n小屋</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        117.625,
+        99.9375
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 6009597917710868973,
+      "source_alignment": 0,
+      "alignment": 2,
+      "source_en": "Campsite",
+      "en": "<link=\"qzhmap6009597917710868973\"><size=80%>Campsite</size></link>",
+      "zh": "<link=\"qzhmap6009597917710868973\"><size=80%>营地</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        76.125,
+        58.875
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 6901489650079574787,
+      "source_alignment": 0,
+      "alignment": 3,
+      "source_en": "Therme",
+      "en": "<link=\"qzhmap6901489650079574787\"><size=80%>Therme</size></link>",
+      "zh": "<link=\"qzhmap6901489650079574787\"><size=80%>瑟尔梅</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        125.5625,
+        80.0
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 8212071770755067196,
+      "source_alignment": 1,
+      "alignment": 2,
+      "source_en": "Helva",
+      "en": "<link=\"qzhmap8212071770755067196\"><size=70%>Helva\nTerraces</size></link>",
+      "zh": "<link=\"qzhmap8212071770755067196\"><size=70%>赫尔瓦\n梯田</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        68.625,
+        98.375
+      ]
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 8342527515565520812,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "",
+      "en": "",
+      "zh": "",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        127.5,
+        103.375
+      ],
+      "hidden_duplicate_caption": true
+    },
+    {
+      "world": "ethosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 9198038601420851731,
+      "source_alignment": 1,
+      "alignment": 3,
+      "source_en": "",
+      "en": "<link=\"qzhmap9198038601420851731\"><size=80%>Northern Checkpoint</size></link>",
+      "zh": "<link=\"qzhmap9198038601420851731\"><size=80%>北部检查站</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        126.0625,
+        66.1875
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -7593745988075835456,
+      "source_alignment": 1,
+      "alignment": 3,
+      "source_en": "Siope Monastery",
+      "en": "<link=\"qzhmap-7593745988075835456\"><size=80%>Siope Monastery</size></link>",
+      "zh": "<link=\"qzhmap-7593745988075835456\"><size=80%>西奥佩修道院</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        96.125,
+        100.5625
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -7346586336695801037,
+      "source_alignment": 1,
+      "alignment": 3,
+      "source_en": "",
+      "en": "<link=\"qzhmap-7346586336695801037\"><size=80%>Leornia</size></link>",
+      "zh": "<link=\"qzhmap-7346586336695801037\"><size=80%>莱奥尼亚</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        47.0,
+        37.125
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -6220041312930135562,
+      "source_alignment": 0,
+      "alignment": 3,
+      "source_en": "Las Caidas",
+      "en": "<link=\"qzhmap-6220041312930135562\"><size=80%>Las\nCaidas</size></link>",
+      "zh": "<link=\"qzhmap-6220041312930135562\"><size=80%>拉斯凯达斯</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        19.9375,
+        100.4375
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -4853654031889129941,
+      "source_alignment": 0,
+      "alignment": 2,
+      "source_en": "Island Shrine",
+      "en": "<link=\"qzhmap-4853654031889129941\"><size=80%>Island Shrine</size></link>",
+      "zh": "<link=\"qzhmap-4853654031889129941\"><size=80%>孤岛圣祠</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        163.8125,
+        16.1875
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -2766486333651346604,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "",
+      "en": "<link=\"qzhmap-2766486333651346604\"><size=80%>Desert Alcove</size></link>",
+      "zh": "<link=\"qzhmap-2766486333651346604\"><size=80%>沙漠隐谷</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        91.0,
+        64.0625
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -95331435750858811,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Explorer's Guild",
+      "en": "<link=\"qzhmap-95331435750858811\"><size=80%>Explorer's\nGuild</size></link>",
+      "zh": "<link=\"qzhmap-95331435750858811\"><size=80%>探险家\n公会</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        25.0,
+        60.8125
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 82969938652285820,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Mt. Nibaros",
+      "en": "<link=\"qzhmap82969938652285820\"><size=80%>Mt.\nNibaros</size></link>",
+      "zh": "<link=\"qzhmap82969938652285820\"><size=80%>尼巴罗斯山</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        80.0,
+        83.0
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 843422007787310389,
+      "source_alignment": 0,
+      "alignment": 3,
+      "source_en": "Dustwind Gulch",
+      "en": "<link=\"qzhmap843422007787310389\"><size=80%>Dustwind Gulch</size></link>",
+      "zh": "<link=\"qzhmap843422007787310389\"><size=80%>尘风峡谷</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        93.1875,
+        58.375
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 4901230177897956679,
+      "source_alignment": 2,
+      "alignment": 0,
+      "source_en": "Feorlan",
+      "en": "<link=\"qzhmap4901230177897956679\"><size=80%>Feorlan</size></link>",
+      "zh": "<link=\"qzhmap4901230177897956679\"><size=80%>费奥兰</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        79.0625,
+        59.9375
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 5168539802094719768,
+      "source_alignment": 1,
+      "alignment": 0,
+      "source_en": "South Island",
+      "en": "<link=\"qzhmap5168539802094719768\"><size=80%>South Island</size></link>",
+      "zh": "<link=\"qzhmap5168539802094719768\"><size=80%>南部岛屿</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        101.375,
+        170.375
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 6020464206613672061,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Iretone",
+      "en": "<link=\"qzhmap6020464206613672061\"><size=80%>Iretone</size></link>",
+      "zh": "<link=\"qzhmap6020464206613672061\"><size=80%>艾雷顿</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        36.0,
+        41.125
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 7506286731534937460,
+      "source_alignment": 0,
+      "alignment": 3,
+      "source_en": "Leornia",
+      "en": "<link=\"qzhmap7506286731534937460\"><size=80%>Leornia</size></link>",
+      "zh": "<link=\"qzhmap7506286731534937460\"><size=80%>莱奥尼亚</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        47.0,
+        37.125
+      ]
+    },
+    {
+      "world": "logosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 9185103243400663439,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "",
+      "en": "<link=\"qzhmap9185103243400663439\"><size=80%>Wigram\nMansion</size></link>",
+      "zh": "<link=\"qzhmap9185103243400663439\"><size=80%>威格拉姆\n宅邸</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        54.375,
+        53.375
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -8848593572195267877,
+      "source_alignment": 0,
+      "alignment": 2,
+      "source_en": "Hermit Cave",
+      "en": "<link=\"qzhmap-8848593572195267877\"><size=80%>Hermit\nCave</size></link>",
+      "zh": "<link=\"qzhmap-8848593572195267877\"><size=80%>隐士洞窟</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        119.9375,
+        134.4375
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -7120844694395777642,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Mt. Nibaros",
+      "en": "<link=\"qzhmap-7120844694395777642\"><size=80%>Mt. Nibaros</size></link>",
+      "zh": "<link=\"qzhmap-7120844694395777642\"><size=80%>尼巴罗斯山</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        80.0,
+        83.0
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -4944287629909709767,
+      "source_alignment": 3,
+      "alignment": 3,
+      "source_en": "Wind Gate",
+      "en": "<link=\"qzhmap-4944287629909709767\"><size=80%>Wind\nGate</size></link>",
+      "zh": "<link=\"qzhmap-4944287629909709767\"><size=80%>风之门</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        75.25,
+        110.375
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -3303950933484745239,
+      "source_alignment": 2,
+      "alignment": 1,
+      "source_en": "Seren",
+      "en": "<link=\"qzhmap-3303950933484745239\"><size=80%>Seren</size></link>",
+      "zh": "<link=\"qzhmap-3303950933484745239\"><size=80%>塞伦</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        36.0,
+        86.25
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -2816887858145314843,
+      "source_alignment": 1,
+      "alignment": 2,
+      "source_en": "Yina Shrine",
+      "en": "<link=\"qzhmap-2816887858145314843\"><size=80%>Yina\nShrine</size></link>",
+      "zh": "<link=\"qzhmap-2816887858145314843\"><size=80%>伊纳\n圣祠</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        25.375,
+        94.3125
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": -1417431861724121901,
+      "source_alignment": 3,
+      "alignment": 3,
+      "source_en": "Isolated House",
+      "en": "<link=\"qzhmap-1417431861724121901\"><size=80%>Isolated House</size></link>",
+      "zh": "<link=\"qzhmap-1417431861724121901\"><size=80%>偏僻小屋</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        65.0,
+        76.1875
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 1711149163906885371,
+      "source_alignment": 0,
+      "alignment": 3,
+      "source_en": "North Beach",
+      "en": "<link=\"qzhmap1711149163906885371\"><size=80%>North Beach</size></link>",
+      "zh": "<link=\"qzhmap1711149163906885371\"><size=80%>北部海滩</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        46.0,
+        51.0
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 2889592145067984353,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Swamp",
+      "en": "<link=\"qzhmap2889592145067984353\"><size=80%>Swamp</size></link>",
+      "zh": "<link=\"qzhmap2889592145067984353\"><size=80%>沼泽</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        61.0625,
+        121.0625
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 5019263253238126522,
+      "source_alignment": 1,
+      "alignment": 3,
+      "source_en": "",
+      "en": "<link=\"qzhmap5019263253238126522\"><size=80%>River Crossing</size></link>",
+      "zh": "<link=\"qzhmap5019263253238126522\"><size=80%>渡河处</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        59.125,
+        97.625
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 5110917223385831392,
+      "source_alignment": 3,
+      "alignment": 3,
+      "source_en": "The Archives",
+      "en": "<link=\"qzhmap5110917223385831392\"><size=80%>The Archives</size></link>",
+      "zh": "<link=\"qzhmap5110917223385831392\"><size=80%>档案馆</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        56.25,
+        66.3125
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 6026088272837669882,
+      "source_alignment": 2,
+      "alignment": 2,
+      "source_en": "Earth Shrine",
+      "en": "<link=\"qzhmap6026088272837669882\"><size=80%>Earth Shrine</size></link>",
+      "zh": "<link=\"qzhmap6026088272837669882\"><size=80%>地之圣祠</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        58.25,
+        79.3125
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 6819791388079114300,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "Barbarian Camp",
+      "en": "<link=\"qzhmap6819791388079114300\"><size=80%>Barbarian\nCamp</size></link>",
+      "zh": "<link=\"qzhmap6819791388079114300\"><size=80%>蛮族营地</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        162.8125,
+        132.375
+      ]
+    },
+    {
+      "world": "pathosWorldMap",
+      "asset": "CAB-a8418d8e9a7588edcc38b986a5c78eb6",
+      "id": 8786641583274008727,
+      "source_alignment": 1,
+      "alignment": 1,
+      "source_en": "",
+      "en": "<link=\"qzhmap8786641583274008727\"><size=80%>Seren Hinterland</size></link>",
+      "zh": "<link=\"qzhmap8786641583274008727\"><size=80%>塞伦腹地</size></link>",
+      "offset": [
+        0,
+        0
+      ],
+      "marker": [
+        33.0,
+        99.0
+      ]
+    }
+  ]
+}

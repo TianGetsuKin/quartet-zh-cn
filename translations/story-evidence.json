@@ -1,0 +1,588 @@
+{
+  "本的起点": [
+    {
+      "source_row_1based": 93,
+      "id": "line:0f3ab8b",
+      "en": "Dimitri's Restaurant, in the city of Akos, southern Tyche."
+    },
+    {
+      "source_row_1based": 100,
+      "id": "line:0c478e5",
+      "en": "BEN: He's bounced two paychecks."
+    },
+    {
+      "source_row_1based": 132,
+      "id": "line:085930a",
+      "en": "AGATA: I am Agata, of the Order of the Phylax."
+    },
+    {
+      "source_row_1based": 135,
+      "id": "line:0ba7ca0",
+      "en": "AGATA: Three days ago, you manifested magical powers for the first time."
+    },
+    {
+      "source_row_1based": 141,
+      "id": "line:00f1d1f",
+      "en": "AGATA: No, it is possible for anyone to manifest magical powers, at any time."
+    },
+    {
+      "source_row_1based": 146,
+      "id": "line:0c883da",
+      "en": "BEN: My landlord isn't going to care whether I have magic or not."
+    }
+  ],
+  "世界规则": [
+    {
+      "source_row_1based": 2083,
+      "id": "line:02fadb4",
+      "en": "AGATA: Our mission is to prevent the use of dangerous magic."
+    },
+    {
+      "source_row_1based": 2086,
+      "id": "line:03b5a41",
+      "en": "AGATA: But magical powers can emerge in anyone. Sometimes... in the wrong person, in the wrong place."
+    },
+    {
+      "source_row_1based": 2087,
+      "id": "line:063e44e",
+      "en": "AGATA: And that is simply the way the world works. The order is our attempt to save what is left of civilization."
+    },
+    {
+      "source_row_1based": 5542,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5541",
+      "en": "KERAUNOS: It is a strange tale. It begins nearly a hundred and fifty years ago..."
+    },
+    {
+      "source_row_1based": 5546,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5545",
+      "en": "KERAUNOS: Why should we do anything? Magic is what it is."
+    },
+    {
+      "source_row_1based": 5551,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5550",
+      "en": "HAELAN: His warlike intentions were lamentable, but there is still much we can learn from the way he systematized magic."
+    },
+    {
+      "source_row_1based": 5552,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5551",
+      "en": "HEIZER: Yes! Imagine if the right people had that power!"
+    },
+    {
+      "source_row_1based": 5556,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5555",
+      "en": "LE DERNIER: Magic has been the amplifier of human suffering, through all of history."
+    },
+    {
+      "source_row_1based": 5558,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5557",
+      "en": "LE DERNIER: I would rather see a world without magic."
+    },
+    {
+      "source_row_1based": 5561,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5560",
+      "en": "HAELAN: Abandoning magic would be going too far."
+    },
+    {
+      "source_row_1based": 5562,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5561",
+      "en": "HAELAN: Surely it could be studied and regulated, before it comes to something so drastic?"
+    },
+    {
+      "source_row_1based": 5594,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-bernardScene-5593",
+      "en": "BERNARD: Because the whole world lost their magic."
+    },
+    {
+      "source_row_1based": 5601,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-bernardScene-5600",
+      "en": "BERNARD: The wild creatures still have their magic, and now we have very little to fight back with. So, good luck."
+    },
+    {
+      "source_row_1based": 5615,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosLight-5614",
+      "en": "KERAUNOS: When we left Mt. Nibaros, Pierre Le Dernier's wish for a world without magic had come true."
+    },
+    {
+      "source_row_1based": 5617,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosLight-5616",
+      "en": "KERAUNOS: Not only that. I did not wish for anything. I believed as the wise men of my country believed: that magic was like the wind."
+    },
+    {
+      "source_row_1based": 5618,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosLight-5617",
+      "en": "KERAUNOS: You do not know where it comes from, or where it is going. And so a separate world was born."
+    },
+    {
+      "source_row_1based": 5623,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosLight-5622",
+      "en": "CORDELIA: Four worlds must have been created. One for each of the sages."
+    },
+    {
+      "source_row_1based": 5626,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosLight-5625",
+      "en": "CORDELIA: But the truth must be because Haelan Reed wanted a world where magic could be studied and controlled. That desire created yet another world."
+    },
+    {
+      "source_row_1based": 5636,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosLight-5635",
+      "en": "KERAUNOS: In all four worlds, there is one constant. The ancient ruins of Shinar were unaffected by the division of the worlds."
+    },
+    {
+      "source_row_1based": 5637,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosLight-5636",
+      "en": "KERAUNOS: The most valuable Shinari relic is a book called the Palimpsest. It resides at the bottom of the Royal Archives, northeast of Seren."
+    },
+    {
+      "source_row_1based": 5638,
+      "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosLight-5637",
+      "en": "KERAUNOS: If all of us stand beside that book, in three different worlds, I should be able to triangulate our relative positions. Then, I can help you cross over."
+    }
+  ],
+  "会合及口语翻译": [
+    {
+      "source_row_1based": 1334,
+      "id": "line:0eda1fa",
+      "en": "KERAUNOS: ...but I found only a few notes, scratched out by scholars who were left stranded, after the worlds split."
+    },
+    {
+      "source_row_1based": 1336,
+      "id": "line:00bd487",
+      "en": "KERAUNOS: While we are all standing near the Palimpsest, I can accurately assess your positions and allow you to cross between worlds."
+    },
+    {
+      "source_row_1based": 1346,
+      "id": "line:0e236b3",
+      "en": "BEN: Wait, you understand me!? And I understood you...?"
+    },
+    {
+      "source_row_1based": 1347,
+      "id": "line:0d3c6bb",
+      "en": "NIKOLAI: Yeah, Zikaron's magic allows everyone to understand each other."
+    },
+    {
+      "source_row_1based": 1348,
+      "id": "line:0dd64bf",
+      "en": "BEN: Oh, man, thank you. Speaking their language is like talking with grapes in your mouth."
+    }
+  ],
+  "成长与选择": [
+    {
+      "source_row_1based": 5957,
+      "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexAssault-5956",
+      "en": "URALT: Society must be ruled by the best men. Not merely good men in relation to some arbitrary standard, but men of absolute virtue."
+    },
+    {
+      "source_row_1based": 5961,
+      "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexAssault-5960",
+      "en": "URALT: Everything I have set in motion is permissible in the defense of civilization, itself."
+    },
+    {
+      "source_row_1based": 5962,
+      "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexAssault-5961",
+      "en": "ALEXANDRA: What's the point of civilization..."
+    },
+    {
+      "source_row_1based": 5963,
+      "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexAssault-5962",
+      "en": "ALEXANDRA: ...if you're only using it to sacrifice more people, faster?"
+    },
+    {
+      "source_row_1based": 5973,
+      "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexAssault-5972",
+      "en": "MAIMUN: These are the memories of the people whom Chancellor Uralt has destroyed."
+    },
+    {
+      "source_row_1based": 5974,
+      "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexAssault-5973",
+      "en": "MAIMUN: One of Zikaron's primary purposes is to allow them to formally accuse Uralt of his crimes."
+    },
+    {
+      "source_row_1based": 5986,
+      "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexPalaceDistraction-5985",
+      "en": "ALEXANDRA: All of us."
+    },
+    {
+      "source_row_1based": 5987,
+      "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexPalaceDistraction-5986",
+      "en": "ALEXANDRA: I've got the keys! Everyone get ready!"
+    },
+    {
+      "source_row_1based": 6009,
+      "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-radioKill-6008",
+      "en": "ALEXANDRA: The copper in the wires."
+    },
+    {
+      "source_row_1based": 6010,
+      "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-radioKill-6009",
+      "en": "ALEXANDRA: I can hear it... feel it. I know where it's all going."
+    }
+  ],
+  "牺牲": [
+    {
+      "source_row_1based": 6804,
+      "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apokatastasisScene-6803",
+      "en": "MAIMUN: You must fulfil Zikaron's final function. He brought you here, but he cannot cast the spell."
+    },
+    {
+      "source_row_1based": 6806,
+      "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apokatastasisScene-6805",
+      "en": "MAIMUN: Thousands of years ago, my people stole a magic spell from their oppressors, the Shinari."
+    },
+    {
+      "source_row_1based": 6822,
+      "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apokatastasis6-6821",
+      "en": "????: Your friend is very weak. The energy of the spell is the only thing keeping him alive. It won't last much longer."
+    },
+    {
+      "source_row_1based": 6824,
+      "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apokatastasis6-6823",
+      "en": "HAELAN: I'm sorry, Nikolai. I should never have let this happen."
+    },
+    {
+      "source_row_1based": 6825,
+      "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apokatastasis6-6824",
+      "en": "HAELAN: I suspected that, like me, Gustav Heizer must still be alive, after all these years."
+    },
+    {
+      "source_row_1based": 6828,
+      "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apokatastasis6-6827",
+      "en": "HAELAN: My time, and the world that I created, are at an end. You will have to determine what comes next."
+    },
+    {
+      "source_row_1based": 6829,
+      "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apokatastasis6-6828",
+      "en": "HAELAN: But I can still do one last thing."
+    },
+    {
+      "source_row_1based": 6830,
+      "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apokatastasis6-6829",
+      "en": "<align=\"center\">...take me instead... </align>"
+    },
+    {
+      "source_row_1based": 6858,
+      "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apoEpilogue-6857",
+      "en": "NIKOLAI: A sergeant's job is to take someone else's big ideas and get them done... with a broken compass, a bad map[oxfordComma /] and half a box of ammo."
+    }
+  ],
+  "记忆与文字": [
+    {
+      "source_row_1based": 8636,
+      "id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-dreyfussReintro-8635",
+      "en": "SYMON: Tati, what if it's my grandparents who spoke through the memory golem? They went to the temple to commit their memories to him, before the Ausleners came."
+    },
+    {
+      "source_row_1based": 8639,
+      "id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-dreyfussReintro-8638",
+      "en": "DREYFUSS: Yes... there's centuries of memory inside him. Maybe millennia. I can see the encoding spells."
+    },
+    {
+      "source_row_1based": 8644,
+      "id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-dreyfussReintro-8643",
+      "en": "DREYFUSS: To preserve our culture, memory golems were built to think, hide[oxfordComma /] and even fight back."
+    },
+    {
+      "source_row_1based": 8847,
+      "id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-dreyfussGenealogy-8846",
+      "en": "CORDELIA: I have noticed that Zikaron's translation magic does not work on text."
+    },
+    {
+      "source_row_1based": 8870,
+      "id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-shrineScene2-8869",
+      "en": "NIKOLAI: Are you going to extract the memories from Zikaron?"
+    },
+    {
+      "source_row_1based": 8872,
+      "id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-shrineScene2-8871",
+      "en": "DREYFUSS: Soon, duplicate copies of Zikaron's memories will be stored here, for our people to find."
+    }
+  ],
+  "山顶争论": [
+    {
+      "source_row_1based": 11020,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11019",
+      "en": "CORDELIA: We must put the world back the way it was, in the beginning."
+    },
+    {
+      "source_row_1based": 11021,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11020",
+      "en": "BEN: Why?"
+    },
+    {
+      "source_row_1based": 11022,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11021",
+      "en": "CORDELIA: Because it is the right and natural state of the world. The split brought about a cataclysm, in most places, did it not?"
+    },
+    {
+      "source_row_1based": 11023,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11022",
+      "en": "CORDELIA: Almost all of history, all of mankind's journey toward enlightenment, in fact, took place in a unified world. Surely, we want to return everyone to that state?"
+    },
+    {
+      "source_row_1based": 11024,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11023",
+      "en": "AGATA: I think I have to agree. Anything would be better than the situation we have in Tyche, right now."
+    },
+    {
+      "source_row_1based": 11025,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11024",
+      "en": "AGATA: If putting the world back the way it was would stop that chaos, then we have to do it."
+    },
+    {
+      "source_row_1based": 11026,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11025",
+      "en": "JEROME: But at what cost?"
+    },
+    {
+      "source_row_1based": 11027,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11026",
+      "en": "NIKOLAI: What do you mean?"
+    },
+    {
+      "source_row_1based": 11028,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11027",
+      "en": "JEROME: The split between the worlds caused a famine, a war[oxfordComma /] and a series of natural disasters."
+    },
+    {
+      "source_row_1based": 11029,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11028",
+      "en": "JEROME: Who knows what might happen when we reverse it?"
+    },
+    {
+      "source_row_1based": 11030,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11029",
+      "en": "NIKOLAI: It's gotta be better than what's happening now, right?"
+    },
+    {
+      "source_row_1based": 11031,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11030",
+      "en": "NIKOLAI: I mean, there's a war going on, and if EITHER side wins... it will be a bloodbath. Millions will die. We need other countries there to prevent it."
+    },
+    {
+      "source_row_1based": 11032,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11031",
+      "en": "JEROME: And I will help them, where I am able."
+    },
+    {
+      "source_row_1based": 11033,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11032",
+      "en": "JEROME: But I also swore an oath, as a doctor, to do no harm."
+    },
+    {
+      "source_row_1based": 11034,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11033",
+      "en": "CORDELIA: And you have violated that oath, countless times. Including just a moment ago."
+    },
+    {
+      "source_row_1based": 11035,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11034",
+      "en": "JEROME: That's not the same, and you know it. When someone takes up arms and steps onto a battlefield, they consent to whatever might happen next."
+    },
+    {
+      "source_row_1based": 11036,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11035",
+      "en": "BEN: Can we just hang on, a sec? I'd be afraid to even plan a menu in your country, because you're all so afraid of spices."
+    },
+    {
+      "source_row_1based": 11037,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11036",
+      "en": "BEN: But we're supposed to just decide how the WORLD works, for EVERYBODY? I don't think so."
+    },
+    {
+      "source_row_1based": 11038,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11037",
+      "en": "NIKOLAI: We have to do something. We can't come all this way and take no action."
+    },
+    {
+      "source_row_1based": 11039,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11038",
+      "en": "JUNA: Do we really have to do anything?"
+    },
+    {
+      "source_row_1based": 11040,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11039",
+      "en": "JUNA: I know humans suffered a lot from the worlds splitting... but plenty of other people did, too."
+    },
+    {
+      "source_row_1based": 11041,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11040",
+      "en": "JUNA: There were animals that lost their whole food source. Flocks and herds that were split up. Entire species of animals that died in horrible ways."
+    },
+    {
+      "source_row_1based": 11042,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11041",
+      "en": "JUNA: If they were voting with us, right now, things would be way different."
+    },
+    {
+      "source_row_1based": 11043,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11042",
+      "en": "CORDELIA: So... this is a vote?"
+    },
+    {
+      "source_row_1based": 11044,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11043",
+      "en": "CORDELIA: Very well, then. Since Zikaron probably lacks the capacity to contribute..."
+    },
+    {
+      "source_row_1based": 11045,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11044",
+      "en": "CORDELIA: It comes down to you, dear girl."
+    },
+    {
+      "source_row_1based": 11046,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11045",
+      "en": "ALEXANDRA: Look..."
+    },
+    {
+      "source_row_1based": 11047,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11046",
+      "en": "ALEXANDRA: It feels like we've been on this whole quest for a long time. But... not that long ago, I was just trying to run a grocery store."
+    },
+    {
+      "source_row_1based": 11048,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11047",
+      "en": "ALEXANDRA: And now that this is over... I'll probably just go right back there. And that'll be enough for me."
+    },
+    {
+      "source_row_1based": 11049,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11048",
+      "en": "ALEXANDRA: (What am I even trying to say...?)"
+    },
+    {
+      "source_row_1based": 11050,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11049",
+      "en": "ALEXANDRA: The dead guy... the chancellor... I met him. I was alone with him. And I only know one thing, for sure."
+    },
+    {
+      "source_row_1based": 11051,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11050",
+      "en": "ALEXANDRA: He made his last speech for a reason. To make us think the way he wanted us to think."
+    },
+    {
+      "source_row_1based": 11052,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11051",
+      "en": "ALEXANDRA: That's what he did for a living. That's the kind of person he was."
+    },
+    {
+      "source_row_1based": 11053,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11052",
+      "en": "ALEXANDRA: I think he wanted us to either keep the worlds split, or join them back together. He would have been happy, either way."
+    },
+    {
+      "source_row_1based": 11054,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11053",
+      "en": "ALEXANDRA: Because either way, he would be the reason why the world changed. And everyone would remember him for it."
+    },
+    {
+      "source_row_1based": 11055,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11054",
+      "en": "CORDELIA: Sadly, those are the two options we are presented with."
+    },
+    {
+      "source_row_1based": 11056,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11055",
+      "en": "BEN: Really?"
+    },
+    {
+      "source_row_1based": 11057,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11056",
+      "en": "BEN: If she's right about that bastard... and lemme tell ya, he sounds like most of the bastards I've ever met..."
+    },
+    {
+      "source_row_1based": 11058,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11057",
+      "en": "BEN: Then why do we need to do what he wants? Let's stick it to him, instead."
+    },
+    {
+      "source_row_1based": 11059,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11058",
+      "en": "CORDELIA: Incredible insights, as usual."
+    },
+    {
+      "source_row_1based": 11060,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11059",
+      "en": "NIKOLAI: Hang on, he's right."
+    },
+    {
+      "source_row_1based": 11061,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11060",
+      "en": "NIKOLAI: They trained us for this, in the army. The enemy wants to force you into their preferred course of action."
+    },
+    {
+      "source_row_1based": 11062,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11061",
+      "en": "NIKOLAI: But you don't have to take the bait. Coming up with a new strategy that the enemy doesn't expect... that's what you're SUPPOSED to do."
+    },
+    {
+      "source_row_1based": 11063,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11062",
+      "en": "JEROME: Something a bit more down-the-middle?"
+    },
+    {
+      "source_row_1based": 11064,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11063",
+      "en": "ALEXANDRA: I don't actually know what that would be, though..."
+    },
+    {
+      "source_row_1based": 11065,
+      "id": "line:Assets/Cutscenes/chapter11/nibarosPeak.yarn-uraltFinalConfrontation-11064",
+      "en": "AGATA: I have an idea."
+    }
+  ],
+  "生活尾声": [
+    {
+      "source_row_1based": 10851,
+      "id": "line:Assets/Cutscenes/credits.yarn-alexCreditsStinger-10850",
+      "en": "ALEXANDRA: (Why is saving the world less complicated than running a shop...?)"
+    },
+    {
+      "source_row_1based": 10854,
+      "id": "line:Assets/Cutscenes/credits.yarn-alexCreditsStinger-10853",
+      "en": "MARIE: No, honey. The other fridge."
+    },
+    {
+      "source_row_1based": 10858,
+      "id": "line:Assets/Cutscenes/credits.yarn-alexCreditsStinger-10857",
+      "en": "ALEXANDRA: Yeah, it's pretty much cold all year round, over there. I think the only problem would be if the bears find a way in."
+    },
+    {
+      "source_row_1based": 10863,
+      "id": "line:Assets/Cutscenes/credits.yarn-alexCreditsStinger-10862",
+      "en": "ALEXANDRA: Everything's perfect."
+    },
+    {
+      "source_row_1based": 12964,
+      "id": "line:Assets/Cutscenes/chapter11/ngpEpilogue.yarn-ngpEpilogue-12963",
+      "en": "ALEXANDRA: I helped him alter the soil chemistry in his tomato patch."
+    },
+    {
+      "source_row_1based": 12967,
+      "id": "line:Assets/Cutscenes/chapter11/ngpEpilogue.yarn-ngpEpilogue-12966",
+      "en": "JUNA: Most of that was just using my nose."
+    },
+    {
+      "source_row_1based": 12969,
+      "id": "line:Assets/Cutscenes/chapter11/ngpEpilogue.yarn-ngpEpilogue-12968",
+      "en": "BEN: Niko helped out by fixing my ovens to heat perfectly."
+    },
+    {
+      "source_row_1based": 12970,
+      "id": "line:Assets/Cutscenes/chapter11/ngpEpilogue.yarn-ngpEpilogue-12969",
+      "en": "NIKOLAI: That wasn't magic. I just installed better heat sensors and insulation."
+    },
+    {
+      "source_row_1based": 12974,
+      "id": "line:Assets/Cutscenes/chapter11/ngpEpilogue.yarn-ngpEpilogue-12973",
+      "en": "JEROME: There may or may not be one olive grove which gets slightly more rain than the rest."
+    },
+    {
+      "source_row_1based": 12980,
+      "id": "line:Assets/Cutscenes/chapter11/ngpEpilogue.yarn-ngpEpilogue-12979",
+      "en": "CORDELIA: You may be without peer, in any world that exists."
+    },
+    {
+      "source_row_1based": 12990,
+      "id": "line:Assets/Cutscenes/chapter11/ngpEpilogue.yarn-ngpEpilogue-12989",
+      "en": "BEN: How am I supposed to remember him? He never eats anything!"
+    }
+  ]
+}

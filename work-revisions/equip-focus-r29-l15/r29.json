@@ -1,0 +1,27 @@
+{
+  "revision": "r29",
+  "archive": "四重奏-1.5.20260912-Windows-r29-简体中文完整覆盖包.zip",
+  "archive_sha256": "34dfaed432bba9ca0cc3325423d42788a0ccd358f511222d5acf76a7ea8aea84",
+  "files": {
+    "GameAssembly.dll": "29a4e9780f4a9c8a357ec8aaa2df87338e745e6077da9fe8dcbfb1fcaf9bf698",
+    "Quartet_Data/globalgamemanagers.assets": "e3d093d8491ecd405fd036cad3e27261905b96b61028799ebe21e22ad20061ce",
+    "Quartet_Data/il2cpp_data/Metadata/global-metadata.dat": "9c9b6bdbda795b396421bc1696889185f63a04d6b1ce34f666309c7c57857ce2",
+    "Quartet_Data/level2": "b664ad29bce9e5852a055ff091f46792de887adc5daba0df458d160f69a08fd9",
+    "Quartet_Data/level3": "4bde1b74c1aca23da72f14daabe35b3b2d1eaeff729def04e53a436b657eab90",
+    "Quartet_Data/level4": "0061820fb9b1770c829a464cdf97b6d2912dcbdeccf169306fbed6e98514fd8b",
+    "Quartet_Data/level5": "2f62bd83fff81e8b7398f84758da64edca6d184f62b7ed0619987afeb136fa59",
+    "Quartet_Data/level6": "9b4f8b10bd6a160b7ba9ec146b412a08a7142e0bb7b2c8df655f1cb7e2db46b9",
+    "Quartet_Data/level7": "6daad5de66ec8a8bd48a6110b662e18a5c27a8cd9dc76f4405e3a8fca61750c9",
+    "Quartet_Data/resources.assets": "e5c7baf4dfe51288b507bd13963cfea30227211182db54f77bc84789ff94c695",
+    "Quartet_Data/sharedassets2.assets": "b5e00f9f3ee2ece48edcb776caf5aba7040abf8c59c2ed6fb44b577fd0cb312d",
+    "Quartet_Data/sharedassets3.assets": "f46a7c7ff8d57759f0b42bd6c9046184ee664fd5cee24ad1f74bf9d3ffa5f951",
+    "Quartet_Data/sharedassets4.assets": "34f34ef91d2c6699feb0bb8a182cf06761dedd6fbaefec6777d30610afe0ded6",
+    "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/default_scenes_all_0d640517810de65c16c500a8bd13c06f.bundle": "488dc3134e604f535c54989f9193146b0058d77a380c8b0479499d6d228eb551",
+    "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/maps_assets_all_a4fde8d56f7eb31d0025f81375dba6f0.bundle": "7f7637c1463bde854d4dd640f34cb05d1f687992c9598dca984699c7e4c52b06",
+    "QuartetRecentItems.dll": "5f9989494383addb5e67d19f304910e95bd5a51088eedc686a2c66ead0003f6c",
+    "QuartetZhLanguage.dll": "fb287663073a2bac186def142e9585817d3f60395b3b3464f1fc618b90a0335a",
+    "Quartet_Data/sharedassets7.assets.resS": "f0b093a9daf4bc9308b819147a9464710ff59af91429e4bf17d375c06b0ece79"
+  },
+  "offline_fixture": true,
+  "game_visual_verified": false
+}

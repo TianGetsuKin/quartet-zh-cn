@@ -1,0 +1,16 @@
+{
+  "scope": "native Mono HeroUIRenderSkill.targetingText only",
+  "source_method": "Quartet.Behaviours.HeroUIRenderSkill.RenderTargetingText",
+  "entries": {
+    "Self": "自身",
+    "Enemy": "敌方单体",
+    "Enemies": "敌方全体",
+    "Ally": "我方单体",
+    "Allies": "我方全体",
+    "One": "单体",
+    "Everyone": "敌我全体",
+    "Random": "随机目标"
+  },
+  "basis": "Original native method literals and existing Windows skill-target display terminology; enum values, original method and generic Allies context remain unchanged.",
+  "review_status": "source reviewed; new native scoped helper pending build and actual UI acceptance"
+}

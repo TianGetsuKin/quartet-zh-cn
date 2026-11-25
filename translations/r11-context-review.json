@@ -1,0 +1,471 @@
+{
+  "revision": "r11",
+  "reviewed_scene_rows": 54,
+  "scope": "Complete prologue including menu rows and the 18-line Weiss story; broader punctuation audit remains a candidate list, not a blanket correction",
+  "changes": [
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5698",
+      "source": "KERAUNOS: We're almost at the peak. General Corsin must be near.",
+      "source_sha256": "afbf91d6adf9e0934172778d03974df5d94ec3b7980f43ee2b920453681e63af",
+      "before": "KERAUNOS: 快到山顶了。科尔辛将军一定就在附近。",
+      "after": "KERAUNOS: 快到山顶了，科尔辛将军一定就在附近。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5700",
+      "source": "HAELAN: I sense... something. There's supposed to be some sort of ancient magic here. Something like a curse.",
+      "source_sha256": "655dac0a558d0fd253ca3aa0d0e0b66687265f91fa7fc83c23c88f4760132b61",
+      "before": "HAELAN: 我感觉到……某种东西。据说这里有一种古老的魔法，像是诅咒。",
+      "after": "HAELAN: 我感觉到……一种异样的气息。听说这里有某种古老的魔法，像是诅咒。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5704",
+      "source": "LE DERNIER: It would be pathetic, if it weren't so monstrous.",
+      "source_sha256": "a78aa6b4d3d9b306568924ce38f59ad306cb4f0792b1117d044b5223f1120abe",
+      "before": "LE DERNIER: 若不是如此丧心病狂，简直可悲得可笑。",
+      "after": "LE DERNIER: 要不是这么丧心病狂，还真够可悲的。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5705",
+      "source": "HEIZER: Then let's put him down like the dog he is. That should solve the problem.",
+      "source_sha256": "5bebf6a6ff71f2d64abc9dc9d684f2c13eb811fbf4af6a7d366976414d11e091",
+      "before": "HEIZER: 那就像宰条狗一样宰了他。问题不就解决了。",
+      "after": "HEIZER: 那就像宰狗一样宰了他，问题不就解决了？",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5706",
+      "source": "CORSIN: Oh? Who's this?",
+      "source_sha256": "7f2eca35b8af29e1eb0d55c08b04784944e57c69317ae99df7c3084222abb268",
+      "before": "CORSIN: 哦？瞧瞧，是谁来了？",
+      "after": "CORSIN: 哦？瞧瞧，谁来了？",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5708",
+      "source": "KERAUNOS: Whatever you're doing, it is time to stop and lay down your arms.",
+      "source_sha256": "0bbd6c7d4d298575aa691292465e413ca6a43286c4e4c83faccc7ba78fcbd94a",
+      "before": "KERAUNOS: 无论你想做什么，都到此为止吧。放下武器。",
+      "after": "KERAUNOS: 不管你在做什么，立刻停手，放下武器！",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5709",
+      "source": "CORSIN: I've been told that many times before, but it was never true.",
+      "source_sha256": "bfb7cdfa25e56f8f5916285aae5e375f7975512abc480207b4329476dc59ce99",
+      "before": "CORSIN: 这话我听过很多次了，可从来没有哪次成过真。",
+      "after": "CORSIN: 这种话我听过无数次了，可哪次成真了？",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5710",
+      "source": "HAELAN: Do you see that? Did you feel it? The power of the elements...",
+      "source_sha256": "550458efe45dd5acb86304dc233760e5726f4774972a478f79523cf1e140c74f",
+      "before": "HAELAN: 你看见了吗？你感觉到了吗？元素的力量……",
+      "after": "HAELAN: 看见了吗？感觉到了吗？这股元素的力量……",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5711",
+      "source": "HAELAN: All that power is gathering here, right now. It destroyed Shinar! You can't possibly hope to control it!",
+      "source_sha256": "e1697cd5b3c9dc4dfe1b4900b3a994c0fbd7e3f672bd544df78acfb19cccea2a",
+      "before": "HAELAN: 所有力量此刻都在这里汇聚。它曾毁灭希纳尔！你怎么可能控制得了！",
+      "after": "HAELAN: 所有力量正汇聚于此！它曾毁灭希纳尔，你绝对控制不了它！",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5712",
+      "source": "CORSIN: My dear, if this were merely my first revolution, I would agree with you. But it is not.",
+      "source_sha256": "5461a800348afe50772b266d32597f369ebc1b70de633212aaae0924c279a31d",
+      "before": "CORSIN: 亲爱的，如果这只是我第一次发动革命，我倒会同意你。可惜并不是。",
+      "after": "CORSIN: 亲爱的，若这是我头一回发动革命，我倒会同意你——可惜，这不是头一回了。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5714",
+      "source": "CORSIN: Very well. You've beaten me. Take my sword.",
+      "source_sha256": "2a8c2f13f89fc66c02980527be65cf84feacd1ebd36ce4196db904b9457560b7",
+      "before": "CORSIN: 好吧。你们赢了。收下我的剑。",
+      "after": "CORSIN: 好吧，你们赢了。我的剑，拿去吧。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5716",
+      "source": "HEIZER: You don't deserve the honor.",
+      "source_sha256": "2c3bad592b444dda182ef6318240fd355298dbbbe3c376f21b01e9f429b7dd8a",
+      "before": "HEIZER: 你不配有这份体面。",
+      "after": "HEIZER: 这种体面，你不配。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5718",
+      "source": "HEIZER: What I came here to do.",
+      "source_sha256": "853d3644cc5860c9227c02ec12aa54bf64fd364800c1f6307aa39c8f064f1866",
+      "before": "HEIZER: 做了我来这里该做的事。",
+      "after": "HEIZER: 做了我来这里要做的事。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5719",
+      "source": "HAELAN: Now what...?",
+      "source_sha256": "d5bb84b74908ae7034a86935fb3c0ffacf0d9b285a713d37adeac9fd1efff0f1",
+      "before": "HAELAN: 现在怎么办……？",
+      "after": "HAELAN: 那现在……怎么办？",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5720",
+      "source": "HEIZER: You said it, yourself. The power of the elements... the power of magic is gathered here, right now.",
+      "source_sha256": "8d00814dda59767fd848fb3a64d03b07a4281262ed29abcbc3728073a4c119a7",
+      "before": "HEIZER: 你自己也说了。元素的力量……魔法的力量，此刻就汇聚在这里。",
+      "after": "HEIZER: 你自己也说了，元素的力量……魔法的力量，正汇聚在这里。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueTurnaround-5725",
+      "source": "KERAUNOS: We've come too far to turn back now.",
+      "source_sha256": "4023578b9fe650099b234648926f4f76a8ba2e5278ba9b269e43955315baa151",
+      "before": "KERAUNOS: 都走到这里了，不能再回头。",
+      "after": "KERAUNOS: 都走到这一步了，可不能现在回头。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueTurnaround-5726",
+      "source": "HAELAN: Let's not do something foolish.",
+      "source_sha256": "ceceda7446e13261b67a4cc97ffd8e8868e5c94bed48e67148371f1e6e7a782f",
+      "before": "HAELAN: 别做傻事。",
+      "after": "HAELAN: 我们还是别做傻事了。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueTurnaround-5727",
+      "source": "LE DERNIER: Giving up now would be the worst of all our options.",
+      "source_sha256": "bf7baa8f3a6f593874627108389d6997478518acdd74994cfae90256ab3a8529",
+      "before": "LE DERNIER: 现在放弃，才是最糟糕的选择。",
+      "after": "LE DERNIER: 眼下最糟糕的选择，就是放弃。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueTurnaround-5728",
+      "source": "HEIZER: This is no time to lose your nerve.",
+      "source_sha256": "aab0eafa6a7903fde47a0ab53b71f94ce0e6a16f525b5e1f8d7b0fd2c98cfcbe",
+      "before": "HEIZER: 现在可不是打退堂鼓的时候。",
+      "after": "HEIZER: 现在可不是退缩的时候！",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "prologue.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3561",
+      "source": "WEISS: So there's this corporal. He's assigned to a unit kicking all the Yina out of their houses in Zeistadt, and putting them on trains.",
+      "source_sha256": "377f43d59e9ca7d7ad4ea1cd4fb66867d1af9ca04164ebb29669fc925d700410",
+      "before": "WEISS: 话说有这么个下士，被编进一支部队，专门在蔡施塔特把伊纳人全赶出家门，再押上火车。",
+      "after": "WEISS: 话说有这么个下士，他那支部队在蔡施塔特的差事，就是把伊纳人统统赶出家门，再押上火车。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3562",
+      "source": "WEISS: And every time, the officers would come and take all the best stuff that got left behind. Like jewels and silverware and stuff.",
+      "source_sha256": "c2dc7b52e7c43b6da3a8463a1461441c731de290d996fe30ccb10e417c2a644e",
+      "before": "WEISS: 每回把人赶走，军官们就过来，把屋里留下的好东西全拿走。珠宝啊，银器啊，反正什么值钱拿什么。",
+      "after": "WEISS: 每次把人赶走，军官们就过来，把留下的好东西全拿走，珠宝啊、银器啊，尽挑值钱的拿。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3563",
+      "source": "MUELLER: Go figure. Officers get all the breaks.",
+      "source_sha256": "08a9ec9427d7633c37c587fde282673fecafaf89857554b2b39f891356cbbb3e",
+      "before": "MUELLER: 那还用说，好处哪次不是军官拿。",
+      "after": "MUELLER: 可不是嘛，好处都让军官占了。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3564",
+      "source": "KONITZ: I thought they had special volunteer units for deporting the Yina? I don't want to get assigned to that.",
+      "source_sha256": "80934defd85d61da2a7599db5305ee1f7c00abd9e5e68d1e30f97907e3e80996",
+      "before": "KONITZ: 驱逐伊纳人，不是有专门的志愿部队吗？我可不想被派去干那个。",
+      "after": "KONITZ: 驱逐伊纳人，不是有专门的志愿部队负责吗？可别把我也派去干这个。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3565",
+      "source": "WEISS: Anyway, this corporal is thinking, \"I work way harder than any of these officers. I should get something too.\"",
+      "source_sha256": "51d2c71dba6a0f218c00f09dde4c431a871d332740e0944e88ea7216e64d6188",
+      "before": "WEISS: 总之，那下士心里就不平衡了：“我干得比那帮军官累多了，怎么也该有我一份吧。”",
+      "after": "WEISS: 总之，那下士就想：“我干活可比这些军官卖力多了，也该让我拿点好东西吧。”",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3566",
+      "source": "WEISS: So one day he grabs something small, a gold watch. But he can't figure out how to wind it up.",
+      "source_sha256": "7015e19b73717548bc4e9b85486b21b40b9474ae4e018105a621f5b4d244eac2",
+      "before": "WEISS: 有一天，他拿了件小东西，一块金表。可怎么都找不到上发条的地方。",
+      "after": "WEISS: 有一天，他就顺走了件小东西——一块金表。可拿到手以后，怎么也弄不明白该怎么上发条。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3567",
+      "source": "WEISS: That's because there's no knob to wind! The watch literally runs on dirty Yina magic.",
+      "source_sha256": "692decfbfc9e176c851bd37b859c6acf131bcf9aaed6e980f3f9c272a9b66fa6",
+      "before": "WEISS: 因为压根没有发条旋钮！那表用的是肮脏的伊纳魔法。",
+      "after": "WEISS: 因为它压根儿就没有上发条的旋钮！那表是靠肮脏的伊纳魔法走的！",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3568",
+      "source": "WEISS: So later, he stops by the armory-and the magic inside the watch? It ignites the fuses on some grenades.",
+      "source_sha256": "e4088c12388e86c74e271ae78846692854f57c1323d630843912194cbc72dc62",
+      "before": "WEISS: 后来，他带着表去了趟军械库。你们猜怎么着？表里的魔法把几颗手榴弹的引信给点着了。",
+      "after": "WEISS: 后来他去了趟军械库，你们猜那表里的魔法干了什么？把几颗手榴弹的引信点着了！",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3569",
+      "source": "WEISS: Then, KABOOM! Whole place goes up in flames.",
+      "source_sha256": "68ff0ddecc2aab8f867c31e90a4f5e3248354bdc4b2d0805c8e2bd1bb70381b9",
+      "before": "WEISS: 接着，轰！整座库房都烧起来了。",
+      "after": "WEISS: 然后——轰！整座库房都烧起来了！",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3570",
+      "source": "KONITZ: How would they know what caused the explosion? Didn't the corporal and the watch burn up when the munitions exploded?",
+      "source_sha256": "2c3b7f04f9fd16f61f689df3658cf4c171db1ac62d452c1804036266864ef763",
+      "before": "KONITZ: 那怎么知道爆炸的原因？弹药炸了，下士和那块表不也都烧没了吗？",
+      "after": "KONITZ: 可他们怎么知道是那块表闯的祸？弹药一炸，下士跟金表不都该烧没了吗？",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3571",
+      "source": "WEISS: Nah, the corporal jumped into an open gun safe before it went kaboom.",
+      "source_sha256": "1783a488830e2d6e03659e3d3c79bc635a48286dacd6cab38e47df1f5d2e1b38",
+      "before": "WEISS: 没有，爆炸前，他跳进了一个开着门的枪柜。",
+      "after": "WEISS: 没啊，他赶在爆炸前跳进了个开着门的枪柜。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3572",
+      "source": "NIKOLAI: That's how you know the story isn't true.",
+      "source_sha256": "2f5fd1fa381e0880e39bea7d126bacde01773fcaaa5049656efa95eb4f136abb",
+      "before": "NIKOLAI: 编到这里，就露馅了。",
+      "after": "NIKOLAI: 这就能看出，故事是编的。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3573",
+      "source": "WEISS: Ah, c'mon Sarge. Don't ruin a good story!",
+      "source_sha256": "9276da068d3c751dd8e5c5639a6e94ed95dedd3ed5fac2f930f344bcecbca14c",
+      "before": "WEISS: 哎，班长，别扫兴嘛！",
+      "after": "WEISS: 哎，班长，这么好的故事，您就别拆台了嘛！",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3574",
+      "source": "NIKOLAI: Most of the time, it's not the burns that kill you. The fire sucks up all the air, and you suffocate. A gun safe wouldn't help at all.",
+      "source_sha256": "d7de0be03bf0416bc37ff425b4ebe157cb97c4bcc476bf27b0f495bff1b93c2b",
+      "before": "NIKOLAI: 多数时候，人不是被烧死的。火会耗尽空气，人就窒息了。躲枪柜一点用都没有。",
+      "after": "NIKOLAI: 通常要命的不是烧伤，而是大火把空气耗光，让人窒息而死；躲在枪柜里也没用。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3575",
+      "source": "KONITZ: How'd you know that, Sergeant?",
+      "source_sha256": "9213d728437515a0cbd2fa89854774770bf5d068e7af51ca4b2ede0f0180c09e",
+      "before": "KONITZ: 您怎么知道的，上士？",
+      "after": "KONITZ: 上士，您怎么知道这些的？",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3576",
+      "source": "NIKOLAI: I used to lead a unit that put out munitions fires. People inside the depot usually didn't survive.",
+      "source_sha256": "b169544658e70f5234c22ace31e9804ea3f2185fda4f1526f1a56b00f821c4dd",
+      "before": "NIKOLAI: 我以前带队扑救弹药火灾。困在库房里的人，通常活不下来。",
+      "after": "NIKOLAI: 我以前带过一支扑救弹药火灾的队伍。困在库房里的人，通常都活不下来。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3577",
+      "source": "NIKOLAI: We're staying on this path till we get to the ridge.",
+      "source_sha256": "3439a419e442a6ef963ed98578813beeb11bc18ac4c6af292eb15b0807d5871a",
+      "before": "NIKOLAI: 沿着这条路走，一直到山脊。",
+      "after": "NIKOLAI: 沿着这条路继续走，直到山脊。",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3578",
+      "source": "NIKOLAI: Stay tight, and make sure nobody ambushes us from the trees.",
+      "source_sha256": "561e6fe6a987e9267b911ec30004c66cd2ce6170dac201e81a47e1b04f094619",
+      "before": "NIKOLAI: 靠拢些，提防树林里的伏兵。",
+      "after": "NIKOLAI: 跟紧，留神树丛里的埋伏！",
+      "reason": "场景连读：按中文从句关系断句，保留冷静/讥讽/警告/说故事的区别；不增加剧情揭示",
+      "review_status": "AI contextual review; live layout pending",
+      "authority_files": [
+        "pending-nikolai-border-patrol.zh.json"
+      ]
+    }
+  ],
+  "retained_rows": [
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5693",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5694",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5695",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5696",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5697",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5699",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5701",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5702",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueStart-5703",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5707",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5713",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5715",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5717",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5721",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5722",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueSoldier1-5723",
+    "line:Assets/Cutscenes/prologue/Prologue.yarn-prologueSoldier2-5724"
+  ],
+  "weiss_fidelity_note": "3565 original says the corporal thinks he works harder and should receive something too. The previous psychological claim 心里不平衡 is removed; 好东西 refers to the jewels/silverware in 3562. The later magic story is an in-character story, not a proven worldbuilding fact."
+}

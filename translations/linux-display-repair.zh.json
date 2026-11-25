@@ -1,0 +1,11 @@
+{
+  "platform": "native Linux Mono",
+  "build": "25279268",
+  "revision": "l3a",
+  "scope": "Exact player-visible TMP labels; do not change ConfigParam storage keys, default values or enum identifiers",
+  "entries": [
+    {"en": "Icon", "zh": "图标", "context": "ConfigParamData.GetMetadata choice label", "source_locator": "original Mono GetMetadata IL_072b"},
+    {"en": "Never", "zh": "从不", "context": "ConfigParamData.GetMetadata choice label", "source_locator": "original Mono GetMetadata IL_0b8d"},
+    {"en": "Turbo", "zh": "加速", "context": "ConfigParamData.GetMetadata keyboard action caption", "source_locator": "original Mono GetMetadata IL_0f3c"}
+  ]
+}

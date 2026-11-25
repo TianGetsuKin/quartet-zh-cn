@@ -1,0 +1,4738 @@
+{
+  "state": "editorial_choices_complete_runtime_review_partial",
+  "mappings": [
+    {
+      "en": "ACKRILL",
+      "zh": "阿克里尔",
+      "sample_line_ids": [
+        "line:0ace0a1",
+        "line:0bbe98a",
+        "line:0549e4f"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "AGATA",
+      "zh": "阿伽塔",
+      "sample_line_ids": [
+        "line:0cf0207",
+        "line:0390627",
+        "line:06f70c3"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ALEXANDRA",
+      "zh": "亚历珊德拉",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-debug_overlay-749",
+        "line:Assets/Cutscenes/debugEvents.yarn-whoIsLead-931",
+        "line:0f9d962"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ALTMAYER",
+      "zh": "阿尔特迈尔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-morningAltmayer-2740",
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-borderScene-3699",
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-borderScene-3701"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ALVIN",
+      "zh": "阿尔文",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/alexstart.yarn-doorLockpick-4173",
+        "line:Assets/Cutscenes/alex/alexstart.yarn-doorLockpick-4178",
+        "line:Assets/Cutscenes/alex/alexstart.yarn-doorLockpick-4179"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ANABEL",
+      "zh": "安娜贝尔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Anabel-9754",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Anabel-9757",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Anabel-9759"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ANQUO",
+      "zh": "安阔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-euruGathering1-11449",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-euruGathering1-11453",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-euruGathering1-11454"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ANSEITZ",
+      "zh": "安赛茨",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3892",
+        "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3893",
+        "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3894"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "APINGORIX",
+      "zh": "阿平戈里克斯",
+      "sample_line_ids": [
+        "line:0446e16",
+        "line:012d496",
+        "line:00eff71"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ARCHAEOLOGIST",
+      "zh": "考古学家",
+      "sample_line_ids": [
+        "line:04648da",
+        "line:0a0bb06",
+        "line:020c762"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "ARCHIVIST",
+      "zh": "档案管理员",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildArchivist-11150",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildArchivist-11151",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildArchivist-11153"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "ASSISTANT",
+      "zh": "助手",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsAssitant-8541",
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsAssitant-8542",
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsAssitant-8543"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "AXTYA",
+      "zh": "阿克提娅",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtyaSubdue-7283",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya3-7414"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "BANDIT",
+      "zh": "匪徒",
+      "sample_line_ids": [
+        "line:04162ea",
+        "line:0bb5793",
+        "line:0e89b0f"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "BARBARIAN",
+      "zh": "蛮族人",
+      "sample_line_ids": [
+        "line:04e432b",
+        "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-merdEntryBarb-2923",
+        "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-merdEntryBarb-2924"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "BARBARIAN 2",
+      "zh": "另一名蛮族人",
+      "sample_line_ids": [
+        "line:0c67266",
+        "line:Assets/Cutscenes/ethosArchives/ethosScenes_DEMO.yarn-firstBarbarianScene_DEMO-7660"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "BARMAID",
+      "zh": "酒馆女侍",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-tavernGirl-2701"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "BARTENDER",
+      "zh": "酒保",
+      "sample_line_ids": [
+        "line:09f4dd0",
+        "line:03c74e2",
+        "line:Assets/Cutscenes/cordelia/feorlan.yarn-bartender-1452"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "BEKKER",
+      "zh": "贝克",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/stral.yarn-bekkerIntro-4083",
+        "line:Assets/Cutscenes/nikolai/stral.yarn-bekkerIntro-4085",
+        "line:Assets/Cutscenes/nikolai/stral.yarn-bekkerIntro-4086"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "BEN",
+      "zh": "本",
+      "sample_line_ids": [
+        "line:0130259",
+        "line:042e866",
+        "line:07ca433"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "BERNARD",
+      "zh": "贝尔纳",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter7/chapter7.yarn-bernardScene-5588",
+        "line:Assets/Cutscenes/chapter7/chapter7.yarn-bernardScene-5590",
+        "line:Assets/Cutscenes/chapter7/chapter7.yarn-bernardScene-5591"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "BIRD",
+      "zh": "鸟",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsMeetingSite-8566",
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsMeetingSite-8569",
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsMeetingSite-8570"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "BLACK CAT",
+      "zh": "黑猫",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-blackCat-8519"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "BOOK",
+      "zh": "书籍",
+      "sample_line_ids": [
+        "line:0d4dc68",
+        "line:0a25501",
+        "line:0135d31"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "BOY",
+      "zh": "男孩",
+      "sample_line_ids": [
+        "line:01070df",
+        "line:0aafd7e",
+        "line:0784c9c"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "BUTCHER",
+      "zh": "屠夫",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-serenButcher-2620",
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-serenButcher-2621"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "BUTLER",
+      "zh": "管家",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionEntry-9469",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionEntry-9470"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "Ben",
+      "zh": "本",
+      "sample_line_ids": [
+        "line:0685cba"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "CARAVAN GUARD",
+      "zh": "商队护卫",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-grasslandsBarbGuide-2957",
+        "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-grasslandsBarbGuide-2958"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "CARAVAN GUIDE",
+      "zh": "商队向导",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-grasslandsCowboyGuide-2959",
+        "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-grasslandsCowboyGuide-2960",
+        "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-grasslandsCowboyGuide-2961"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "CARAVANER",
+      "zh": "商队成员",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-desertParty3-11103"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "CARD MASTER",
+      "zh": "牌术大师",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-cardMaster-11176",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-cardMaster-11178",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-cardMaster-11179"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "CARNEAU",
+      "zh": "卡尔诺",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-creditsList-1134",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Carneau-9473",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Carneau-9474"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "CARTOGRAPHER",
+      "zh": "地图绘制师",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-southBeacher3-11091",
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-southBeacher3-11092",
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-southBeacher3-11093"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "CAT",
+      "zh": "猫",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-catNPC-8509"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "CELINE",
+      "zh": "塞琳",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-Celine-2556"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "CHILD",
+      "zh": "孩子",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-prisonerCb-3826"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "CLEMENTINE",
+      "zh": "克莱门汀",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-laineSnake-8525"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "CLERK",
+      "zh": "职员",
+      "sample_line_ids": [
+        "line:07e5a4e",
+        "line:0195d36",
+        "line:0b5e282"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "COMMANDER",
+      "zh": "指挥官",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter6/chapter6.yarn-campCommander1-5199",
+        "line:Assets/Cutscenes/chapter6/chapter6.yarn-campCommander1-5201",
+        "line:Assets/Cutscenes/chapter6/chapter6.yarn-campCommander1-5203"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "CONOVER",
+      "zh": "科诺弗",
+      "sample_line_ids": [
+        "line:026214b",
+        "line:0e0a3a7",
+        "line:Assets/Cutscenes/cordelia/feorlan.yarn-conover-1472"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "COOMES",
+      "zh": "库姆斯",
+      "sample_line_ids": [
+        "line:0b21629",
+        "line:0a78da9",
+        "line:0b96544"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "COP",
+      "zh": "警察",
+      "sample_line_ids": [
+        "line:0f91027",
+        "line:07a2aca",
+        "line:00396ba"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "COP 1",
+      "zh": "警察甲",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serenFinale.yarn-alexABP-4640",
+        "line:Assets/Cutscenes/alex/serenFinale.yarn-alexABP-4642"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "COP 2",
+      "zh": "警察乙",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serenFinale.yarn-alexABP-4641",
+        "line:Assets/Cutscenes/alex/serenFinale.yarn-alexABP-4643"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "CORDELIA",
+      "zh": "科黛莉娅",
+      "sample_line_ids": [
+        "line:0937211",
+        "line:0bf2a31",
+        "line:0a569f8"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "CRAFTY COYOTE",
+      "zh": "狡猾的郊狼",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-coyote-8507"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "CREATURE",
+      "zh": "怪物",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/stral.yarn-templeScene2-4038",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-monstroidEncounter-4416",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-monstroidEncounter-4418"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "Commander",
+      "zh": "指挥官",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/battleCutscenes/BossCutscenes.yarn-luskyanOfficer_int-258",
+        "line:Assets/Cutscenes/battleCutscenes/BossCutscenes.yarn-luskyanOfficer_int-259",
+        "line:Assets/Cutscenes/battleCutscenes/BossCutscenes.yarn-luskyanOfficer_int-260"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "Cordelia",
+      "zh": "科黛莉娅",
+      "sample_line_ids": [
+        "line:0d3ea23",
+        "line:0a9cc4a",
+        "line:0fd3c3d"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "DACIER",
+      "zh": "达西耶",
+      "sample_line_ids": [
+        "line:04e0d2a",
+        "line:0a1a49d",
+        "line:0372e8f"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "DARIO",
+      "zh": "达里奥",
+      "sample_line_ids": [
+        "line:0be852b",
+        "line:088f711",
+        "line:002abc7"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "DAUGHTER",
+      "zh": "女儿",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter9/chapter9npcs.yarn-pCaptiveDaughter-6173"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "DEWLIN",
+      "zh": "杜林",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/cordeliaSidequest.yarn-dewlinOne-9377",
+        "line:Assets/Cutscenes/chapter11/cordeliaSidequest.yarn-dewlinOne-9378",
+        "line:Assets/Cutscenes/chapter11/cordeliaSidequest.yarn-dewlinOne-9379"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "DIETRICH",
+      "zh": "迪特里希",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-nikoQnodes-1010",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-wakeDietrich-2724",
+        "line:Assets/Cutscenes/nikolai/therme.yarn-bakeryScene-3740"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "DIOTIMA",
+      "zh": "狄奥提玛",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-agataStalkDiotima-7887",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-diotimaNPC-8113",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-diotimaNPC-8114"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "DISHWASHER",
+      "zh": "洗碗工",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-nightmareDishes-11757",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-nightmareDishes-11758"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "DOCTOR",
+      "zh": "医生",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apoEpilogue-6838",
+        "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apoEpilogue-6841",
+        "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apoEpilogue-6842"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "DRAGON KID",
+      "zh": "龙族少年",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-dragonKid-8479",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-dragonKid-8480"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "DREYFUSS",
+      "zh": "德雷福斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-zikaronWarps-1021",
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-dreyfussBattle-3724",
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-dreyfussBattle-3725"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "DUCK DOG",
+      "zh": "鸭犬",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/sideQuests.yarn-duckDog_shrine-7126",
+        "line:Assets/Cutscenes/chapter11/sideQuests.yarn-duckDog_Battle-7127",
+        "line:Assets/Cutscenes/chapter11/sideQuests.yarn-duckDog_postBattle-7128"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "DURAND",
+      "zh": "杜朗",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-Durand-2558",
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-alexColdOpen-4660",
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-alexColdOpen-4664"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ELIZABETH",
+      "zh": "伊丽莎白",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-jeromeGluIntro-11517",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-jeromeGluIntro-11518",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-jeromeGluIntro-11521"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ENFORCER",
+      "zh": "执行者",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/alexstart.yarn-warehouseReview-4254",
+        "line:Assets/Cutscenes/alex/alexstart.yarn-warehouseReview-4256",
+        "line:Assets/Cutscenes/alex/alexstart.yarn-warehouseReview-4257"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ENGINEER",
+      "zh": "工程师",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/ben/magicoLab.yarn-akosEngineer-1940",
+        "line:0120a95",
+        "line:0654391"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "EXPLORER",
+      "zh": "探险家",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-southBeacher1-11084",
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-southBeacher1-11085"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "Earth Shrine",
+      "zh": "地之圣祠",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-earthShrineWarps-1149",
+        "line:Assets/Cutscenes/debugEvents.yarn-earthShrineWarps-1150",
+        "line:Assets/Cutscenes/debugEvents.yarn-earthShrineWarps-1151"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "FARMER",
+      "zh": "农夫",
+      "sample_line_ids": [
+        "line:0ff1dda",
+        "line:08ed384",
+        "line:0c266ea"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "FATHER",
+      "zh": "父亲",
+      "sample_line_ids": [
+        "line:0181a6d",
+        "line:0644a03",
+        "line:09b52f9"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "FEMALE STUDENT",
+      "zh": "女学生",
+      "sample_line_ids": [
+        "line:0b1d917",
+        "line:0363488"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "FISHERMAN",
+      "zh": "渔夫",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-fSpot1-8149",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-fSpot1-8150",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-fSpot2-8151"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "FLIGHT CONTROLS OVERVIEW",
+      "zh": "飞行操作说明",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/airshipFly.yarn-airshipControl-7085",
+        "line:Assets/Cutscenes/airshipFly.yarn-flightControlsOverview-7093"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "FLOWER GIRL",
+      "zh": "卖花女孩",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-flowerGirl-8494"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "FOOD CRITIC",
+      "zh": "美食评论家",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-nightmareCritic-11759",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-nightmareCritic-11760",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-nightmareCritic-11761"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "FORTUNE TELLER",
+      "zh": "占卜师",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serenDay.yarn-fortuneTeller1-4353",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-fortuneTalk-4356",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-alexOracleScene-4357"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "GANGSTER",
+      "zh": "帮派成员",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/alexstart.yarn-warehouseReview-4234",
+        "line:Assets/Cutscenes/alex/alexstart.yarn-alexSoloWarehouse-4277",
+        "line:Assets/Cutscenes/alex/alexstart.yarn-alexSoloWarehouse-4278"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "GENTLEMAN",
+      "zh": "绅士",
+      "sample_line_ids": [
+        "line:08daa46",
+        "line:0d66d2d"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "GEOGRAPHER",
+      "zh": "地理学家",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildGeographer-11124",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildGeographer-11125",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildGeographer-11127"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "GEORGE",
+      "zh": "乔治",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-George-9734",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-George-9736",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-George-9738"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "GIORGIOS",
+      "zh": "乔尔乔斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-meetGiorgios-7913",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-meetGiorgios-7917",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-meetGiorgios-7919"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "GIRL",
+      "zh": "女孩",
+      "sample_line_ids": [
+        "line:06aa4c0",
+        "line:Assets/Cutscenes/ben/akosNpcs.yarn-akosGirl3-34",
+        "line:Assets/Cutscenes/ben/akosNpcs.yarn-akosGirl3-35"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "GLUHENDER",
+      "zh": "格吕亨德",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-gluhenderQuestWarps-11389",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-gluhenderConfrontation-12555",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-gluhenderConfrontation-12556"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "GORDON",
+      "zh": "戈登",
+      "sample_line_ids": [
+        "line:0c014b0",
+        "line:005fa39",
+        "line:0aa4fd4"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "GRANDMOTHER",
+      "zh": "祖母",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-camperW3-8036",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-camperW3-8037",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-camperW3-8040"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "GRANNY",
+      "zh": "老婆婆",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-restoGranny1-11849",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-restoGranny2-11850"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "GUARD",
+      "zh": "守卫",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serenFinale.yarn-fishReset-4549",
+        "line:Assets/Cutscenes/alex/serenFinale.yarn-fishReset2-4550",
+        "line:Assets/Cutscenes/alex/serenZoo.yarn-serenZoo_maybeAlertEagle-5021"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "GUIDE",
+      "zh": "向导",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-desertParty4-11104",
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-desertParty5-11105",
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-desertParty5-11106"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "GUILD MAGE",
+      "zh": "公会法师",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-desertParty2-11098",
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-desertParty2-11099",
+        "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-desertParty2-11100"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "GUILD MASTER",
+      "zh": "公会会长",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildMaster-11136",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildMaster-11137",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildMaster-11146"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "Gordon",
+      "zh": "戈登",
+      "sample_line_ids": [
+        "line:00119e9"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "HARRY",
+      "zh": "哈里",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-McMasters-9633",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-McMasters-9635",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-McMasters-9636"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "HARWELL",
+      "zh": "哈韦尔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-harwell-8793",
+        "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-harwell-8794",
+        "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-harwell-8797"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "HECTOR",
+      "zh": "赫克托",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-hectorSubdue-7280",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-hectorStart-7353",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-hectorStart-7354"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "HENRIETTA",
+      "zh": "亨丽埃塔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Malories-9658",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Malories-9661",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Malories-9662"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "HERMIT",
+      "zh": "隐士",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/sideQuests.yarn-hermitMan-7144",
+        "line:Assets/Cutscenes/chapter11/sideQuests.yarn-hermitMan-7145",
+        "line:Assets/Cutscenes/chapter11/sideQuests.yarn-hermitMan-7146"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "HOSTESS",
+      "zh": "女招待",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter8/helvaNpcs.yarn-helvaHostess-4985",
+        "line:Assets/Cutscenes/chapter8/helvaNpcs.yarn-helvaHostess-4986",
+        "line:Assets/Cutscenes/chapter8/helvaNpcs.yarn-helvaHostess-4987"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "HUNTER",
+      "zh": "猎人",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsHunter-8535",
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsHunter-8536",
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsHunter2-8537"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "HUSBAND",
+      "zh": "丈夫",
+      "sample_line_ids": [
+        "line:09971fb",
+        "line:037b156"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "IMPERIAL OFFICER",
+      "zh": "帝国军官",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-breakoutBoss-6153"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "INNAQ",
+      "zh": "伊纳克",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-innaqNPC-11447",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-innaqNPC-11448",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-euruGathering1-11451"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "INNKEEPER",
+      "zh": "旅店老板",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innTherme-2647",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innTherme-2649",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innTherme-2651"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "Innkeeper",
+      "zh": "旅店老板",
+      "sample_line_ids": [
+        "line:00e3d36",
+        "line:00ea3e0",
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-serenInn-2348"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "JEROME",
+      "zh": "杰罗姆",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-debug_overlay-750",
+        "line:Assets/Cutscenes/debugEvents.yarn-whoIsLead-932",
+        "line:0d43903"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "JESTER",
+      "zh": "弄臣",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-jester-8522"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "JUNA",
+      "zh": "朱娜",
+      "sample_line_ids": [
+        "line:0b57520",
+        "line:0ed0685",
+        "line:066a81a"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "KARRAS",
+      "zh": "卡拉斯",
+      "sample_line_ids": [
+        "line:05a3c9a",
+        "line:01552d3",
+        "line:0f8246d"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "KASSANDRA",
+      "zh": "卡珊德拉",
+      "sample_line_ids": [
+        "line:07059d1",
+        "line:0135065",
+        "line:04b700a"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "KERAUNOS",
+      "zh": "凯劳诺斯",
+      "sample_line_ids": [
+        "line:085a2f1",
+        "line:0814e1d",
+        "line:076abb0"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "KID",
+      "zh": "小孩",
+      "sample_line_ids": [
+        "line:009a12d",
+        "line:0662afa",
+        "line:0b93942"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "KIRCHER",
+      "zh": "基尔歇尔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-barbariansEnterCave-3644",
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-borderScene-3694",
+        "line:Assets/Cutscenes/nikolai/therme.yarn-bakeryScene-3755"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "KONITZ",
+      "zh": "科尼茨",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innConvo-2713",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innConvo-2714",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innConvo-2716"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "KORDYNE",
+      "zh": "科尔丁",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-kordyneDialogueLater-3004",
+        "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-kordyneDialogueLater-3005",
+        "line:Assets/Cutscenes/chapter5/siopeMonastery.yarn-meetKordyne-5028"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "LADY",
+      "zh": "女士",
+      "sample_line_ids": [
+        "line:04403ca",
+        "line:00d88d4",
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-prologueGDirection-2552"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "LANDLORD",
+      "zh": "房东",
+      "sample_line_ids": [
+        "line:0e4b2d7",
+        "line:01279af",
+        "line:0e4f67c"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "LANETES",
+      "zh": "拉涅特斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-lanetesTrapScene-7334",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-lanetesTrapScene-7338",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-lanetesTrapScene-7339"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "LECLAIRE",
+      "zh": "勒克莱尔",
+      "sample_line_ids": [
+        "line:0bf6ac8",
+        "line:003ed25",
+        "line:00241ec"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "LEONA",
+      "zh": "蕾欧娜",
+      "sample_line_ids": [
+        "line:0e92839",
+        "line:084fc09",
+        "line:0b2c09c"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "LIBRARIAN",
+      "zh": "图书管理员",
+      "sample_line_ids": [
+        "line:0d4853c",
+        "line:035afe5"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "LINDA",
+      "zh": "琳达",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-McMasters-9623",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-McMasters-9626",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-McMasters-9631"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "LISETTE",
+      "zh": "莉塞特",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Lisette-9824",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Lisette-9826",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Lisette-9828"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "LOUIE",
+      "zh": "路易",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-boxReminder-4787",
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-boxReminder2-4788",
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-boxReminder3-4789"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "LOUIS",
+      "zh": "路易",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-louisDialogue-2372",
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-louisDialogue-2373",
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-louisDialogue-2374"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "LOUISE",
+      "zh": "露易丝",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-meetSlaves-5870",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-meetSlaves-5871",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-meetSlaves-5872"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "MAID",
+      "zh": "女仆",
+      "sample_line_ids": [
+        "line:0977867",
+        "line:Assets/Cutscenes/chapter8/helvaNpcs.yarn-helvaMaid1-4973",
+        "line:Assets/Cutscenes/chapter8/helvaNpcs.yarn-helvaMaidB-4974"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "MAILMAN",
+      "zh": "邮差",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsMailman-8538",
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsMeetingSite-8567",
+        "line:Assets/Cutscenes/chapter11/junaSidequest.yarn-wildsMeetingSite-8572"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "MAIMUN",
+      "zh": "迈蒙",
+      "sample_line_ids": [
+        "line:0da5fa0",
+        "line:0a900e4",
+        "line:02097f2"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "MALE STUDENT",
+      "zh": "男学生",
+      "sample_line_ids": [
+        "line:086ba6e",
+        "line:0da03e7"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "MAN",
+      "zh": "男子",
+      "sample_line_ids": [
+        "line:01cecb4",
+        "line:08ac1d8",
+        "line:0e05a6f"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "MARIE",
+      "zh": "玛丽",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/Bullshots.yarn-bullshotControls-286",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-kitchenScene-4438",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-kitchenScene-4440"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "MATEUSZ",
+      "zh": "马特乌什",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-zrodloMateusz-3834",
+        "line:Assets/Cutscenes/nikolai/stral.yarn-bekkerIntro-4071",
+        "line:Assets/Cutscenes/nikolai/stral.yarn-waveSafeZone1-4109"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "MELRAUX",
+      "zh": "梅尔罗",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-junaQnodes-1016",
+        "line:Assets/Cutscenes/alex/serenFinale.yarn-junaMeeting-4577",
+        "line:Assets/Cutscenes/alex/serenFinale.yarn-junaMeeting-4578"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "MERCENARY",
+      "zh": "佣兵",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-mercenary-8500"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "MERCHANT",
+      "zh": "商人",
+      "sample_line_ids": [
+        "line:046515b",
+        "line:0369064",
+        "line:097a601"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "MIKELAKIS",
+      "zh": "米克拉基斯",
+      "sample_line_ids": [
+        "line:00a0bc4",
+        "line:076a3a1",
+        "line:0eaeaba"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "MOBSTER",
+      "zh": "黑帮成员",
+      "sample_line_ids": [
+        "line:0786e0f",
+        "line:09b727a",
+        "line:0a8ef9e"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "MOTHER",
+      "zh": "母亲",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-serenNightMother-2585",
+        "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-hideAwayMom-7001"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "MUDGETT",
+      "zh": "马吉特",
+      "sample_line_ids": [
+        "line:0c6f585",
+        "line:0528bfc",
+        "line:081367d"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "MUELLER",
+      "zh": "米勒",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innConvo-2711",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innConvo-2712",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innConvo-2715"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "Man",
+      "zh": "男子",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-ThermeMan1-2658"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "NATURALIST",
+      "zh": "博物学家",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildNaturalist-11108",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildNaturalist-11110",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-guildNaturalist-11111"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "NEIGHBOR",
+      "zh": "邻居",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-neighborAlert-4674",
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-neighborAlert-4676"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "NIKOLAI",
+      "zh": "尼古拉",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-debug_overlay-743",
+        "line:Assets/Cutscenes/debugEvents.yarn-whoIsLead-926",
+        "line:052c297"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "NURSE",
+      "zh": "护士",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serenDay.yarn-nurseScene1-4300",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-nurseScene1-4301",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-marieSaved-7567"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "OCTAVIA",
+      "zh": "奥克塔维娅",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-cordeliaQuestWarps-1038",
+        "line:Assets/Cutscenes/debugEvents.yarn-cordeliaQuestWarps-1045",
+        "line:006394c"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "ODUJA",
+      "zh": "奥杜娅",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-euruGathering1-11460",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-euruGathering1-11461",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-euruGathering1-11463"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "OLD GUY",
+      "zh": "老头",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-prologueOldGuy1-2561",
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-prologueOldGuy2-2562"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "OLD LADY",
+      "zh": "老妇人",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter8/helvaNpcs.yarn-helvaGranny-4962"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "OLD MAN",
+      "zh": "老人",
+      "sample_line_ids": [
+        "line:0f4af3f",
+        "line:046c10b",
+        "line:Assets/Cutscenes/cordelia/feorlanNpcs.yarn-npc_feorlan_oldman-1731"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "OLD WOMAN",
+      "zh": "老妇人",
+      "sample_line_ids": [
+        "line:0432fd5",
+        "line:03faf26",
+        "line:Assets/Cutscenes/ben/akosNpcs.yarn-akosoldwomanhouse-14"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "ORPHAN",
+      "zh": "孤儿",
+      "sample_line_ids": [
+        "line:0726d37",
+        "line:0a11990",
+        "line:09f47d7"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "OTHER BOY",
+      "zh": "另一个男孩",
+      "sample_line_ids": [
+        "line:0beca8e"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "Octavia",
+      "zh": "奥克塔维娅",
+      "sample_line_ids": [
+        "line:03a74ec"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "PACHIS",
+      "zh": "帕奇斯",
+      "sample_line_ids": [
+        "line:0b5995d",
+        "line:0c3f471",
+        "line:0716604"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "PALUKUS",
+      "zh": "帕卢库斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/battleCutscenes/BossCutscenes.yarn-battle_palikusCounterStance-248",
+        "line:Assets/Cutscenes/battleCutscenes/BossCutscenes.yarn-battle_palikusCounterTaunt-250",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-meetBrothersPal-8022"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "PASSENGER",
+      "zh": "乘客",
+      "sample_line_ids": [
+        "line:07aa530",
+        "line:090b8da",
+        "line:0faa4a5"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "PAVEL",
+      "zh": "帕维尔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-zrodloPavel-3835",
+        "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-ravinePavel-3863",
+        "line:Assets/Cutscenes/nikolai/stral.yarn-templeScene-4029"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "PEROT",
+      "zh": "佩罗",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serenDay.yarn-perotIssue-4335",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-perotIssue-4337",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-perotIssue-4339"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "POLICE",
+      "zh": "警察",
+      "sample_line_ids": [
+        "line:0461fab",
+        "line:04ba859",
+        "line:0f88b4a"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "POOR MAN",
+      "zh": "穷困的男子",
+      "sample_line_ids": [
+        "line:03225e6",
+        "line:0798c73",
+        "line:07f3e35"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "POOR WOMAN",
+      "zh": "穷困的女子",
+      "sample_line_ids": [
+        "line:06da989",
+        "line:0ef012c",
+        "line:0e3abad"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "PROFESSOR",
+      "zh": "教授",
+      "sample_line_ids": [
+        "line:051c18e",
+        "line:0381536",
+        "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-c10illusionScene-6418"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "PROPHET",
+      "zh": "先知",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-prophet-8505"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "RANCHER",
+      "zh": "牧场主",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/cordeliaSidequest.yarn-hawkRidgeRancher-9284"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "RESEARCHER",
+      "zh": "研究员",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter6/ch6NPCs.yarn-hubResearcher1-5392",
+        "line:Assets/Cutscenes/chapter6/ch6NPCs.yarn-hubResearcherC1-5395",
+        "line:Assets/Cutscenes/chapter6/ch6NPCs.yarn-hubResearcherC2-5396"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "RICH MAN",
+      "zh": "富有的男子",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/cordelia/feorlanNpcs.yarn-courtWaiter1-1767",
+        "line:0051f1e",
+        "line:0760dd1"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "RICH WOMAN",
+      "zh": "富有的女子",
+      "sample_line_ids": [
+        "line:0eb273b",
+        "line:0b65f29",
+        "line:0512ec1"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "ROBBER",
+      "zh": "强盗",
+      "sample_line_ids": [
+        "line:07a5b5f",
+        "line:02f08bd",
+        "line:01339ab"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "ROBERT",
+      "zh": "罗伯特",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/alexstart.yarn-doorLockpick-4177",
+        "line:Assets/Cutscenes/alex/alexstart.yarn-doorLockpick-4194",
+        "line:Assets/Cutscenes/alex/alexstart.yarn-warehouseReview-4238"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "SALESMAN",
+      "zh": "推销员",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-thermeSeller-2677"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "SCHOLAR",
+      "zh": "学者",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-sage-8517",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-sage-8518"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "SECOND WOMAN",
+      "zh": "另一名女子",
+      "sample_line_ids": [
+        "line:06a4d47"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "SECRETARY",
+      "zh": "秘书",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexAssault-5978"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "SEISHOLTZ",
+      "zh": "赛斯霍尔茨",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/stral.yarn-ravineScene1-4094",
+        "line:Assets/Cutscenes/nikolai/stral.yarn-ravineScene1-4096",
+        "line:Assets/Cutscenes/nikolai/stral.yarn-ravineScene1-4097"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "SHOP KEEP",
+      "zh": "店主",
+      "sample_line_ids": [
+        "line:055a9c3",
+        "line:08381ab",
+        "line:01a0ee0"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "SHOP KEEPER",
+      "zh": "店主",
+      "sample_line_ids": [
+        "line:0a239dd",
+        "line:022a986",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-oscar-8510"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "SIGN",
+      "zh": "告示",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/ben/magicoLab.yarn-akosVillaSign-2113"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "SKILURUS",
+      "zh": "斯基卢鲁斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/battleCutscenes/BossCutscenes.yarn-battle_skilirusCounterStance-249",
+        "line:Assets/Cutscenes/battleCutscenes/BossCutscenes.yarn-battle_skilirusCounterTaunt-251",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-meetBrothersSkil-8023"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "SOLDIER",
+      "zh": "士兵",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-ThermeSoldier1-2662",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-ThermeSoldier2-2663",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-ThermeSoldier3-2664"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "SPEAKER",
+      "zh": "演讲者",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-speechGiver-2635",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-serenClimbDown-4495",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-serenClimbDown-4496"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "STAFF",
+      "zh": "工作人员",
+      "sample_line_ids": [
+        "line:0810ee3",
+        "line:0946838",
+        "line:Assets/Cutscenes/cordelia/cordeliaChapter.yarn-gardenCordon2-419"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "STANI",
+      "zh": "斯塔尼",
+      "sample_line_ids": [
+        "line:0c51f76",
+        "line:0c2710e",
+        "line:081eb4c"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "STOKES",
+      "zh": "斯托克斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Stokes-9795",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Stokes-9797",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Stokes-9799"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "STRANGER",
+      "zh": "陌生人",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-agataStalkDiotima-7858",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-agataStalkDiotima-7860",
+        "line:Assets/Cutscenes/chapter11/agataSidequest.yarn-agataStalkDiotima-7862"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "STUDENT",
+      "zh": "学生",
+      "sample_line_ids": [
+        "line:008c27e",
+        "line:0da4d2f",
+        "line:0cb4633"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "SYMON",
+      "zh": "西蒙",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-earthShrineWarps-1147",
+        "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-dreyfussReintro-8626",
+        "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-dreyfussReintro-8628"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "Seisholtz",
+      "zh": "赛斯霍尔茨",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/seizholtzBattle.yarn-nikolaiSeizholtzBattle-4166",
+        "line:Assets/Cutscenes/nikolai/seizholtzBattle.yarn-nikolaiSeizholtzBattle_int-4167",
+        "line:Assets/Cutscenes/nikolai/seizholtzBattle.yarn-nikolaiSeizholtzBattle_int-4168"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "TEACHER",
+      "zh": "教师",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/benSidequest.yarn-notOrphans-8970"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "TECH",
+      "zh": "技术员",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/cordelia/leorniaNpcs.yarn-workingResearcherCore-1937",
+        "line:Assets/Cutscenes/cordelia/leorniaNpcs.yarn-robeResearcher-1938",
+        "line:Assets/Cutscenes/cordelia/leorniaNpcs.yarn-robeResearcher-1939"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "TECHNICIAN",
+      "zh": "技术员",
+      "sample_line_ids": [
+        "line:0300e2a",
+        "line:0160609",
+        "line:088f3f4"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "THEO",
+      "zh": "西奥",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/cordelia/feorlan.yarn-theo-1383",
+        "line:Assets/Cutscenes/cordelia/feorlan.yarn-theo-1384",
+        "line:Assets/Cutscenes/cordelia/feorlan.yarn-theo-1387"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "THOMPSON",
+      "zh": "汤普森",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionEntry-9458",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionEntry-9459",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionEntry-9461"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "TOURIST",
+      "zh": "游客",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-grasslandsSafari-2962"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "TRAIN STAFF",
+      "zh": "列车工作人员",
+      "sample_line_ids": [
+        "line:0460a61",
+        "line:03a9d11",
+        "line:082fa64"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "TRAPPER",
+      "zh": "捕兽人",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter8/helvaNpcs.yarn-furShopper1-5008",
+        "line:Assets/Cutscenes/chapter8/helvaNpcs.yarn-furShopper1-5009"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "TRAVELING SALESMAN",
+      "zh": "行商",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-midasGloveGuy-11203",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-midasGloveGuy-11204",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-midasGloveGuy-11205"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "TUTOR",
+      "zh": "辅导教师",
+      "sample_line_ids": [
+        "line:02251d0",
+        "line:Assets/Cutscenes/cordelia/cordeliaChapter.yarn-bookStudents-590",
+        "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-libTutor-8833"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "UJAR",
+      "zh": "乌贾尔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-euruGathering1-11450",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-euruGathering1-11452",
+        "line:Assets/Cutscenes/chapter11/gluhender.yarn-euruGathering1-11455"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "VENDOR",
+      "zh": "摊贩",
+      "sample_line_ids": [
+        "line:0932241",
+        "line:0fd4a43",
+        "line:0f3e1f8"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "VOICE",
+      "zh": "声音",
+      "sample_line_ids": [
+        "line:0f46538",
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-forestConfrontation-3652",
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-borderScene-3696"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "VON ROHR",
+      "zh": "冯·罗尔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-chapterWarper-1051",
+        "line:Assets/Cutscenes/chapter6/chapter6.yarn-vonRohrEncounter-5328",
+        "line:Assets/Cutscenes/chapter6/chapter6.yarn-vonRohrEncounter-5330"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "WEISS",
+      "zh": "魏斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innWeiss-2704",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innWeiss-2706",
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-bForestStart-3561"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "WHISKERS",
+      "zh": "胡须",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Whiskers-9930",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Whiskers-9932",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Whiskers-9934"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "WIFE",
+      "zh": "妻子",
+      "sample_line_ids": [
+        "line:0aaa2c7",
+        "line:0ff1ffe",
+        "line:0bbbb99"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "WIRTH",
+      "zh": "维尔特",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-wirthMeeting-5841",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-wirthMeeting-5842",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-wirthMeeting-5843"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "WIZARD",
+      "zh": "法师",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-wizard-8493"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "WOMAN",
+      "zh": "女子",
+      "sample_line_ids": [
+        "line:02b1ac8",
+        "line:Assets/Cutscenes/ben/akosNpcs.yarn-womandoingdishes-5",
+        "line:Assets/Cutscenes/ben/akosNpcs.yarn-womandoingdishes-8"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "WORKER",
+      "zh": "工人",
+      "sample_line_ids": [
+        "line:0f457c1",
+        "line:056a833",
+        "line:004c557"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "Woman",
+      "zh": "女子",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-ThermeWoman1-2656",
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-ThermeWoman2-2657"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "YOUNG MAN",
+      "zh": "年轻男子",
+      "sample_line_ids": [
+        "line:0934968",
+        "line:0bd8469",
+        "line:Assets/Cutscenes/cordelia/feorlanNpcs.yarn-station_youngman2-1751"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "YOUNG WOMAN",
+      "zh": "年轻女子",
+      "sample_line_ids": [
+        "line:0faf088",
+        "line:06c4c5d",
+        "line:Assets/Cutscenes/cordelia/leorniaNpcs.yarn-trainCouple11-1925"
+      ],
+      "basis": "role_or_display_heading",
+      "runtime_verified": false
+    },
+    {
+      "en": "ZIKARON",
+      "zh": "齐卡隆",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-debug_overlay-751",
+        "line:Assets/Cutscenes/debugEvents.yarn-whoIsLead-933",
+        "line:02eb99d"
+      ],
+      "basis": "existing_glossary",
+      "runtime_verified": false
+    },
+    {
+      "en": "\"ALEXANDRA\"",
+      "zh": "\"亚历珊德拉\"",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-lanetesTrapScene-7341",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-lanetesTrapScene-7342",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-lanetesBinding-7506"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "id": "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-lanetesTrapScene-7341",
+          "en": "\"ALEXANDRA\": Oh, there you are! Sorry about that.",
+          "zh": "\"ALEXANDRA\": 啊，你们在这儿！刚才不好意思啦。"
+        },
+        {
+          "id": "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-lanetesTrapScene-7342",
+          "en": "\"ALEXANDRA\": I think it's this way.",
+          "zh": "\"ALEXANDRA\": 应该走这边。"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "ADANNA",
+      "zh": "阿丹娜",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-adanna-8504"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Adanna Avenal",
+          "zh": "阿丹娜·阿韦纳尔",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "ALFRED",
+      "zh": "阿尔弗雷德",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-alfredMeeting-9890",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-alfredMeeting-9892",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-alfredMeeting-9893"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Alfred Wigram",
+          "zh": "阿尔弗雷德·威格拉姆",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "ARMAND",
+      "zh": "阿尔芒",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Malories-9650",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Malories-9652",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Malories-9654"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Armand Malorie",
+          "zh": "阿尔芒·马洛里",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "BORIS",
+      "zh": "鲍里斯",
+      "sample_line_ids": [
+        "line:0446ede",
+        "line:0553e23",
+        "line:00fe5b5"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Boris",
+          "zh": "鲍里斯",
+          "basis": "monster_display_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "BOSS",
+      "zh": "矿场老板",
+      "sample_line_ids": [
+        "line:0fafd45"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "id": "line:0fafd45",
+          "en": "BOSS: Sorry sweetheart, this is an active mine. And private property.",
+          "zh": "BOSS: 抱歉，小姑娘，这是还在作业的矿井。而且是私人产业。"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "CAMILLE",
+      "zh": "卡米耶",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-camilleScene-5925",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-camilleScene-5926",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-camilleScene-5928"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Camille Poullain",
+          "zh": "卡米耶·普兰",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "CATHERINE",
+      "zh": "凯瑟琳",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Catherine-9567",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Catherine-9568",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Catherine-9570"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Catherine Laurent",
+          "zh": "凯瑟琳·洛朗",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "COLONEL",
+      "zh": "上校",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-wirthMeeting-5835",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-wirthMeeting-5837",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-wirthMeeting-5838"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-wirthMeeting-5835",
+          "en": "COLONEL: What, did Boenicke send you to take notes?",
+          "zh": "COLONEL: 怎么，伯尼克派你来做记录？"
+        },
+        {
+          "id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-wirthMeeting-5837",
+          "en": "COLONEL: Well, that's everyone, then.",
+          "zh": "COLONEL: 好，人齐了。"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "CONDUCTOR",
+      "zh": "列车员",
+      "sample_line_ids": [
+        "line:060ff01",
+        "line:Assets/Cutscenes/cordelia/feorlanNpcs.yarn-station_conductor-1742",
+        "line:0865e45"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "id": "line:060ff01",
+          "en": "CONDUCTOR: All aboard!",
+          "zh": "CONDUCTOR: 请各位上车！"
+        },
+        {
+          "id": "line:Assets/Cutscenes/cordelia/feorlanNpcs.yarn-station_conductor-1742",
+          "en": "CONDUCTOR: Next departure won't be for a while.",
+          "zh": "CONDUCTOR: 下一班还得等一会儿。"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "DEALER",
+      "zh": "商贩",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-outpostShop-11107"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "id": "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-outpostShop-11107",
+          "en": "DEALER: Would you like to see my rare wares?",
+          "zh": "DEALER: 想看看我的稀罕货吗？"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "FABIEN",
+      "zh": "法比安",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Anabel-9756",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Anabel-9762",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Anabel-9773"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Fabien Verne",
+          "zh": "法比安·凡尔纳",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "HAELAN",
+      "zh": "海兰",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5549",
+        "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5550",
+        "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5560"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Haelan Reed",
+          "zh": "海兰·里德",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "JESIAH",
+      "zh": "杰赛亚",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-enterFifthDimension-10173",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-enterFifthDimension-10174",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-enterFifthDimension-10175"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Jesiah Wigram",
+          "zh": "杰赛亚·威格拉姆",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "JULIA",
+      "zh": "朱莉娅",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Julia-9600",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Julia-9602",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Julia-9604"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Julia Bowden",
+          "zh": "朱莉娅·鲍登",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "LIEUTENANT",
+      "zh": "中尉",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-talkingSoldier1-2687",
+        "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-taskOfficer-3802",
+        "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-stralInterrogator-3828"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Lieutenant",
+          "zh": "中尉",
+          "basis": "monster_display_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "LUSKIYAN OFFICER",
+      "zh": "卢斯基亚军官",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-borderScene-3684",
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-borderScene-3685",
+        "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-borderScene-3686"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Luskiyan Officer",
+          "zh": "卢斯基亚军官",
+          "basis": "monster_display_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "LUSKIYAN SOLDIER",
+      "zh": "卢斯基亚士兵",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/sideQuests.yarn-luskiyanBorderL-7121",
+        "line:Assets/Cutscenes/chapter11/sideQuests.yarn-luskiyanBorderR-7122"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Luskiyan Soldier",
+          "zh": "卢斯基亚士兵",
+          "basis": "monster_display_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "MAGICO",
+      "zh": "魔法佬",
+      "sample_line_ids": [
+        "line:090770c",
+        "line:097fb25",
+        "line:0707b9a"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Magico",
+          "zh": "魔法佬",
+          "basis": "monster_display_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "MRS. D'ARNAUD",
+      "zh": "达尔诺太太",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-deliverMeat-4747",
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-deliverMeat-4749",
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-deliverMeat-4751"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "D'Arnaud",
+          "zh": "达尔诺",
+          "basis": "existing_family_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "MRS. DURAND",
+      "zh": "杜朗太太",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-mrsDurand-2559",
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-mrsDurand-2560",
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-alexColdOpen-4665"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Durand",
+          "zh": "杜朗",
+          "basis": "existing_family_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "MRS. GIROUX",
+      "zh": "吉鲁太太",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serennpcs.yarn-mrsGiroux-2555",
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-girouxMilk-4692",
+        "line:Assets/Cutscenes/alex/alexPrologue.yarn-girouxMilk-4695"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Giroux",
+          "zh": "吉鲁",
+          "basis": "existing_family_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "MRS. PEROT",
+      "zh": "佩罗太太",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serenDay.yarn-perotWife-4326",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-perotWife-4328",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-perotWife-4330"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Perot",
+          "zh": "佩罗",
+          "basis": "existing_family_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "MRS.PEROT",
+      "zh": "佩罗太太",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serenDay.yarn-perotWife-4332"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Perot",
+          "zh": "佩罗",
+          "basis": "existing_family_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "Magico",
+      "zh": "魔法佬",
+      "sample_line_ids": [
+        "line:0ffde8c",
+        "line:077d2a3"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Magico",
+          "zh": "魔法佬",
+          "basis": "monster_display_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "NEVILLE",
+      "zh": "内维尔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Neville-9704",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Neville-9707",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Neville-9709"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Neville Wigram",
+          "zh": "内维尔·威格拉姆",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "RUPERT",
+      "zh": "鲁珀特",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Julia-9612",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Julia-9615",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Julia-9616"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Rupert Bowden",
+          "zh": "鲁珀特·鲍登",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "URALT",
+      "zh": "乌拉尔特",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-uraltTest-1083",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexAssault-5948",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexAssault-5950"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Uralt",
+          "zh": "乌拉尔特",
+          "basis": "monster_display_name"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "WARREN",
+      "zh": "沃伦",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Warren-9674",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Warren-9676",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-Warren-9678"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "Warren Wigram",
+          "zh": "沃伦·威格拉姆",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "WILLIAM",
+      "zh": "威廉",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-McMasters-9620",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-McMasters-9622",
+        "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-McMasters-9625"
+      ],
+      "basis": "context_or_existing_name_crosscheck",
+      "evidence": [
+        {
+          "source": "William McMaster",
+          "zh": "威廉·麦克马斯特",
+          "basis": "full_name_prefix"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "CORSIN",
+      "zh": "科尔辛",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5706",
+        "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5707",
+        "line:Assets/Cutscenes/prologue/Prologue.yarn-corsinBattle-5709"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-durandalArchaeo-2999",
+          "en": "ARCHAEOLOGIST: I came here in search of a famous heirloom sword. Its last known owner was stationed at this monastery, during the war against Corsin.",
+          "zh": "ARCHAEOLOGIST: 我是来找一柄有名的传世宝剑的。它最后一位有记载的主人，在对抗科尔辛的战争中，曾驻扎于这座修道院。"
+        },
+        {
+          "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5538",
+          "en": "CORDELIA: He is one of the four sages who defeated General Corsin on the top of Mt. Nibaros, at the end of the Great War.",
+          "zh": "CORDELIA: 大战结束时，在尼巴罗斯山顶击败科尔辛将军的四位贤者，他便是其中之一。"
+        },
+        {
+          "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5547",
+          "en": "HEIZER: You can't seriously believe that. Look at what Corsin achieved, in this war.",
+          "zh": "HEIZER: 你不会真这么想吧？看看科尔辛在这场战争中做成了什么。"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "Dimitri",
+      "zh": "迪米特里",
+      "sample_line_ids": [
+        "line:04a86ca"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:0babb0a",
+          "en": "OLD WOMAN: Dimitri's restaurant went up with a bang. Probably for the insurance money.",
+          "zh": "OLD WOMAN: 迪米特里的餐馆轰的一声就没了。八成是为了骗保险。"
+        },
+        {
+          "id": "line:Assets/Cutscenes/ben/akosNpcs.yarn-akosOldWoman3-22",
+          "en": "OLD WOMAN: Nobody's bought Dimitri's old place. I guess they're superstitious.",
+          "zh": "OLD WOMAN: 迪米特里那块地方还没人买。估计都嫌晦气。"
+        },
+        {
+          "id": "line:01cecb4",
+          "en": "MAN: Hey, you are... were the cook over at Dimitri's right?",
+          "zh": "MAN: 嘿，你是……以前在迪米特里那儿当厨师的吧？"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "HEIZER",
+      "zh": "海泽",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5543",
+        "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5544",
+        "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5547"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:Assets/Cutscenes/chapter8/chapter8.yarn-ethosExteriorArchives-5757",
+          "en": "CORDELIA: Whoever Gustav Heizer was, he must have believed in them. It would not have been unusual for his place and time.",
+          "zh": "CORDELIA: 古斯塔夫·海泽无论是什么人，一定相信这些。在他的时代与故乡，这并不奇怪。"
+        },
+        {
+          "id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-apokatastasis6-6824",
+          "en": "HAELAN: I suspected that, like me, Gustav Heizer must still be alive, after all these years.",
+          "zh": "HAELAN: 我曾怀疑，这么多年过去，古斯塔夫·海泽一定也和我一样，依然活着。"
+        },
+        {
+          "id": "line:Assets/Cutscenes/chapter11/gluhender.yarn-prismRevamp-12619",
+          "en": "JEROME: Gustav Heizer must have spent almost 150 years on a quest for power. Or else, what was he doing, all that time?",
+          "zh": "JEROME: 古斯塔夫·海泽想必用了近一百五十年追求力量。不然，那些年他都在做什么？"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "JOSEPH",
+      "zh": "约瑟夫",
+      "sample_line_ids": [
+        "line:03713cd",
+        "line:00f263c",
+        "line:0ee8beb"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:0c90e73",
+          "en": "LECLAIRE: Are you related to Dr. Joseph Helmont, by any chance?",
+          "zh": "LECLAIRE: 请问，您与约瑟夫·赫尔蒙特医生有亲属关系吗？"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "LE DERNIER",
+      "zh": "勒德尼耶",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-earthShrine_debug-1122",
+        "line:Assets/Cutscenes/debugEvents.yarn-earthShrine_debug-1133",
+        "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5552"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:Assets/Cutscenes/ChapterSelect.yarn-ChapterSelect_Alex-315",
+          "en": "\"And yet, we find that even ardent skeptics like Girardeau, Le Dernier[oxfordComma /] and Nelli talked about magic as though it were an everyday fact of life.",
+          "zh": "“然而我们发现，就连吉拉尔多、勒德尼耶[oxfordComma /]和内利这些坚定的怀疑论者，谈起魔法时，也将它视为日常生活中理所当然的事实。"
+        },
+        {
+          "id": "line:Assets/Cutscenes/debugEvents.yarn-alexandraTester-1112",
+          "en": "\"And yet, we find that even ardent skeptics like Girardeau, Le Dernier[oxfordComma /] and Nelli talked about magic as though it were an everyday fact of life.",
+          "zh": "“然而我们发现，就连吉拉尔多、勒德尼耶[oxfordComma /]和内利这些坚定的怀疑论者，谈起魔法时，也将它视为日常生活中理所当然的事实。"
+        },
+        {
+          "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5566",
+          "en": "<align=\"center\">I journeyed to Seren, to find Pierre Le Dernier, in the hope that he could explain what had happened.</align>",
+          "zh": "<align=\"center\">我前往塞伦，寻找皮埃尔·勒德尼耶，希望他能解释发生的一切。</align>"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "LYDIA",
+      "zh": "莉迪娅",
+      "sample_line_ids": [
+        "line:0533415",
+        "line:0060e32",
+        "line:0e4fa4a"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:0bc162d",
+          "en": "BEN: Hey Lydia, is the boss in back?",
+          "zh": "BEN: 嘿，莉迪娅，老板在后面吗？"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "PAULOS",
+      "zh": "保洛斯",
+      "sample_line_ids": [
+        "line:05b5498",
+        "line:0fbccd7",
+        "line:04b95d1"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:009a12d",
+          "en": "KID: Hey Ben, you better get over there. It's almost your shift. Paulos will be mad.",
+          "zh": "KID: 嘿，本，快过去吧。快轮到你干活了，保洛斯会生气的。"
+        },
+        {
+          "id": "line:017061c",
+          "en": "BEN: Hey, Paulos. How come I never see you cleaning one of these things?",
+          "zh": "BEN: 嘿，保洛斯，怎么从没见你洗过这东西？"
+        },
+        {
+          "id": "line:04a6f92",
+          "en": "BEN: C'mon, Paulos, everybody knows Uncle Vlad likes you the best.",
+          "zh": "BEN: 得了吧，保洛斯，谁不知道弗拉德叔叔最喜欢你。"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "PHYLAKA",
+      "zh": "守护者",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-hectorStart-7358",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-hectorStart-7360"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:0939a76",
+          "en": "????: What are you doing in my woods, Phylaka?",
+          "zh": "????: 守护者，你来我的树林做什么？"
+        },
+        {
+          "id": "line:076cd79",
+          "en": "????: (Wait, she's a phylaka?)",
+          "zh": "????: （等等，她是守护者？）"
+        },
+        {
+          "id": "line:0c723b4",
+          "en": "PACHIS: That phylaka? You know, not a lot of people scare me. But she did.",
+          "zh": "PACHIS: 那个守护者？老兄，能吓着我的人没几个。她算一个。"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "PIERRE",
+      "zh": "皮埃尔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-nibarosPeakTest-1094"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5566",
+          "en": "<align=\"center\">I journeyed to Seren, to find Pierre Le Dernier, in the hope that he could explain what had happened.</align>",
+          "zh": "<align=\"center\">我前往塞伦，寻找皮埃尔·勒德尼耶，希望他能解释发生的一切。</align>"
+        },
+        {
+          "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-keraunosArrivesPass-5573",
+          "en": "KERAUNOS: My friend, Pierre, lived near this square.",
+          "zh": "KERAUNOS: 我的朋友皮埃尔，就住在这片广场附近。"
+        },
+        {
+          "id": "line:Assets/Cutscenes/chapter7/chapter7.yarn-bernardScene-5597",
+          "en": "KERAUNOS: I am looking for my friend, a scholar of magic. Pierre Le Dernier.",
+          "zh": "KERAUNOS: 我在找一位研究魔法的朋友，皮埃尔·勒德尼耶。"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "RA'WLOS",
+      "zh": "拉沃洛斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-rawlos-8481",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-rawlos-8482",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-rawlos-8483"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-rawlos-8481",
+          "en": "RA'WLOS: Hear the wisdom of Ra'wlos T. Wise!",
+          "zh": "RA'WLOS: 来听听智者拉沃洛斯的智慧！"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "YONNI",
+      "zh": "约尼",
+      "sample_line_ids": [
+        "line:0f0362f",
+        "line:05cb23f",
+        "line:0b77b2f"
+      ],
+      "basis": "existing_body_name",
+      "evidence": [
+        {
+          "id": "line:0fbccd7",
+          "en": "PAULOS: Ben! Get over here and finish cleaning Yonni's still!",
+          "zh": "PAULOS: 本！过来把约尼那台蒸馏器洗完！"
+        },
+        {
+          "id": "line:0b93942",
+          "en": "KID: Yonni's really sick.",
+          "zh": "KID: 约尼病得很厉害。"
+        },
+        {
+          "id": "line:04b700a",
+          "en": "KASSANDRA: Yonni? Can you look at me for a sec? I'm gonna take your sickness away.",
+          "zh": "KASSANDRA: 约尼？看着我，好吗？我来把你的病移走。"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "PHYLAKE",
+      "zh": "守护者",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-hectorStart-7355",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-hectorStart-7356",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-hectorStart-7361"
+      ],
+      "basis": "scene_context",
+      "evidence": "Same hectorStart conversation alternates PHYLAKE and PHYLAKA, addresses Master Lanetes; preserve distinct raw keys.",
+      "runtime_verified": false
+    },
+    {
+      "en": "TENDER",
+      "zh": "饲养员",
+      "sample_line_ids": [
+        "line:0ce243f",
+        "line:0f39e6e",
+        "line:082cb25"
+      ],
+      "basis": "scene_context",
+      "evidence": "Cordelia ligantiIntro: tends a rare creature prepared for student practice, which escapes its wards.",
+      "runtime_verified": false
+    },
+    {
+      "en": "MAGISTRATE",
+      "zh": "属地长官",
+      "sample_line_ids": [
+        "line:0fdcd33",
+        "line:0dec4f4",
+        "line:0b76009"
+      ],
+      "basis": "scene_context",
+      "evidence": "Cordelia identifies local dominion magistrate, relieves him for court absence and failure to staff Dominion posts.",
+      "runtime_verified": false
+    },
+    {
+      "en": "ZEDLITZ",
+      "zh": "策德利茨",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/battleCutscenes/BossCutscenes.yarn-battle_zedlitz_int-243",
+        "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-zedlitzScene-6683",
+        "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-zedlitzScene-6686"
+      ],
+      "basis": "scene_context",
+      "evidence": "Both existing monster display-name records agree.",
+      "runtime_verified": false
+    },
+    {
+      "en": "ARCHIAS",
+      "zh": "阿尔基亚斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya1-7372",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya1-7373",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya1-7377"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "CLOTAIRE",
+      "zh": "克洛泰尔",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serenDay.yarn-kitchenScene-4437",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-kitchenScene-4441"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "CODRESCU",
+      "zh": "科德雷斯库",
+      "sample_line_ids": [
+        "line:02ad707",
+        "line:08159ec",
+        "line:0f102f7"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "JUBILEE",
+      "zh": "朱比莉",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-jubilee-8534"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "LAINE",
+      "zh": "莱恩",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-laine-8523",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-laine-8524"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "LEXCANIUM",
+      "zh": "莱克斯卡尼姆",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-lex-8532",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-lex-8533"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "LI",
+      "zh": "李",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-asian-8497",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-asian-8498"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "MADRUGA",
+      "zh": "马德鲁加",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-madruga-8508"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "MATHILDE",
+      "zh": "玛蒂尔德",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/alex/serenDay.yarn-kitchenScene-4439",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-kitchenScene-4442",
+        "line:Assets/Cutscenes/alex/serenDay.yarn-kitchenScene-4444"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "NICEAS",
+      "zh": "尼刻亚斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya1-7376",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya1-7378",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya1-7379"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "OLYMPIAS",
+      "zh": "奥林匹娅丝",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya1-7375",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya2-7386",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya2-7388"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "PETER",
+      "zh": "彼得",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-peter-8515",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-peter-8516"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "POQUE",
+      "zh": "波克",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-neal-11163",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-neal-11164",
+        "line:Assets/Cutscenes/chapter11/outpostNpcs.yarn-neal-11165"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "RIKI",
+      "zh": "里基",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-riki-8499"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "TIMOS",
+      "zh": "提莫斯",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya1-7374",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya1-7380",
+        "line:Assets/Cutscenes/chapter11/alexSidequest.yarn-axtya3-7405"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "SCYTHE",
+      "zh": "镰刀",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-scythe-8495",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-scythe-8496"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "SKULL FIRE",
+      "zh": "骷髅焰",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-skullFire-8502",
+        "line:Assets/Cutscenes/chapter11/backerNPCs.yarn-skullFire-8503"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "TOXIN",
+      "zh": "毒素",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/debugEvents.yarn-gameOverTesting-1070"
+      ],
+      "basis": "new_name_editorial_choice",
+      "evidence": "NPC title transliteration or nickname translation; no matching established body name.",
+      "runtime_verified": false,
+      "first_proofread_note": "Check name consistency when title renderer is integrated; backer credit names remain unchanged."
+    },
+    {
+      "en": "CHIEF",
+      "zh": "工兵主管",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-hostileBoarding-6018",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-hostileBoarding-6019",
+        "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-hostileBoarding-6020"
+      ],
+      "basis": "all_speaker_lines_context_review",
+      "evidence": "All 13 lines: fleet construction and engineering corps command; avoid inventing a specific rank.",
+      "runtime_verified": false
+    },
+    {
+      "en": "PATRON",
+      "zh": "顾客",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/cordelia/feorlanNpcs.yarn-patron1-1757",
+        "line:08b9131",
+        "line:Assets/Cutscenes/cordelia/feorlanNpcs.yarn-patron2-1759"
+      ],
+      "basis": "all_speaker_lines_context_review",
+      "evidence": "All 16 lines cover both tavern drinkers and nightmare restaurant diners.",
+      "runtime_verified": false
+    },
+    {
+      "en": "SERGEANT",
+      "zh": "上士",
+      "sample_line_ids": [
+        "line:Assets/Cutscenes/chapter11/nikolaiQuest.yarn-fThermeSgt-8259",
+        "line:Assets/Cutscenes/chapter11/nikolaiQuest.yarn-fThermeSgt-8260",
+        "line:Assets/Cutscenes/chapter11/nikolaiQuest.yarn-fThermeSgt-8261"
+      ],
+      "basis": "all_speaker_lines_context_review",
+      "evidence": "All 5 speaker lines are military, consistent with established Sergeant Proch usage.",
+      "runtime_verified": false
+    }
+  ],
+  "pending": [],
+  "preserved": [
+    {
+      "en": "???",
+      "reason": "program key, author initial, or intentional unknown marker"
+    },
+    {
+      "en": "????",
+      "reason": "program key, author initial, or intentional unknown marker"
+    },
+    {
+      "en": "Aaron Hedenstrom",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Alexandra Kochneva",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Allison Martin",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Amelia Jones, Julia Henderson, Patrick Dunnevant, Ian Bowling",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Andrew Dunn",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Anthony Alfonso",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Anthony Parce",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Bert Cole",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Brett McDonald",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Carl Lundgren",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Carlos Mata",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Chris Ott",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Description",
+      "reason": "program key, author initial, or intentional unknown marker"
+    },
+    {
+      "en": "Diana Dunn",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "ERROR",
+      "reason": "program key, author initial, or intentional unknown marker"
+    },
+    {
+      "en": "Emily Bowland",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Eric Proton",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jamphibious",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jared Richardson",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jason Levi",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jason Perry",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jeff Coffin",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jennifer Kummer",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jesse Myers",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jessica Bright",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jimmy Bowland",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Johna Smith",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jordi Boin",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Joshua Hunt",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Jung-Min Shin",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Kait Dunton",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Katie Blomartz",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Kelsey Mire",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Kevyn Stott",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Kristan Naigus",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Kyle Kramer",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Lindsey Miller",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Livingston Rampey",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Maciej Kuczyński",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Mathew Harnage",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Milton Monroe",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Olivier Couillard, Ryan Van Dyke",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "PAR",
+      "reason": "program key, author initial, or intentional unknown marker"
+    },
+    {
+      "en": "PNH",
+      "reason": "program key, author initial, or intentional unknown marker"
+    },
+    {
+      "en": "Pat Coil",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Pat Holleman",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Patrick Dunnevant",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Paul White",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Peter Ruibal",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Scott Pezza",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "TJM",
+      "reason": "program key, author initial, or intentional unknown marker"
+    },
+    {
+      "en": "Tera Catallo",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Thomas Davis",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Thomas Eby",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Thomas Feichtmeir",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Tim Wendorf",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Title",
+      "reason": "program key, author initial, or intentional unknown marker"
+    },
+    {
+      "en": "Tyler Deren",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Tyler Ferguson \"Decky\"",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Tyler Mire",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Vincenti Zghra",
+      "reason": "credit attribution; preserve personal names"
+    },
+    {
+      "en": "Zachary Bourgault",
+      "reason": "credit attribution; preserve personal names"
+    }
+  ],
+  "scope": "Only final visible title text; never rewrite source speaker IDs, quest routing keys or compiled narrative. Ambiguous military/service titles require context before mapping.",
+  "contextual_overrides": [
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-captainMerdoyo-2996",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-captainMerdoyo-2997",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/merdoyoNpcs.yarn-captainMerdoyo-2998",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/toMerdoyo.yarn-darioEncounter-4824",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/toMerdoyo.yarn-goUpRiver-4864",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/toMerdoyo.yarn-goUpRiver-4865",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/toMerdoyo.yarn-goUpRiver-4867",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/toMerdoyo.yarn-goUpRiver-4869",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/toMerdoyo.yarn-upRiverGrasslands-4870",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/toMerdoyo.yarn-grasslandsBoatMan-4874",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter5/toMerdoyo.yarn-grasslandsBoatMan-4877",
+      "en": "CAPTAIN",
+      "zh": "船长",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexForcedPanic-5905",
+      "en": "CAPTAIN",
+      "zh": "上尉",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexForcedPanic-5907",
+      "en": "CAPTAIN",
+      "zh": "上尉",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexForcedPanic-5909",
+      "en": "CAPTAIN",
+      "zh": "上尉",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexForcedPanic-5912",
+      "en": "CAPTAIN",
+      "zh": "上尉",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexForcedPanic-5914",
+      "en": "CAPTAIN",
+      "zh": "上尉",
+      "basis": "Chapter 5 river transport versus chapter 9 military officer context",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-flirtingOfficer-2670",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-centerOfficer-2671",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-chillingOfficer-2686",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innOfficer2-2709",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-innOfficer1-2710",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/thermeNpcs.yarn-morningOfficer-2737",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/checkpointNpcs.yarn-riverOfficer-3798",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-officerZ1-3838",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-azOfficer2-3848",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-azOfficer2-3849",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-getToItStral-3850",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-anseitzOfficerG-3851",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stralNPCs.yarn-anseitzOfficerK-3866",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3899",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3901",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3903",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3905",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3906",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3907",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3908",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3909",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3911",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3912",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-anseitzFirstSpeech-3913",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-thirdBunker-3966",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-thirdBunker-3968",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-thirdBunker-3970",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-thirdBunker-3971",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-thirdBunker-3973",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-thirdBunker-3975",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-thirdBunker-3976",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/nikolai/stral.yarn-konitzFinal-4010",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter6/ch6NPCs.yarn-campLogistics1-5424",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter6/ch6NPCs.yarn-campLogistics2-5425",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-ltMeeting-5823",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-ltMeeting-5824",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-ltMeeting-5826",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-ltMeeting-5828",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-ltMeeting-5829",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-ltMeeting-5834",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9scenes.yarn-alexPalaceDistraction-5983",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9npcs.yarn-ltOneafter-6169",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9npcs.yarn-ltTwoafter-6170",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9npcs.yarn-plannerA-6183",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9npcs.yarn-plannerA-6184",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9npcs.yarn-plannerB-6185",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9npcs.yarn-extMeeting-6196",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9npcs.yarn-extMeeting-6197",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter9/chapter9npcs.yarn-poolOfficer-6213",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-factoryEstablishingShot-6504",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-executionOverhear-6522",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-executionOverhear-6523",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-executionOverhear-6524",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-c10civilianBombing-6588",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-airshipCombat1-6648",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-anseitzOfficerEncounter-6742",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-anseitzOfficerEncounter-6743",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10battles.yarn-ch10GordonBattle-7595",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10battles.yarn-ch10GordonBattle-7596",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10battles.yarn-ch10GordonBattle-7597",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10battles.yarn-ch10GordonBattle-7598",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/nikolaiQuest.yarn-colonelAltmayer-8276",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/nikolaiQuest.yarn-colonelAltmayer-8277",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/nikolaiQuest.yarn-colonelAltmayer-8279",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/nikolaiQuest.yarn-colonelAltmayer-8280",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/nikolaiQuest.yarn-colonelAltmayer-8282",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/nikolaiQuest.yarn-thermeWestBattle-8449",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Army chain of command, military base or combat orders confirmed in scene.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-c11flyers-9432",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionEntry-9456",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionEntry-9457",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionEntry-9463",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionDoorOfficer-9471",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionDoorOfficer-9472",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-leftThompsonFirst-9483",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-rightThompsonFirst-9484",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-f2Officer-9485",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-f2Officer-9486",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-f2Officer-9487",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-f2Officer-9488",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-f2Officer-9489",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-ThompsonLaterOfficer-9979",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-leftMansionOfficer-10205",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-pathosOfficer-10208",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/jeromeSidequest.yarn-mansionKitchenOfficer-10209",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City policing and mansion murder inquiry under Inspector Thompson.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/debugEvents.yarn-counterTestSetup-1082",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Debug test actor; generic military Officer label, no specific rank inferred.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/debugEvents.yarn-openerTester-1100",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Debug test actor; generic military Officer label, no specific rank inferred.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:01fa3b4",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Paired city-street dialogue copies: no-loitering orders, factory work and public library vicinity.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:052c9be",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Paired city-street dialogue copies: no-loitering orders, factory work and public library vicinity.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:01bada0",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Paired city-street dialogue copies: no-loitering orders, factory work and public library vicinity.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:0f21284",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Paired city-street dialogue copies: no-loitering orders, factory work and public library vicinity.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/cordelia/leorniaNpcs.yarn-diaconOfficer1-1934",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: Leornia civic facility security after attack; consistent with city street officers. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/cordelia/leorniaNpcs.yarn-diaconOfficer2-1935",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: Leornia civic facility security after attack; consistent with city street officers. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/cordelia/leorniaNpcs.yarn-diaconOfficer2-1936",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: Leornia civic facility security after attack; consistent with city street officers. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:0e14a72",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Ben summoned to Deputy Mayor Mikelakis; municipal escort associated with Karras and Pachis, not an army command.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:0200d03",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Ben summoned to Deputy Mayor Mikelakis; municipal escort associated with Karras and Pachis, not an army command.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:08862e6",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Ben summoned to Deputy Mayor Mikelakis; municipal escort associated with Karras and Pachis, not an army command.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:04d2306",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Ben summoned to Deputy Mayor Mikelakis; municipal escort associated with Karras and Pachis, not an army command.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:03e73d4",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Paired city-street dialogue copies: no-loitering orders, factory work and public library vicinity.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:0ac7ce4",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Paired city-street dialogue copies: no-loitering orders, factory work and public library vicinity.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:01a5d3c",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Paired city-street dialogue copies: no-loitering orders, factory work and public library vicinity.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:04e8666",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Paired city-street dialogue copies: no-loitering orders, factory work and public library vicinity.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-c10departure-6864",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Editorial inference: transport liaison taking the party to allied production site after the battle. Confirm uniform/identity during runtime scene review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10scenes.yarn-c10departure-6870",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Editorial inference: transport liaison taking the party to allied production site after the battle. Confirm uniform/identity during runtime scene review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-everyoneOfficer2-6919",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-everyoneOfficer1a-6922",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-drinksOfficer-6928",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-everyoneOfficer1-6936",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-refugeOfficer1-6942",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-entryRefugeOfficer-6952",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-westRescueOfficerExt-6953",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-everyoneRescuedOfficer-6961",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-officerSouth1-6970",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-c10hsOfficer-6979",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-iretonOfficer1-7024",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-iretonOfficer1-7025",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-iretonOfficer2-7028",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-iretonOfficer2-7029",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-iretonOfficer0-7030",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-iretonOfficer0-7031",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-iretonOfficer0-7032",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-iretonOfficer0-7033",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-iretonOfficer2a-7065",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter10/chapter10npcs.yarn-iretonBarOfficer-7066",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "Editorial inference: municipal disaster response, refugee queues, civilian safety and maintaining law in Ireton and Leornia. Confirm uniform/identity in runtime review.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-stralGuardOfficer-8659",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Preceding dreyfussReintro states Luskiyans have occupied Stral; this actor controls entry to occupied territory.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-stralGuardOfficer-8662",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Preceding dreyfussReintro states Luskiyans have occupied Stral; this actor controls entry to occupied territory.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-stralGuardOfficer-8665",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Preceding dreyfussReintro states Luskiyans have occupied Stral; this actor controls entry to occupied territory.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-stralGuardOfficer-8666",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Preceding dreyfussReintro states Luskiyans have occupied Stral; this actor controls entry to occupied territory.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-stralGuardOfficer-8668",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Preceding dreyfussReintro states Luskiyans have occupied Stral; this actor controls entry to occupied territory.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-stralGuardOfficer-8669",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Preceding dreyfussReintro states Luskiyans have occupied Stral; this actor controls entry to occupied territory.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-stralGuardOfficer-8671",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Preceding dreyfussReintro states Luskiyans have occupied Stral; this actor controls entry to occupied territory.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/zikaronSidequest.yarn-stralGuardOfficer-8672",
+      "en": "OFFICER",
+      "zh": "军官",
+      "basis": "Preceding dreyfussReintro states Luskiyans have occupied Stral; this actor controls entry to occupied territory.",
+      "runtime_verified": false
+    },
+    {
+      "line_id": "line:Assets/Cutscenes/chapter11/c11leorniaNPCs.yarn-factoryLunch11d-11076",
+      "en": "OFFICER",
+      "zh": "警官",
+      "basis": "City factory district enforcement, reacting to looting and resumption of usual misconduct.",
+      "runtime_verified": false
+    }
+  ],
+  "integration_requirement": "Convert only visible titles using raw speaker plus current line ID. All 148 CAPTAIN/OFFICER source lines have explicit decisions; never rewrite actor keys.",
+  "unresolved_contextual_lines": [],
+  "non_speaker_display_text": [
+    {
+      "en": "BBG Override",
+      "reason": "Already translated as complete display/hint text; not an unresolved actor name.",
+      "lines": [
+        {
+          "id": "line:Assets/Cutscenes/debugEvents.yarn-debug_overlay-627",
+          "en": "BBG Override: {0}",
+          "zh": "战斗背景覆盖：{0}"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "Disable Enemy Render",
+      "reason": "Already translated as complete display/hint text; not an unresolved actor name.",
+      "lines": [
+        {
+          "id": "line:Assets/Cutscenes/debugEvents.yarn-debug_overlay-626",
+          "en": "Disable Enemy Render: {0}",
+          "zh": "禁用敌人渲染：{0}"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "Eagle Anger Level",
+      "reason": "Already translated as complete display/hint text; not an unresolved actor name.",
+      "lines": [
+        {
+          "id": "line:Assets/Cutscenes/alex/serenZoo.yarn-serenZoo_updateCameraHint-5014",
+          "en": "Eagle Anger Level:",
+          "zh": "老鹰怒气："
+        },
+        {
+          "id": "line:Assets/Cutscenes/alex/serenZoo.yarn-serenZoo_updateCameraHint-5015",
+          "en": "Eagle Anger Level: X",
+          "zh": "老鹰怒气：X"
+        },
+        {
+          "id": "line:Assets/Cutscenes/alex/serenZoo.yarn-serenZoo_updateCameraHint-5016",
+          "en": "Eagle Anger Level: X X",
+          "zh": "老鹰怒气：X X"
+        },
+        {
+          "id": "line:Assets/Cutscenes/alex/serenZoo.yarn-serenZoo_updateCameraHint-5017",
+          "en": "Eagle Anger Level: X X X",
+          "zh": "老鹰怒气：X X X"
+        },
+        {
+          "id": "line:Assets/Cutscenes/alex/serenZoo.yarn-serenZoo_updateCameraHint-5018",
+          "en": "Eagle Anger Level: {0}",
+          "zh": "老鹰怒气：{0}"
+        }
+      ],
+      "runtime_verified": false
+    },
+    {
+      "en": "Temp",
+      "reason": "Already translated as complete display/hint text; not an unresolved actor name.",
+      "lines": [
+        {
+          "id": "line:Assets/Cutscenes/chapter9/coldMinigame.yarn-coldZone_updateHint-7078",
+          "en": "Temp: {0}. Press \\[party\\] to warm up",
+          "zh": "温度：{0}。按 \\[party\\] 取暖"
+        }
+      ],
+      "runtime_verified": false
+    }
+  ]
+}

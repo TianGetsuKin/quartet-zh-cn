@@ -1,0 +1,11 @@
+{
+  "overview": {
+    "Akos": "阿科斯", "Auslen Bunker": "奥斯伦地堡", "Barbarian Camp": "蛮族营地", "Barbarian Forest": "蛮族森林", "Campsite": "营地", "Desert Ruins": "沙漠遗迹", "Duck Dog Shrine": "鸭犬圣祠", "Dustwind Gulch": "尘风峡谷", "Earth Shrine": "地之圣祠", "Explorer's Guild": "探险家公会", "Feorlan": "费奥兰", "Fishing Spot": "钓鱼点", "Grasslands": "草原", "Helva": "赫尔瓦", "Helva Bluffs": "赫尔瓦峭壁", "Hermit Cave": "隐士洞窟", "Iretone": "艾雷顿", "Island Shrine": "孤岛圣祠", "Isolated House": "偏僻小屋", "Javelin Cave": "标枪洞窟", "Las Caidas": "拉斯凯达斯", "Leornia": "莱奥尼亚", "Magico's Lab": "魔法佬实验室", "Marsh": "沼泽", "Merdoyo": "梅尔多约", "Mt. Nibaros": "尼巴罗斯山", "Nibaros Pass": "尼巴罗斯山口", "North Beach": "北部海滩", "Northeastern Wilds": "东北荒野", "Scorched Mountain": "焦灼之山", "Seren": "塞伦", "Siope Monastery": "西奥佩修道院", "South Island": "南部岛屿", "Stani's Farm": "斯塔尼的农场", "Stral": "斯特拉尔", "Swamp": "沼泽", "The Archives": "档案馆", "Therme": "瑟尔梅", "Villa": "别墅", "Wind Gate": "风之门", "Wind Tower": "风之塔", "Yina Shrine": "伊纳圣祠", "Zrodlo": "兹鲁德沃"
+  },
+  "targets": {
+    "Single Ally But Self": "我方单体（自身除外）", "Single Ally": "我方单体", "Any Random But Self": "随机目标（自身除外）", "Any Ally or Enemy": "任意敌我单体", "Self": "自身", "All Allies and All Enemies": "敌我全体", "Single Enemy": "敌方单体", "Random Ally": "随机我方单体", "All Allies But Self": "我方全体（自身除外）", "Random Single Target": "随机目标", "All Allies": "我方全体", "Random Ally But Self": "随机我方单体（自身除外）", "All Enemies": "敌方全体", "All But Self": "敌我全体（自身除外）", "Any Single But Self": "任意单体（自身除外）", "Random Enemy": "随机敌方单体"
+  },
+  "runtime": {
+    "Fight": "攻击", "X-Fight": "连击", "X-Swipe": "连击", "SWAP": "换人", "Swap": "换人", "Random": "随机目标", "Random (except user)": "随机目标（自身除外）", "Random Ally (except user)": "随机我方单体（自身除外）", "All Allies (except user)": "我方全体（自身除外）"
+  }
+}

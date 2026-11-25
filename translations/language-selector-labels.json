@@ -1,0 +1,7 @@
+{
+  "scope": "language selection labels use their own language, independent of interface language",
+  "labels": {"en": "English", "zh-Hans": "简体中文"},
+  "legacy_value_aliases": {"Simplified Chinese": "zh-Hans"},
+  "storage_codes_unchanged": true,
+  "source": "User preference confirmed 2026-10-07 during native Linux menu testing"
+}

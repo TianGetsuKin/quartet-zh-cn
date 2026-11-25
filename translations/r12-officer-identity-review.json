@@ -1,0 +1,130 @@
+{
+  "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3609",
+  "source": "WEISS: Magic without the officers? I'm sold.",
+  "source_sha256": "5773d572af72f52ac2504d507bf4e91b07031a7317c92149e4c6542775d77c8f",
+  "before": "WEISS: 不用军官也能用魔法？这我喜欢。",
+  "after": "WEISS: 不是军官也能用魔法？这我喜欢。",
+  "authority_files": [
+    "pending-nikolai-border-patrol.zh.json"
+  ],
+  "approved_by": "User exact wording, 2026-10-04",
+  "context": [
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3596",
+      "en": "KONITZ: I think this should be high enough.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3597",
+      "en": "NIKOLAI: Okay, but try not to stick your head out where anyone can see it. We're muffled, not invisible.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3598",
+      "en": "KONITZ: You got it.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3599",
+      "en": "WEISS: Wait, what's he doing?",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3600",
+      "en": "KONITZ: Can I tell him?",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3601",
+      "en": "NIKOLAI: Specialist Konitz is going to use a little bit of magic.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3602",
+      "en": "MUELLER: Wait a second. He's not an officer.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3603",
+      "en": "WEISS: Yeah, officers go to school for TEN YEARS to learn magic.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3604",
+      "en": "KONITZ: Everyone goes to school for ten years... officers can use magic because of the Ascension Ceremony.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3605",
+      "en": "NIKOLAI: Obviously, Specialist Konitz does not have his own magical powers. Captain Altmayer already cast all the spells.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3606",
+      "en": "KONITZ: And he put them into this!",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3607",
+      "en": "MUELLER: What... is it?",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3608",
+      "en": "KONITZ: A magical terminal device! It can store magic for days, maybe even weeks.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3609",
+      "en": "WEISS: Magic without the officers? I'm sold.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3610",
+      "en": "MUELLER: How does it work?",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3611",
+      "en": "NIKOLAI: I'll leave the explanation to Specialist Konitz.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3612",
+      "en": "KONITZ: You basically just flip some switches. But the seek spell works a lot better if you're elevated, away from the ley line.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3613",
+      "en": "NIKOLAI: Careful now, Konitz. Keep your head down.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3614",
+      "en": "KONITZ: It should only take a few seconds.",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3615",
+      "en": "NIKOLAI: Konitz...",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3616",
+      "en": "KONITZ: Okay! I've got zero interference... and...",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3617",
+      "en": "NIKOLAI: Konitz!",
+      "zh": ""
+    },
+    {
+      "id": "line:Assets/Cutscenes/nikolai/BarbarianForest.yarn-stumpScene-3618",
+      "en": "NIKOLAI: Form up! Let's move!",
+      "zh": ""
+    }
+  ],
+  "reason": "Clarifies magic is available to a non-officer, rather than implying an officer is an optional assistant.",
+  "runtime_verified": false
+}

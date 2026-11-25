@@ -1,0 +1,18 @@
+{
+  "line:Assets/Cutscenes/ConfigScreen.yarn-ConfigScreen_Invalid_Keyboard_Bindings-11364": "部分键盘操作尚未设置按键。",
+  "line:Assets/Cutscenes/ConfigScreen.yarn-ConfigScreen_Invalid_Keyboard_Bindings-11365": "检查按键设置",
+  "line:Assets/Cutscenes/ConfigScreen.yarn-ConfigScreen_Invalid_Keyboard_Bindings-11366": "重置键盘按键（{0}）",
+  "line:Assets/Cutscenes/ConfigScreen.yarn-ConfigScreen_Invalid_Keyboard_Bindings-11367": "键盘按键已恢复默认设置。",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11368": "保存失败：磁盘空间不足，无法写入存档文件夹。Quartet 最多需要 8 MB 空间来保存存档。",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11369": "无法访问存档文件夹。可能需要在 Windows Defender 中允许 Quartet 访问“文档”文件夹。",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11370": "无法访问存档文件夹。当前用户账户可能没有访问权限。",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11371": "无法访问存档文件夹。",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11372": "重试",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11373": "了解详情（打开浏览器）",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11374": "不保存，继续游戏",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11375": "确定继续吗？游戏进度将无法保存。",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11376": "是，不保存，继续游戏",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11377": "否，返回",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11378": "退出游戏",
+  "line:Assets/Cutscenes/SaveLoad.yarn-SaveLoad_Save_Attempt_Failed-11379": "取消"
+}

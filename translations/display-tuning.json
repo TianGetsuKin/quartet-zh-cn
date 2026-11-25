@@ -1,0 +1,5 @@
+{
+  "reward_icons": {"character_scale":2.0,"glyph_height":13.0,"horizontal_advance":13.0,"vertical_bearing":9.75,"previous_character_scale":1.0,"previous_vertical_bearing":13.0},
+  "reason":"Double the TMP SpriteCharacter scale; retain source pixels and point filtering. (bearing - height/2) * scale stays 6.5, retaining the previous vertical center. The horizontal advance scales with the character to reserve the enlarged icon's space.",
+  "runtime_visual_verified":false
+}

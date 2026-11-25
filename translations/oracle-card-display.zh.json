@@ -1,0 +1,302 @@
+{
+  "auslenOfficer": {
+    "en": "New Card",
+    "zh": "新卡牌"
+  },
+  "auslenSoldier": {
+    "en": "Rifleman",
+    "zh": "步枪兵"
+  },
+  "auslenSpecialist": {
+    "en": "Specialist",
+    "zh": "特战兵"
+  },
+  "heroAgata": {
+    "en": "Agata",
+    "zh": "阿伽塔"
+  },
+  "heroAlexandra": {
+    "en": "Alexandra",
+    "zh": "亚历珊德拉"
+  },
+  "heroAlvin": {
+    "en": "Alvin",
+    "zh": "阿尔文"
+  },
+  "heroBekker": {
+    "en": "Bekker",
+    "zh": "贝克"
+  },
+  "heroBen": {
+    "en": "Ben",
+    "zh": "本"
+  },
+  "heroConover": {
+    "en": "Conover",
+    "zh": "科诺弗"
+  },
+  "heroCordelia": {
+    "en": "Cordelia",
+    "zh": "科黛莉娅"
+  },
+  "heroDario": {
+    "en": "Dario",
+    "zh": "达里奥"
+  },
+  "heroGordon": {
+    "en": "Gordon",
+    "zh": "戈登"
+  },
+  "heroGustav": {
+    "en": "Gustav",
+    "zh": "古斯塔夫"
+  },
+  "heroHaelan": {
+    "en": "Haelan",
+    "zh": "海兰"
+  },
+  "heroJerome": {
+    "en": "Jerome",
+    "zh": "杰罗姆"
+  },
+  "heroJuna": {
+    "en": "Juna",
+    "zh": "朱娜"
+  },
+  "heroKarras": {
+    "en": "Karras",
+    "zh": "卡拉斯"
+  },
+  "heroKeraunos": {
+    "en": "Keraunos",
+    "zh": "凯劳诺斯"
+  },
+  "heroKonitz": {
+    "en": "Konitz",
+    "zh": "科尼茨"
+  },
+  "heroLeclaire": {
+    "en": "Leclaire",
+    "zh": "勒克莱尔"
+  },
+  "heroMuller": {
+    "en": "Mueller",
+    "zh": "米勒"
+  },
+  "heroNikolai": {
+    "en": "Nikolai",
+    "zh": "尼古拉"
+  },
+  "heroOctavia": {
+    "en": "Octavia",
+    "zh": "奥克塔维娅"
+  },
+  "heroPachis": {
+    "en": "Pachis",
+    "zh": "帕奇斯"
+  },
+  "heroPierre": {
+    "en": "Pierre",
+    "zh": "皮埃尔"
+  },
+  "heroWiess": {
+    "en": "Weiss",
+    "zh": "魏斯"
+  },
+  "heroZikaron": {
+    "en": "Zikaron",
+    "zh": "齐卡隆"
+  },
+  "lanetes": {
+    "en": "????",
+    "zh": "????"
+  },
+  "liganti": {
+    "en": "Liganti",
+    "zh": "利甘蒂"
+  },
+  "npcApingorix": {
+    "en": "Apingorix",
+    "zh": "阿平戈里克斯"
+  },
+  "npcBandit": {
+    "en": "Bandit",
+    "zh": "匪徒"
+  },
+  "npcBandit2": {
+    "en": "Bandit",
+    "zh": "匪徒"
+  },
+  "npcBarbarian1": {
+    "en": "Barbarian",
+    "zh": "蛮族人"
+  },
+  "npcBarbarian2": {
+    "en": "Barbarian",
+    "zh": "蛮族人"
+  },
+  "npcBarbarian3": {
+    "en": "Barbarian",
+    "zh": "蛮族人"
+  },
+  "npcBarbarianWest1": {
+    "en": "Barbarian",
+    "zh": "蛮族人"
+  },
+  "npcBarbarianWest2": {
+    "en": "Barbarian",
+    "zh": "蛮族人"
+  },
+  "npcBoatCaptain": {
+    "en": "Captain",
+    "zh": "船长"
+  },
+  "npcCoomes": {
+    "en": "Coomes",
+    "zh": "库姆斯"
+  },
+  "npcDewlin": {
+    "en": "Dewlin",
+    "zh": "杜林"
+  },
+  "npcDietrich": {
+    "en": "Dietrich",
+    "zh": "迪特里希"
+  },
+  "npcDiotima": {
+    "en": "Diotima",
+    "zh": "狄奥提玛"
+  },
+  "npcDreyfuss": {
+    "en": "Dreyfuss",
+    "zh": "德雷福斯"
+  },
+  "npcEnforcer": {
+    "en": "Enforcer",
+    "zh": "执行者"
+  },
+  "npcFortuneTeller": {
+    "en": "Fortune Teller",
+    "zh": "占卜师"
+  },
+  "npcGiorgios": {
+    "en": "Giorgios",
+    "zh": "乔尔乔斯"
+  },
+  "npcKassandra": {
+    "en": "Kassandra",
+    "zh": "卡珊德拉"
+  },
+  "npcKordyne": {
+    "en": "Kordyne",
+    "zh": "科尔丁"
+  },
+  "npcLeona": {
+    "en": "Leona",
+    "zh": "蕾欧娜"
+  },
+  "npcLibrarian": {
+    "en": "Librarian",
+    "zh": "图书管理员"
+  },
+  "npcLouis": {
+    "en": "Uncle Louis",
+    "zh": "路易舅舅"
+  },
+  "npcLuskiyanOfficer": {
+    "en": "Luskiyan Officer",
+    "zh": "卢斯基亚军官"
+  },
+  "npcLuskiyanSoldier": {
+    "en": "Luskiyan Soldier",
+    "zh": "卢斯基亚士兵"
+  },
+  "npcLuskiyanSoldier2": {
+    "en": "Luskiyan Soldier",
+    "zh": "卢斯基亚士兵"
+  },
+  "npcMateusz": {
+    "en": "Mateusz",
+    "zh": "马特乌什"
+  },
+  "npcMelraux": {
+    "en": "Melraux",
+    "zh": "梅尔罗"
+  },
+  "npcMikelakis": {
+    "en": "Mikelakis",
+    "zh": "米克拉基斯"
+  },
+  "npcMudgett": {
+    "en": "Mudgett",
+    "zh": "马吉特"
+  },
+  "npcPavel": {
+    "en": "Pavel",
+    "zh": "帕维尔"
+  },
+  "npcPerot": {
+    "en": "Mr. Perot",
+    "zh": "佩罗先生"
+  },
+  "npcRobert": {
+    "en": "Robert",
+    "zh": "罗伯特"
+  },
+  "npcSilent": {
+    "en": "The Silent (M)",
+    "zh": "缄默者（男）"
+  },
+  "npcSilentF": {
+    "en": "The Silent (F)",
+    "zh": "缄默者（女）"
+  },
+  "npcSmuggler": {
+    "en": "Smuggler",
+    "zh": "走私贩"
+  },
+  "npcSymon": {
+    "en": "Symon",
+    "zh": "西蒙"
+  },
+  "npcTheo": {
+    "en": "Theo",
+    "zh": "西奥"
+  },
+  "npcThug": {
+    "en": "Thug",
+    "zh": "打手"
+  },
+  "npcThug2": {
+    "en": "Thug",
+    "zh": "打手"
+  },
+  "npcVonRohr": {
+    "en": "Von Rohr",
+    "zh": "冯·罗尔"
+  },
+  "orphanMarja": {
+    "en": "Marja",
+    "zh": "玛尔雅"
+  },
+  "orphanSophia": {
+    "en": "Sophia",
+    "zh": "索菲娅"
+  },
+  "orphanStani": {
+    "en": "Stani",
+    "zh": "斯塔尼"
+  },
+  "orphanYonni": {
+    "en": "Yonni",
+    "zh": "约尼"
+  },
+  "palukus": {
+    "en": "Palukus",
+    "zh": "帕卢库斯"
+  },
+  "skilurus": {
+    "en": "Skilurus",
+    "zh": "斯基卢鲁斯"
+  }
+}

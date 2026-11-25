@@ -1,0 +1,6 @@
+{
+  "terms": {"Delay":"延迟","Silence":"沉默","Stun":"眩晕","Blind":"失明","Sleep":"睡眠","Freeze":"冻结","Poison":"中毒","Bleed":"流血","Burn":"灼伤","Berserk":"狂暴","Clumsy":"笨拙","Curse":"诅咒","Ensnare":"缠绕","Threaten":"威吓","StatDown":"能力下降","Stat Down":"能力下降","Taunt":"嘲讽","Shield":"护盾"},
+  "exact": {"[Remove]":"[卸下]","Weak!":"弱点！","Miss!":"未命中！","Immune!":"免疫！"},
+  "source_note":"Delay popup is original metadata literal 18668 plain:Delay!; remove equipment row is literal 13659 [Remove]. Other status names are inventoried original display names and match existing skill/scan terminology. Translate only visible renderer spans, preserving original enum names, prefixes and metadata literals.",
+  "review_status":"Code/data source checked; live combat popups pending."
+}

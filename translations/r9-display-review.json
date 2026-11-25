@@ -1,0 +1,11 @@
+{
+  "changes": [
+    {
+      "scope": "metadata",
+      "en": "Keep Running",
+      "before": "始终奔跑",
+      "after": "始终运行",
+      "reason": "Background Mode: running means background execution; not player movement."
+    }
+  ]
+}

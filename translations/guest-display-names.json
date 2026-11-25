@@ -1,0 +1,159 @@
+[
+  {
+    "id": 2534,
+    "technicalName": "heroMarja",
+    "en": "Marja",
+    "zh": "玛尔雅",
+    "basis": "resource display-name transliteration; no dialogue usage found, needs review if surfaced"
+  },
+  {
+    "id": 2578,
+    "technicalName": "heroYonni",
+    "en": "Stephanos",
+    "zh": "斯特法诺斯",
+    "basis": "resource display-name transliteration; no dialogue usage found, needs review if surfaced"
+  },
+  {
+    "id": 2693,
+    "technicalName": "heroKircher",
+    "en": "Kircher",
+    "zh": "基尔歇尔",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 2718,
+    "technicalName": "heroConover",
+    "en": "Conover",
+    "zh": "科诺弗",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 2759,
+    "technicalName": "heroHaelan",
+    "en": "Haelan",
+    "zh": "海兰"
+  },
+  {
+    "id": 2954,
+    "technicalName": "heroKeraunos",
+    "en": "Keraunos",
+    "zh": "凯劳诺斯"
+  },
+  {
+    "id": 3053,
+    "technicalName": "heroBekker",
+    "en": "Bekker",
+    "zh": "贝克",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 3374,
+    "technicalName": "heroGordon",
+    "en": "Gordon",
+    "zh": "戈登",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 3900,
+    "technicalName": "heroChildBen",
+    "en": "Ben (Orphan)",
+    "zh": "本（孤儿）",
+    "basis": "resource display-name transliteration; no dialogue usage found, needs review if surfaced"
+  },
+  {
+    "id": 4282,
+    "technicalName": "heroStani",
+    "en": "Andros",
+    "zh": "安德罗斯",
+    "basis": "resource display-name transliteration; no dialogue usage found, needs review if surfaced"
+  },
+  {
+    "id": 4392,
+    "technicalName": "heroLeclaire",
+    "en": "Leclaire",
+    "zh": "勒克莱尔",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 4439,
+    "technicalName": "heroPierre",
+    "en": "Le Dernier",
+    "zh": "勒德尼耶"
+  },
+  {
+    "id": 5133,
+    "technicalName": "heroKatia",
+    "en": "Katia",
+    "zh": "卡蒂娅",
+    "basis": "resource display-name transliteration; no dialogue usage found, needs review if surfaced"
+  },
+  {
+    "id": 5403,
+    "technicalName": "heroOctavia",
+    "en": "Octavia",
+    "zh": "奥克塔维娅",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 5411,
+    "technicalName": "heroAlvin",
+    "en": "Alvin",
+    "zh": "阿尔文",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 5412,
+    "technicalName": "heroGustav",
+    "en": "Gustav",
+    "zh": "古斯塔夫"
+  },
+  {
+    "id": 5462,
+    "technicalName": "heroGeorgios",
+    "en": "Georgios",
+    "zh": "乔尔乔斯",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 5515,
+    "technicalName": "heroKonnitz",
+    "en": "Konitz",
+    "zh": "科尼茨",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 5630,
+    "technicalName": "heroSophia",
+    "en": "Sophia",
+    "zh": "索菲娅",
+    "basis": "resource display-name transliteration; no dialogue usage found, needs review if surfaced"
+  },
+  {
+    "id": 5701,
+    "technicalName": "heroPachis",
+    "en": "Pachis",
+    "zh": "帕奇斯",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 6231,
+    "technicalName": "heroMueller",
+    "en": "Mueller",
+    "zh": "米勒",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 6315,
+    "technicalName": "heroWeiss",
+    "en": "Weiss",
+    "zh": "魏斯",
+    "basis": "existing dialogue/glossary"
+  },
+  {
+    "id": 6571,
+    "technicalName": "heroKarras",
+    "en": "Karras",
+    "zh": "卡拉斯",
+    "basis": "existing dialogue/glossary"
+  }
+]

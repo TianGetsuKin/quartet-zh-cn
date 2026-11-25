@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3545,
+    "technicalName": "heroJuna",
+    "en": "Juna",
+    "zh": "朱娜"
+  },
+  {
+    "id": 2791,
+    "technicalName": "heroZikaron",
+    "en": "Zikaron",
+    "zh": "齐卡隆"
+  },
+  {
+    "id": 4239,
+    "technicalName": "heroCordelia",
+    "en": "Cordelia",
+    "zh": "科黛莉娅"
+  },
+  {
+    "id": 2695,
+    "technicalName": "heroAlexandra",
+    "en": "Alexandra",
+    "zh": "亚历珊德拉"
+  },
+  {
+    "id": 5171,
+    "technicalName": "heroAgata",
+    "en": "Agata",
+    "zh": "阿伽塔"
+  },
+  {
+    "id": 3096,
+    "technicalName": "heroJerome",
+    "en": "Jerome",
+    "zh": "杰罗姆"
+  },
+  {
+    "id": 5079,
+    "technicalName": "heroNikolai",
+    "en": "Nikolai",
+    "zh": "尼古拉"
+  },
+  {
+    "id": 4116,
+    "technicalName": "heroBen",
+    "en": "Ben",
+    "zh": "本"
+  }
+]

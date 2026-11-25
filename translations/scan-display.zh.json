@@ -1,0 +1,5 @@
+{
+  "headings": [["Name: ","名称：",0],["Blood Type: ","血型：",2],["Weak vs.: ","弱点：",1],["Absorbs: ","吸收：",1],["Resists: ","抗性：",1]],
+  "terms": {"earth":"地","fire":"火","water":"水","wind":"风","quintessence":"精粹","blunt":"打击","pierce":"穿刺","slash":"斩击","silence":"沉默","stun":"眩晕","blind":"失明","sleep":"睡眠","freeze":"冻结","poison":"中毒","bleed":"流血","burn":"灼伤","threaten":"威吓","statdown":"能力下降"},
+  "blood": {"Air":"空气","DEATH":"死亡","Poison":"毒液"}
+}

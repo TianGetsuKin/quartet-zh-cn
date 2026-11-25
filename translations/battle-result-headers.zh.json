@@ -1,0 +1,11 @@
+{
+  "marker": "<link=\"qzhresult\">",
+  "headers": [
+    {"en":"Victory!","zh":"胜利！","image_id":11402,"owner_id":98,"font_size":18.0},
+    {"en":"Spoils","zh":"战利品","image_id":11319,"owner_id":36,"font_size":16.0}
+  ],
+  "source": "Original level4 and matching default_scenes battle UI. Victory Image + SpriteAnimator uses 15 graphic_victory_animated sprites; Spoils Image uses graphic_spoils.",
+  "render_mode": "pixel_animation",
+  "design": "Chinese titles use scene-local 15-frame gold pixel sprites, a cloned original SpriteAnimator and ImageCollection (1.5 seconds, single sweep). The invisible TMP marker switches the original English Image and new Chinese Image. Victory retains its original English animation; Spoils retains its original static English image. No new timer, update hook or live font generation. Original result flow and animation objects are unchanged.",
+  "visual_verified": false
+}

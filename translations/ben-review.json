@@ -1,0 +1,2345 @@
+{
+  "source_sha256": "43ec00da9a095998be2b840bc37ef01f5d718cfffe0c53dc9659ae9c273e0c3f",
+  "entries": [
+    {
+      "id": "line:0f3ab8b",
+      "en": "Dimitri's Restaurant, in the city of Akos, southern Tyche.",
+      "zh": "堤刻南部，阿科斯城，迪米特里的餐馆。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0bc162d",
+      "en": "BEN: Hey Lydia, is the boss in back?",
+      "zh": "BEN: 嘿，莉迪娅，老板在后面吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0533415",
+      "en": "LYDIA: Oh... Ben. No, he's not.",
+      "zh": "LYDIA: 啊……本。他不在。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04b5b24",
+      "en": "BEN: I know he's here. His truck is out front.",
+      "zh": "BEN: 我知道他在。他的车就停在门口。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c00042",
+      "en": "BEN: Did he tell you to keep me out?",
+      "zh": "BEN: 是他让你拦着我的？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0060e32",
+      "en": "LYDIA: It's just a bad time. Like, a REALLY bad time. You should come back later.",
+      "zh": "LYDIA: 现在不方便。真的，特别不方便。你还是过会儿再来吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04b63e9",
+      "en": "BEN: Like when? During my shift? I'm not working for free.",
+      "zh": "BEN: 过会儿？等我上班的时候？我可不白干。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c478e5",
+      "en": "BEN: He's bounced two paychecks.",
+      "zh": "BEN: 他给我的工资支票，已经有两张兑不出来了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e4fa4a",
+      "en": "LYDIA: Stop! There are plumbers back there. It stinks!",
+      "zh": "LYDIA: 别进去！后面有水管工，臭得很！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f6fc10",
+      "en": "BEN: Oh, so he has money for plumbers but not his cook!?",
+      "zh": "BEN: 哦，请水管工就有钱，给厨师发工资就没钱了！？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:027b85d",
+      "en": "BEN: Wait a second, why do all these plumbers have guns?",
+      "zh": "BEN: 等等，水管工怎么个个都带着枪？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f098f1",
+      "en": "BEN: Ow, dammit!",
+      "zh": "BEN: 哎哟，该死！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a8ef9e",
+      "en": "MOBSTER: Nothing in the safe, boss. The whole place is empty.",
+      "zh": "MOBSTER: 老大，保险柜里什么都没有。这地方已经被掏空了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02ad707",
+      "en": "CODRESCU: Alright, Dimitri. This is the last time I'm asking nicely. Where's my money?",
+      "zh": "CODRESCU: 好，迪米特里。我最后再客客气气地问你一遍。我的钱呢？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08159ec",
+      "en": "CODRESCU: If you don't tell me, I'll shoot this guy right here in your kitchen.",
+      "zh": "CODRESCU: 再不说，我就在你这厨房里，一枪崩了这家伙。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d8190e",
+      "en": "BEN: Hang on a second.",
+      "zh": "BEN: 等一下。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06e8dc0",
+      "en": "BEN: He owes me money, too. I haven't been paid in four weeks.",
+      "zh": "BEN: 他也欠我钱。我已经四个星期没领到工资了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0cbee43",
+      "en": "BEN: So if anything, we're on the same side.",
+      "zh": "BEN: 所以真要说起来，咱们才是一伙的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f102f7",
+      "en": "CODRESCU: Is that right, Dimitri? You've been holding out on everyone? What was your plan?",
+      "zh": "CODRESCU: 是吗，迪米特里？谁的钱你都敢赖？你打的什么算盘？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08cba48",
+      "en": "CODRESCU: To retire somewhere I couldn't find you? Get a house on an island?",
+      "zh": "CODRESCU: 找个我寻不着的地方退休？去小岛上买栋房子？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02b32dd",
+      "en": "CODRESCU: There's nowhere I can't find you! Now tell me where my money is!",
+      "zh": "CODRESCU: 你躲到哪儿我都找得到！说，我的钱在哪儿！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00faa53",
+      "en": "BEN: Honestly...",
+      "zh": "BEN: 说真的……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0331f1b",
+      "en": "BEN: I don't think he has it. He's got a gambling problem.",
+      "zh": "BEN: 我觉得他是真没钱了。他赌瘾不小。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04a86ca",
+      "en": "Dimitri: Ben, do you ever shut up?",
+      "zh": "Dimitri: 本，你就不能闭上嘴吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02d83f5",
+      "en": "CODRESCU: Oh, you like games of chance? How about this?",
+      "zh": "CODRESCU: 哦，喜欢赌？那咱们这么玩。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0972852",
+      "en": "CODRESCU: I'm gonna flip a coin, and if it comes up heads, I'm gonna shoot your brother.",
+      "zh": "CODRESCU: 我抛个硬币。正面，我就一枪崩了你兄弟。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0990480",
+      "en": "CODRESCU: If it comes up tails, I'm gonna take my time with your cook.",
+      "zh": "CODRESCU: 反面，我就慢慢收拾你的厨师。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a88f1b",
+      "en": "BEN: I really want to emphasize that you and I are in the same boat with the whole money thing.",
+      "zh": "BEN: 我得再强调一下，说到讨债，咱们可是一条船上的人。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0bf0216",
+      "en": "CODRESCU: Tails.",
+      "zh": "CODRESCU: 反面。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06f9236",
+      "en": "CODRESCU: Bring 'em outside.",
+      "zh": "CODRESCU: 把他们带出去。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e395b5",
+      "en": "BEN: Gentlemen, I know I'm repeating myself, but...",
+      "zh": "BEN: 各位，虽然这话我已经说过了，可是……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:07c53fc",
+      "en": "CODRESCU: Don't try to kill him right away. But if it happens, it happens.",
+      "zh": "CODRESCU: 别急着弄死他。不过，真死了也就死了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:001cf05",
+      "en": "BEN: I can be reasonable. We'll split my paycheck! How's 60-40, in your favor?",
+      "zh": "BEN: 好商量嘛！我工资分你们一份！四六开，你们六，怎么样？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04f001f",
+      "en": "BEN: Okay, okay! We'll do it 70-30!",
+      "zh": "BEN: 行行行！三七开！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:032e96d",
+      "en": "BEN: I'm... back home.",
+      "zh": "BEN: 我……回家了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04289b9",
+      "en": "BEN: Ah, crap! I'm late for work!",
+      "zh": "BEN: 坏了！上班迟到了！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e7b535",
+      "en": "BEN: Huh?",
+      "zh": "BEN: 嗯？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0be852b",
+      "en": "DARIO: He's awake.",
+      "zh": "DARIO: 他醒了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b6f9df",
+      "en": "BEN: Why is my apartment full of bodybuilders?",
+      "zh": "BEN: 我屋里怎么来了一群练健美的？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:085930a",
+      "en": "AGATA: I am Agata, of the Order of the Phylax.",
+      "zh": "AGATA: 我是守护者团的阿伽塔。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c35448",
+      "en": "AGATA: You are Ben Balani?",
+      "zh": "AGATA: 你就是本·巴拉尼？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:01d5b3b",
+      "en": "BEN: The one and only.",
+      "zh": "BEN: 如假包换。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ba7ca0",
+      "en": "AGATA: Three days ago, you manifested magical powers for the first time.",
+      "zh": "AGATA: 三天前，你第一次显现了魔法能力。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a4907f",
+      "en": "BEN: So... that really happened?",
+      "zh": "BEN: 所以……那事儿是真的？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:01ae731",
+      "en": "AGATA: Yes.",
+      "zh": "AGATA: 是的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00af0c9",
+      "en": "BEN: Aren't I a little...",
+      "zh": "BEN: 我是不是有点……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08eea16",
+      "en": "BEN: ...too old for that?",
+      "zh": "BEN: ……过了那个年纪？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ee61b8",
+      "en": "BEN: I thought only mysterious orphans got magic powers.",
+      "zh": "BEN: 我还以为只有身世神秘的孤儿才会获得魔法。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00f1d1f",
+      "en": "AGATA: No, it is possible for anyone to manifest magical powers, at any time.",
+      "zh": "AGATA: 不是。任何人都有可能在任何时候显现魔法能力。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0bfe217",
+      "en": "AGATA: But it is much more common in children.",
+      "zh": "AGATA: 只是儿童更常见。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:09150cc",
+      "en": "BEN: Well, thanks for the heads up. I gotta get to work.",
+      "zh": "BEN: 好，多谢提醒。我得上班去了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0abe45f",
+      "en": "AGATA: I beg your pardon?",
+      "zh": "AGATA: 你说什么？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0536be7",
+      "en": "BEN: Unless you can use magic to make it rain money, I still need to get my paycheck from Dimitri.",
+      "zh": "BEN: 除非你能施法让天上下钱，不然我还是得找迪米特里领工资。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c883da",
+      "en": "BEN: My landlord isn't going to care whether I have magic or not.",
+      "zh": "BEN: 房东可不管我会不会魔法。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e4b2d7",
+      "en": "LANDLORD: You're damn right I don't care! Rent's due next week!",
+      "zh": "LANDLORD: 没错，我才不管！下星期交房租！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e40138",
+      "en": "BEN: Mind your own business, you nosy bastard!",
+      "zh": "BEN: 管好你自己，少偷听别人说话！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:088f711",
+      "en": "DARIO: Can you deal with him? I've been here all night.",
+      "zh": "DARIO: 你来应付他吧？我在这儿守一夜了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:008ad4a",
+      "en": "AGATA: Yes.",
+      "zh": "AGATA: 好。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:01dd72f",
+      "en": "AGATA: Very well, then. Let us go.",
+      "zh": "AGATA: 那么，走吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:028d7ef",
+      "en": "BEN: Wait, what? Go to my work? You're... coming along?",
+      "zh": "BEN: 等等，什么？去我上班的地方？你……也来？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06d09b2",
+      "en": "AGATA: Yes.",
+      "zh": "AGATA: 是的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a2d4cd",
+      "en": "BEN: Great! Maybe you can lift Dimitri by his ankles and shake the change out of his pockets.",
+      "zh": "BEN: 太好了！到时候你拎着迪米特里的脚踝，把他口袋里的零钱抖出来。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00576cf",
+      "en": "BEN: It's just down the street, a few blocks west of here.",
+      "zh": "BEN: 就在这条街上，往西走几个街口。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0756813",
+      "en": "BEN: Can't say I like what they've done with the place.",
+      "zh": "BEN: 这地方的新造型，我可欣赏不来。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:013665a",
+      "en": "AGATA: Do you understand what this means?",
+      "zh": "AGATA: 你明白这意味着什么吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ab6460",
+      "en": "BEN: Dimitri can pay me out of the insurance money?",
+      "zh": "BEN: 迪米特里能拿保险赔款给我发工资了？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0eec9ec",
+      "en": "AGATA: I... do not think you appreciate the seriousness of this situation.",
+      "zh": "AGATA: 我……觉得你还没意识到事态有多严重。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:059ef7e",
+      "en": "BEN: That's been a theme in my life.",
+      "zh": "BEN: 我这辈子老有人这么说。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f7ed9a",
+      "en": "AGATA: There is something here.",
+      "zh": "AGATA: 这里有东西。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:03ed032",
+      "en": "AGATA: Monsters from the wilds...",
+      "zh": "AGATA: 是野外的魔物……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f063d8",
+      "en": "BEN: So does this sort of thing happen a lot when you're a wizard?",
+      "zh": "BEN: 当了巫师，就经常碰上这种事吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b00895",
+      "en": "AGATA: The word is \"mage.\" And no, it is not common.",
+      "zh": "AGATA: 是“法师”。而且，这种事并不常见。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:014f464",
+      "en": "AGATA: But wild creatures are attracted to powerful sources of magic.",
+      "zh": "AGATA: 不过，野生生物会被强大的魔力源吸引。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06b6fec",
+      "en": "AGATA: The only reason it would enter a city is because you released so much magical energy all at once.",
+      "zh": "AGATA: 它会进城，是因为你一次释放了太多魔力。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c96600",
+      "en": "AGATA: Now do you understand?",
+      "zh": "AGATA: 现在明白了吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00dd7a1",
+      "en": "BEN: Yeah, nobody's gonna hire a cook who shoots lightning. So I need a new job.",
+      "zh": "BEN: 明白了。没人会雇个乱放闪电的厨师。我得另找份工作。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0552db3",
+      "en": "AGATA: I will take you to the magical academy, where you will learn to control your magic.",
+      "zh": "AGATA: 我会带你去魔法学院，学习控制自己的魔法。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08e8e9c",
+      "en": "AGATA: The food and lodging are not luxurious, but there is no cost.",
+      "zh": "AGATA: 食宿虽然简陋，但不收钱。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02f9f99",
+      "en": "AGATA: The journey is not far. I will show you the way, and then you can retrieve your possessions when-",
+      "zh": "AGATA: 学院不远。我先带你认路，再让你回来收拾……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:022932b",
+      "en": "AGATA: ...?",
+      "zh": "AGATA: ……？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0083e3c",
+      "en": "BEN: Someone in the marketplace must need magic.",
+      "zh": "BEN: 市场里总有人用得上魔法吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0aaa2c7",
+      "en": "WIFE: Those are good oranges.",
+      "zh": "WIFE: 这橙子不错。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:09971fb",
+      "en": "HUSBAND: But I don't want to pay city prices.",
+      "zh": "HUSBAND: 可我不想掏城里这个价。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ff1ffe",
+      "en": "WIFE: Then why'd we come to the city?",
+      "zh": "WIFE: 那咱们进城干什么？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0de416a",
+      "en": "BEN: Anyone need some magic? Freelance magic, made to order.",
+      "zh": "BEN: 谁需要魔法服务？独立经营，按需施法！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:037b156",
+      "en": "HUSBAND: Not at city prices.",
+      "zh": "HUSBAND: 城里的价钱就免了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:028e815",
+      "en": "GIRL: I wish the ice cream man showed up earlier.",
+      "zh": "GIRL: 卖冰淇淋的怎么还不来呀。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0394b2a",
+      "en": "WOMAN: He gets elected, then spends all day chasing skirts!",
+      "zh": "WOMAN: 选上了就整天追着女人跑！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06a4d47",
+      "en": "SECOND WOMAN: Oh it's the worst. My sister works at city hall, and he tried to grab her on the first day!",
+      "zh": "SECOND WOMAN: 可不是嘛。我妹妹在市政厅工作，头一天他就想动手动脚！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04ee834",
+      "en": "WOMAN: I hear the deputy mayor is the one who really runs the show.",
+      "zh": "WOMAN: 听说真正管事的是副市长。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b992a7",
+      "en": "BEN: Either of you need a freelance wizard to do some work?",
+      "zh": "BEN: 二位需要找个独立经营的巫师干点活吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0df07ea",
+      "en": "WOMAN: You look more like a freelance butter and cookie salesman.",
+      "zh": "WOMAN: 你倒像是独立经营黄油饼干生意的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a0adfb",
+      "en": "BEN: I'll take that as a no.",
+      "zh": "BEN: 那我就当二位不需要了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08e21ef",
+      "en": "BEN: (But the cookie thing has potential....)",
+      "zh": "BEN: （不过，卖饼干好像有门儿……）",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0188958",
+      "en": "BEN: Hey, you looking to hire a freelance wizard?",
+      "zh": "BEN: 嘿，要雇个独立经营的巫师吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0207f7a",
+      "en": "MAN: You know there's a mages guild for that, right?",
+      "zh": "MAN: 这事儿有法师公会管，你知道吧？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:017e46c",
+      "en": "BEN: That sounds expensive. I can give you a big discount.",
+      "zh": "BEN: 听着就贵。我可以给你打个大折。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:045148c",
+      "en": "MAN: I don't know. The only thing worse than paying full price is getting cheap service.",
+      "zh": "MAN: 不好说。花钱贵是烦，可贪便宜吃亏更烦。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0912a24",
+      "en": "BEN: (Tough crowd...)",
+      "zh": "BEN: （这生意不好做啊……）",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06f82d0",
+      "en": "MAN: I think I'll pass, pal.",
+      "zh": "MAN: 还是算了吧，老兄。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:01c26dc",
+      "en": "MAN: The guy who runs the shop across the street is definitely cheating on his taxes. There's no way he's outselling me.",
+      "zh": "MAN: 街对面那个开店的肯定偷税了。他的生意怎么可能比我好。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f6741e",
+      "en": "MAN: You're sure there's not a lower price if it's all cash?",
+      "zh": "MAN: 我全付现金，真不能再便宜点？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d04cec",
+      "en": "MAN: I'm telling you, they're going to raise the retirement age. There's just not enough workers.",
+      "zh": "MAN: 跟你说，退休年龄肯定要往后推。干活的人根本不够。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0cf7e3e",
+      "en": "MAN: Huh? I'm not buying anything.",
+      "zh": "MAN: 啊？我不买东西。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e14836",
+      "en": "MAN: That's political suicide! Nobody wants to work for 25 years!",
+      "zh": "MAN: 那他们就别想再当选了！谁愿意干二十五年活啊！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:096effb",
+      "en": "MAN: Get out of here; I don't like the look of you.",
+      "zh": "MAN: 走开。看你就不像什么好人。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e7fbfb",
+      "en": "BEN: Hey, are you looking for some low-budget magic?",
+      "zh": "BEN: 嘿，要不要来点实惠的魔法服务？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ff1dda",
+      "en": "FARMER: How low-budget are we talking?",
+      "zh": "FARMER: 能实惠到什么程度？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d6db36",
+      "en": "BEN: Depends what I'm doing.",
+      "zh": "BEN: 得看干什么活。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08ed384",
+      "en": "FARMER: Can you use magic to bust up some old trees?",
+      "zh": "FARMER: 能用魔法劈掉几棵老树吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fa6875",
+      "en": "BEN: Well, I can call the lightning...",
+      "zh": "BEN: 这个嘛，我能招来闪电……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d90db1",
+      "en": "BEN: And lightning can bust up a tree...",
+      "zh": "BEN: 闪电嘛，确实能劈树……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fb4403",
+      "en": "BEN: (So maybe I charge the same as a large catering order?)",
+      "zh": "BEN: （那就按承包一场大宴席的价钱算？）",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02099b3",
+      "en": "BEN: How about six hundred?",
+      "zh": "BEN: 六百怎么样？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c266ea",
+      "en": "FARMER: Ehhh... how about five hundred?",
+      "zh": "FARMER: 嗯……五百吧？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00962d2",
+      "en": "BEN: ... alright fine. So where are they?",
+      "zh": "BEN: ……行吧。树在哪儿？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00656d0",
+      "en": "FARMER: Back at my farm! We'll take my truck.",
+      "zh": "FARMER: 我农场里！坐我的车去。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:09726a9",
+      "en": "FARMER: Let me know when yer ready.",
+      "zh": "FARMER: 准备好了就告诉我。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0dbb504",
+      "en": "FARMER: Ya ready to go?",
+      "zh": "FARMER: 能走了吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0827c4b",
+      "en": "Not yet...",
+      "zh": "还没……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b57ec2",
+      "en": "Let's go!",
+      "zh": "走吧！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0efa237",
+      "en": "BEN: So, just this stump?",
+      "zh": "BEN: 就这个树桩？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a90565",
+      "en": "FARMER: What? No! I've pulled out hundreds of stumps. I don't need magic for that.",
+      "zh": "FARMER: 什么？当然不是！我都拔过几百个树桩了，用得着魔法？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0853d8a",
+      "en": "FARMER: You're here to bust up those ones over there.",
+      "zh": "FARMER: 请你来是对付那边那几棵的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0115bed",
+      "en": "BEN: Oh.",
+      "zh": "BEN: 哦。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00f5a99",
+      "en": "BEN: Well, they're just trees, right?",
+      "zh": "BEN: 再怎么说，不也就是几棵树嘛？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:086d274",
+      "en": "FARMER: Oh no, they've definitely got some kind of evil inside them.",
+      "zh": "FARMER: 那可不对，里面肯定藏着什么邪门的东西。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:052e694",
+      "en": "FARMER: Anyway, let 'em have it!",
+      "zh": "FARMER: 总之，放手劈吧！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a8e686",
+      "en": "BEN: Alright... even big scary trees can be blown up by lightning.",
+      "zh": "BEN: 好……树再大再吓人，闪电也照样劈得动。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f5f335",
+      "en": "BEN: Okay, I guess I could do that one more time.",
+      "zh": "BEN: 行，再来一次应该也成。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0101927",
+      "en": "AGATA: You.",
+      "zh": "AGATA: 你。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fd6477",
+      "en": "AGATA: Why did you leave?",
+      "zh": "AGATA: 为什么擅自离开？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c01cc8",
+      "en": "BEN: Wow, you're pretty good at finding people, huh?",
+      "zh": "BEN: 哇，找人还真是你的拿手活啊？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0066c4e",
+      "en": "AGATA: Yes. Now we must go to the magical academy.",
+      "zh": "AGATA: 是。现在我们必须去魔法学院。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d343a5",
+      "en": "BEN: Look, I had a really bad time in school. At least let me blow up this last tree and collect my pay.",
+      "zh": "BEN: 听我说，我上学那会儿可没少遭罪。好歹先让我劈完这最后一棵，把工钱拿了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b42ea9",
+      "en": "AGATA: Your pay?",
+      "zh": "AGATA: 工钱？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c9250e",
+      "en": "BEN: Yeah, I'm getting paid to blow up evil trees.",
+      "zh": "BEN: 对啊。有人雇我炸掉邪恶的树。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02fa1c0",
+      "en": "BEN: I can't believe that sentence just came out of my mouth.",
+      "zh": "BEN: 这话居然能从我嘴里说出来，我自己都不敢信。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fcf933",
+      "en": "AGATA: Is this true?",
+      "zh": "AGATA: 是这样吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a0c15a",
+      "en": "FARMER: Yep! And he's got one more to go.",
+      "zh": "FARMER: 对！还剩一棵。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:040ec1a",
+      "en": "FARMER: Might as well hurry up. I'm not paying by the hour.",
+      "zh": "FARMER: 快点吧。我可不是按钟头付钱的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:03a2d50",
+      "en": "BEN: Yeah, yeah.",
+      "zh": "BEN: 知道了，知道了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-akosEngineer-1940",
+      "en": "ENGINEER: So, that's how you fixed your truck, huh?",
+      "zh": "ENGINEER: 原来你就是这么修好卡车的啊？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d16760",
+      "en": "BEN: Hey buddy, you still need help with that machine you were building?",
+      "zh": "BEN: 嘿，老兄，你造的那台机器还需要帮忙吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0120a95",
+      "en": "ENGINEER: What? No! As soon as you leave it stops working!",
+      "zh": "ENGINEER: 什么？不用了！你一走，它就不转了！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0bda175",
+      "en": "BEN: I mean, I could just sit next to it.",
+      "zh": "BEN: 那我就坐在旁边呗。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0654391",
+      "en": "ENGINEER: That's not the point. Also, you melted the internal components of my prototype when you touched it.",
+      "zh": "ENGINEER: 问题不在这儿。而且，你碰原型机的时候，把里面的零件都熔了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:094fa39",
+      "en": "BEN: So you could use me as a space heater...?",
+      "zh": "BEN: 那……拿我当暖炉用？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a98d72",
+      "en": "ENGINEER: No.",
+      "zh": "ENGINEER: 不用。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0034f38",
+      "en": "ENGINEER: I said no.",
+      "zh": "ENGINEER: 我说了，不用。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-akosMerchant-1948",
+      "en": "MERCHANT: This guy isn't from around here, is he?",
+      "zh": "MERCHANT: 这家伙不是本地人吧？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-akosMerchant-1949",
+      "en": "MERCHANT: What kind of currency were they using...?",
+      "zh": "MERCHANT: 他们那边用的什么钱来着……？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04f1e40",
+      "en": "BEN: Hey, do you still need some work done?",
+      "zh": "BEN: 嘿，还有活儿需要人干吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:041e7d9",
+      "en": "MERCHANT: What? No! You left a cyclone going in my store room!",
+      "zh": "MERCHANT: 什么？没有！你在我仓库里留了个龙卷风！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:029c151",
+      "en": "BEN: It won't happen again, I promise!",
+      "zh": "BEN: 我保证，下不为例！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fbe96b",
+      "en": "MERCHANT: What do you mean \"again?\" That cyclone is STILL going!",
+      "zh": "MERCHANT: 什么叫“下不为例”？那个龙卷风到现在还没停呢！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:01dc131",
+      "en": "BEN: (That's actually kind of impressive...)",
+      "zh": "BEN: （这么说，我还挺厉害……）",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f3264e",
+      "en": "MERCHANT: No, thank you.",
+      "zh": "MERCHANT: 不用了，谢谢。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d8cdc6",
+      "en": "BEN: Hey, you still need help?",
+      "zh": "BEN: 嘿，还需要帮忙吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e67e43",
+      "en": "FARMER: What? You burned the fur off all my sheep! And now every time there's thunder they run into the river!",
+      "zh": "FARMER: 什么？你把我所有羊的毛都烧光了！现在一打雷，它们就往河里跑！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b2bfc5",
+      "en": "BEN: Yeah, but you have to admit... they move a lot faster now.",
+      "zh": "BEN: 是，可你得承认……它们现在跑得快多了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fbc4e4",
+      "en": "FARMER: Not interested.",
+      "zh": "FARMER: 不需要。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c6a038",
+      "en": "FARMER: Not this time, sonny.",
+      "zh": "FARMER: 这回就算了，小子。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-benRetrieval-1961",
+      "en": "BEN: Man...",
+      "zh": "BEN: 唉……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-benRetrieval-1962",
+      "en": "BEN: Doesn't ANYONE need me?",
+      "zh": "BEN: 就没一个人用得上我吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d5cc3a",
+      "en": "AGATA: There he is.",
+      "zh": "AGATA: 他在那儿。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a95d9d",
+      "en": "BEN: Anyone except them.",
+      "zh": "BEN: 他们不算。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b39309",
+      "en": "AGATA: You. Come here.",
+      "zh": "AGATA: 你，过来。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:012b5a5",
+      "en": "BEN: The Phylax and city cops are in cahoots now? I'm not ready for this.",
+      "zh": "BEN: 守护者团现在跟城里警察联手了？这阵仗我可受不了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:020e1e2",
+      "en": "AGATA: Come with us, there is work to be done.",
+      "zh": "AGATA: 跟我们走。有工作要做。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a84ea2",
+      "en": "BEN: I don't want to work with them. They'll probably make me stand in front of a bus to test the brakes.",
+      "zh": "BEN: 我不想跟他们干。他们八成会让我站到公交车前面，试试刹车灵不灵。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06e6809",
+      "en": "AGATA: You will be fine. Now come along.",
+      "zh": "AGATA: 你不会有事。走吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:09daf8d",
+      "en": "BEN: My humors are out of balance. I have too much black bile...",
+      "zh": "BEN: 我体液失调。黑胆汁太多……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:044b539",
+      "en": "BEN: ... and not enough phlegm.",
+      "zh": "BEN: ……黏液又不够。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fc4712",
+      "en": "AGATA: We do not need this performance.",
+      "zh": "AGATA: 不必演了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b5995d",
+      "en": "PACHIS: Look, buddy, this is a gig. Seems like you need it.",
+      "zh": "PACHIS: 老兄，这是份有钱拿的活儿。你不是正缺钱吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:05a3c9a",
+      "en": "KARRAS: Mikelakis said he'd give you seven thousand.",
+      "zh": "KARRAS: 米克拉基斯说给你七千。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f5577a",
+      "en": "BEN: SEVEN THOUSAND!?",
+      "zh": "BEN: 七千！？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00a7f85",
+      "en": "BEN: That's an... irresponsible amount of money.",
+      "zh": "BEN: 这钱给得……也太不负责任了吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:05d9b70",
+      "en": "AGATA: Then you will come with us.",
+      "zh": "AGATA: 那就跟我们来。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00e19b3",
+      "en": "AGATA: We are looking for a cavern, northeast of the city, past the marshes.",
+      "zh": "AGATA: 我们要找的洞穴在城东北，穿过沼泽就到。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c2151d",
+      "en": "BEN: So... what am I doing here?",
+      "zh": "BEN: 所以……我来这儿干什么？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a9b104",
+      "en": "BEN: Is there a bear in the cave? Am I supposed to poke the bear?",
+      "zh": "BEN: 洞里有熊？叫我来捅熊的？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0cfd26d",
+      "en": "AGATA: There is a source of magic inside that cave somewhere. An illegal kind of magic.",
+      "zh": "AGATA: 洞穴里有一处魔力源。用的是违法的魔法。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e1f398",
+      "en": "BEN: And you want me to... what? Find this magic and rub it into my face and armpits? See if I develop a rash?",
+      "zh": "BEN: 所以你们要我……干吗？找到那魔法，往脸上和腋窝里抹一抹，看会不会起疹子？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:002abc7",
+      "en": "DARIO: Look, you're getting paid a lot of money, right?",
+      "zh": "DARIO: 你拿的钱可不少，对吧？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0646635",
+      "en": "DARIO: Why don't you start by clearing the ward at the mouth of the cave?",
+      "zh": "DARIO: 要不先把洞口的结界清了？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:01c547c",
+      "en": "BEN: Fine.",
+      "zh": "BEN: 行吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08566fc",
+      "en": "BEN: Ward, huh? Maybe if...",
+      "zh": "BEN: 结界是吧？试试这样……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c9358b",
+      "en": "BEN: It's just a... simple thread...",
+      "zh": "BEN: 不就是……一根细线嘛……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:029086d",
+      "en": "BEN: BOOM!",
+      "zh": "BEN: 轰！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:05703f3",
+      "en": "BEN: Jerks.",
+      "zh": "BEN: 一群混蛋。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fdec6e",
+      "en": "BEN: I'm pretty sure that ward was just to keep out animals.",
+      "zh": "BEN: 我看这结界就是用来挡野兽的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06381e5",
+      "en": "BEN: So, time for lunch.",
+      "zh": "BEN: 好了，该吃午饭了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02bf790",
+      "en": "AGATA: No. We will go in. The four of us will enter this way.",
+      "zh": "AGATA: 不行。我们进去。四个人从这里进。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:084b34e",
+      "en": "DARIO: I'll look for the other entrance. Gotta be at least one.",
+      "zh": "DARIO: 我去找别的入口。肯定还有一个。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0101e08",
+      "en": "AGATA: Ready yourselves.",
+      "zh": "AGATA: 做好准备。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00da9fc",
+      "en": "BEN: Three.",
+      "zh": "BEN: 三。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:03ef8d5",
+      "en": "BEN: Two.",
+      "zh": "BEN: 二。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08c009d",
+      "en": "BEN: One.",
+      "zh": "BEN: 一。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:086b138",
+      "en": "BEN: Zero.",
+      "zh": "BEN: 零。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:03e7f7a",
+      "en": "BEN: Can't leave town, I need to pay the rent!",
+      "zh": "BEN: 还不能出城，我得交房租！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0beb1bb",
+      "en": "BEN: Okay, hang on a sec.",
+      "zh": "BEN: 好，先等一下。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f128b2",
+      "en": "BEN: Are we not gonna talk about what just happened?",
+      "zh": "BEN: 刚才那事儿，咱们就这么揭过去了？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:01552d3",
+      "en": "KARRAS: Teleportation magic. It was part of the briefing.",
+      "zh": "KARRAS: 传送魔法。任务说明里讲过。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f6db87",
+      "en": "BEN: What briefing?",
+      "zh": "BEN: 什么任务说明？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f74aac",
+      "en": "AGATA: We need to keep moving.",
+      "zh": "AGATA: 我们得继续走。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:064d838",
+      "en": "BEN: Stop.",
+      "zh": "BEN: 站住。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0070825",
+      "en": "BEN: I'm not going any further until I get some answers.",
+      "zh": "BEN: 不给我个说法，我哪儿也不去。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:09984e2",
+      "en": "AGATA: Fine.",
+      "zh": "AGATA: 好吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e7ab3f",
+      "en": "BEN: Who builds a gigantic laboratory in the middle of nowhere? And how?",
+      "zh": "BEN: 谁会在这种荒郊野岭建个这么大的实验室？又是怎么建的？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:03469d6",
+      "en": "AGATA: Judging by the haphazard layout and many blockages, it was probably built by automatons.",
+      "zh": "AGATA: 布局杂乱，通道也多处堵塞，很可能是自动机械建的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f169e5",
+      "en": "BEN: If this job is such a big deal, why isn't your fancy \"Mages Guild\" doing it? It can't just be the money.",
+      "zh": "BEN: 这差事要真那么重要，你们那个了不起的“法师公会”怎么不来？总不能光是钱的问题吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c025c0",
+      "en": "AGATA: There was an incident, not long ago.",
+      "zh": "AGATA: 前不久出过一场事故。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e50c9b",
+      "en": "AGATA: A wandering mage came to Akos. He scorned the Guild, and so he made his own contract with the city government.",
+      "zh": "AGATA: 一个流浪法师来到阿科斯。他看不上公会，便自行与市政府签了契约。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:016b8a9",
+      "en": "AGATA: In exchange for his... unique services... the city government sheltered him from the Guild and the Phylax.",
+      "zh": "AGATA: 作为他提供……特殊服务的回报，市政府替他挡下了公会和守护者团的干涉。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:03ccd3e",
+      "en": "AGATA: He trained his own apprentices and performed magical experiments.",
+      "zh": "AGATA: 他自己收学徒，做魔法实验。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e2ed57",
+      "en": "AGATA: It ended in a catastrophe. Since then, the Guild and the mayor's office have been in conflict.",
+      "zh": "AGATA: 最后酿成了灾难。从那以后，公会与市长办公室就一直不和。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:019d14b",
+      "en": "BEN: Not a lot of details in that story.",
+      "zh": "BEN: 这故事讲得还真够笼统。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c3f471",
+      "en": "PACHIS: I was there when it happened.",
+      "zh": "PACHIS: 出事的时候，我在场。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0716604",
+      "en": "PACHIS: A lot of the people who went to contain it died. Guild members, phylax, city cops...",
+      "zh": "PACHIS: 去控制事态的人死了很多。公会成员、守护者、城里的警察……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08d0921",
+      "en": "PACHIS: ...friends of mine.",
+      "zh": "PACHIS: ……还有我的朋友。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02e2c0c",
+      "en": "BEN: You know what?",
+      "zh": "BEN: 你知道吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0498019",
+      "en": "BEN: If you had just told me that, I would've helped you.",
+      "zh": "BEN: 你们要是早这么说，我就会帮忙了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f7d975",
+      "en": "AGATA: We must be getting close.",
+      "zh": "AGATA: 应该快到了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0514aae",
+      "en": "BEN: Hey, it's the guy from before. Magico, or whatever.",
+      "zh": "BEN: 嘿，是之前那家伙。魔法佬，还是什么来着。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0707b9a",
+      "en": "MAGICO: That's not my n... what am I saying? I don't have to answer to you.",
+      "zh": "MAGICO: 那不是我的名……我在说什么？我没必要跟你解释。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:03a2da8",
+      "en": "MAGICO: This is my domain. Leave now.",
+      "zh": "MAGICO: 这是我的领地。立刻离开。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:018bda9",
+      "en": "BEN: Actually, he's got a point. Don't we need to show him a warrant, or something?",
+      "zh": "BEN: 其实他说得也有道理。咱们是不是得先亮个搜查令什么的？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:07793c4",
+      "en": "AGATA: These are forbidden experiments. Nothing like this is legal south of the isthmus.",
+      "zh": "AGATA: 这些都是违禁实验。在地峡以南，没有一样合法。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a57b55",
+      "en": "MAGICO: I'm in an underground bunker, 25 miles away from the nearest settlement.",
+      "zh": "MAGICO: 我待在地下掩体里，离最近的聚落也有二十五英里。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04c929d",
+      "en": "MAGICO: You had to use this idiot here to even find this place, didn't you?",
+      "zh": "MAGICO: 要不是带着这个蠢货，你们连这里都找不到，对吧？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b65ea5",
+      "en": "BEN: Okay, you're losing points with me now.",
+      "zh": "BEN: 行，你这话我就不爱听了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:07e7ee7",
+      "en": "AGATA: The law is the law. You know why it exists.",
+      "zh": "AGATA: 法律就是法律。你知道它为何存在。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d6ea38",
+      "en": "MAGICO: Because regressive cowards are afraid of facing true genius?",
+      "zh": "MAGICO: 因为一群顽固的懦夫害怕真正的天才？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0cf9a38",
+      "en": "MAGICO: My work will not hurt anybody. In fact, soon I will leave this realm altogether.",
+      "zh": "MAGICO: 我的研究不会伤害任何人。事实上，我很快就会彻底离开这一方天地。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0036362",
+      "en": "MAGICO: That's what THIS is for.",
+      "zh": "MAGICO: 这就是它的用途。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b88852",
+      "en": "AGATA: Magical doors are forbidden.",
+      "zh": "AGATA: 魔法门是被禁止的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ba7f9a",
+      "en": "MAGICO: Without even knowing where they go?",
+      "zh": "MAGICO: 连它们通向哪里都不知道，就禁止？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0eb1811",
+      "en": "MAGICO: Perhaps I should just show you.",
+      "zh": "MAGICO: 不如让你们亲眼看看。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00b611b",
+      "en": "BEN: Uh... no?",
+      "zh": "BEN: 呃……还是不了吧？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ff8dfd",
+      "en": "MAGICO: Behold!",
+      "zh": "MAGICO: 看好了！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0154c56",
+      "en": "MAGICO: This duel is growing tiresome.",
+      "zh": "MAGICO: 这场决斗越来越无趣了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ebe21a",
+      "en": "MAGICO: Do you still think that I am endangering your benighted little city?",
+      "zh": "MAGICO: 现在还觉得，我会危及你们那座蒙昧的小城吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e18a4c",
+      "en": "MAGICO: What... is...",
+      "zh": "MAGICO: 什……么……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f49e96",
+      "en": "BEN: Y-you just MURDERED him!",
+      "zh": "BEN: 你、你就这么把他杀了！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0659a0e",
+      "en": "DARIO: Yeah, you gotta get 'em when they're distracted.",
+      "zh": "DARIO: 对啊，就是要趁他们分神的时候下手。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:03dc6ad",
+      "en": "BEN: But like...",
+      "zh": "BEN: 可是……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:07e7549",
+      "en": "BEN: We're in HIS house!",
+      "zh": "BEN: 是我们闯进他家来的啊！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0153ee7",
+      "en": "AGATA: You do not understand. This is the law.",
+      "zh": "AGATA: 你不明白。这就是法律。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:047e60f",
+      "en": "BEN: Doesn't he get a trial!?",
+      "zh": "BEN: 连审判都没有吗！？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02d30b0",
+      "en": "BEN: Am I talking to myself, here!?",
+      "zh": "BEN: 有没有人在听我说话！？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f3d8b0",
+      "en": "????: Es wurde aktiviert.",
+      "zh": "????: Es wurde aktiviert.",
+      "status": "intentionally_original_foreign_language"
+    },
+    {
+      "id": "line:07b0464",
+      "en": "BEN: Who are they...?",
+      "zh": "BEN: 他们是谁……？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:01a9a99",
+      "en": "????: Hail. Vere is de magos? Who are all of you?",
+      "zh": "????: 问候。法师，在哪个地方？你们都是谁？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f9a816",
+      "en": "BEN: Well, I guess he was telling the truth.",
+      "zh": "BEN: 看来他还真没说谎。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:010536e",
+      "en": "????: What is happen-",
+      "zh": "????: 什么事发——",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:07531a1",
+      "en": "AGATA: We need to leave!",
+      "zh": "AGATA: 我们得走了！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f94f3d",
+      "en": "AGATA: Now!",
+      "zh": "AGATA: 现在！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c40824",
+      "en": "BEN: I'm on it!",
+      "zh": "BEN: 交给我！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0865fec",
+      "en": "BEN: Gotcha!",
+      "zh": "BEN: 接住你了！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0bd1d04",
+      "en": "AGATA: WE ARE FALLING!",
+      "zh": "AGATA: 我们在往下掉！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04c1a8e",
+      "en": "AGATA: THROUGH THE SKY!",
+      "zh": "AGATA: 从天上往下掉！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08f7461",
+      "en": "BEN: Relax, going down is the easy part.",
+      "zh": "BEN: 放心，下来可比上去容易。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f4098c",
+      "en": "BEN: We're not even moving that fast anymore.",
+      "zh": "BEN: 现在已经没掉得那么快了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:09b18a1",
+      "en": "AGATA: I... wh...",
+      "zh": "AGATA: 我……怎……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:07e0b31",
+      "en": "AGATA: What happened?",
+      "zh": "AGATA: 刚才怎么回事？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:072eafd",
+      "en": "BEN: I used the portal to teleport us out of the lab.",
+      "zh": "BEN: 我用传送门把咱们送出了实验室。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e93b87",
+      "en": "AGATA: Wh... where are the others?",
+      "zh": "AGATA: 其……其他人呢？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0157262",
+      "en": "BEN: They're fine. They came out a lot closer to the ground.",
+      "zh": "BEN: 他们没事。他们出来的时候离地面近多了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0135546",
+      "en": "AGATA: But then... why...",
+      "zh": "AGATA: 可是……为什么……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08444ec",
+      "en": "BEN: I'm gonna bring us down in that clearing over there. Hang on a sec.",
+      "zh": "BEN: 我带咱们落到那边的空地上。稍等一下。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0286dbd",
+      "en": "BEN: Aaaand...",
+      "zh": "BEN: 好——了……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02eb93a",
+      "en": "BEN: Dinner is ready.",
+      "zh": "BEN: 开饭。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b89355",
+      "en": "BEN: Watch out for bones in the fish. I didn't have my filet knives with me and it's kinda hard to see at night.",
+      "zh": "BEN: 小心鱼刺。我没带剔鱼刀，天黑也看不太清。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:071d806",
+      "en": "AGATA: This is... delicious. How did you...?",
+      "zh": "AGATA: 这……真好吃。你是怎么……？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:077bcca",
+      "en": "BEN: You remember the part where I've been a cook my whole life, right?",
+      "zh": "BEN: 你还记得我说过，自己做了一辈子厨师吧？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04249f1",
+      "en": "AGATA: But where did you get the ingredients?",
+      "zh": "AGATA: 可食材是哪里来的？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:067f5cc",
+      "en": "BEN: I caught the fish in the stream, found a few herbs and mushrooms in the woods.",
+      "zh": "BEN: 鱼是溪里捉的，香草和蘑菇是林子里找的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0033ade",
+      "en": "BEN: A little olive oil and garlic, and boom! Dinner.",
+      "zh": "BEN: 再来点橄榄油和蒜，齐活！这不就有饭吃了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ebb0a0",
+      "en": "AGATA: You found olive oil and garlic in the woods?",
+      "zh": "AGATA: 你在林子里找到了橄榄油和蒜？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:032b4ed",
+      "en": "BEN: No, I carry olive oil and garlic with me at all times. I'm not a barbarian.",
+      "zh": "BEN: 没有，橄榄油和蒜我都随身带着。我又不是野蛮人。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0bbb85e",
+      "en": "BEN: So the whole phylax thing. Your job is to... kill mages?",
+      "zh": "BEN: 说起来，你们守护者的工作就是……杀法师？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0037ec1",
+      "en": "AGATA: That is not entirely correct.",
+      "zh": "AGATA: 不完全是。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:02fadb4",
+      "en": "AGATA: Our mission is to prevent the use of dangerous magic.",
+      "zh": "AGATA: 我们的使命是制止危险魔法的使用。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0784aa5",
+      "en": "BEN: And that Magico guy... he was a dangerous mage?",
+      "zh": "BEN: 所以那个魔法佬……是个危险的法师？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:058b9ed",
+      "en": "AGATA: You are old enough to remember, there used to be other cities on this peninsula.",
+      "zh": "AGATA: 你这个年纪，应该还记得半岛上曾经有过别的城市。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:03b5a41",
+      "en": "AGATA: But magical powers can emerge in anyone. Sometimes... in the wrong person, in the wrong place.",
+      "zh": "AGATA: 可是任何人都可能显现魔法能力。有时……偏偏是不该得到它的人，偏偏是在不该出现的地方。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:063e44e",
+      "en": "AGATA: And that is simply the way the world works. The order is our attempt to save what is left of civilization.",
+      "zh": "AGATA: 这就是世界运转的方式。我们成立守护者团，是为了保住所剩无几的文明。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0dd4221",
+      "en": "BEN: So this whole time you've been trying to figure out if you're going to kill me?",
+      "zh": "BEN: 所以这一路上，你都在琢磨要不要杀我？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0bf46ca",
+      "en": "AGATA: You must understand...",
+      "zh": "AGATA: 你要明白……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08e31c0",
+      "en": "AGATA: We thought you were not who you claimed to be. Your name was not in city birth records.",
+      "zh": "AGATA: 我们以为你隐瞒了身份。城里的出生记录中没有你的名字。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0bf3915",
+      "en": "AGATA: Nobody knows anything about you, personally. You have always lived alone.",
+      "zh": "AGATA: 没有人了解你的私事。你一直独居。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f67776",
+      "en": "BEN: Yeah, I, uh... chop a lot of vegetables.",
+      "zh": "BEN: 是啊，我，呃……平时忙着切菜呢。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:064b824",
+      "en": "AGATA: And you were able to use that man's portal, without ever seeing it before. The order will not like that.",
+      "zh": "AGATA: 而且，你从没见过那人的传送门，却能直接使用。团里不会乐于见到这种事。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04e4417",
+      "en": "AGATA: I know that you are not a threat. But I do not know if I can convince the rest of the order.",
+      "zh": "AGATA: 我知道你不会构成威胁。但我不知道能不能说服其他人。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b3736e",
+      "en": "BEN: I have another question. Actually, it's more of a story. Can I tell you?",
+      "zh": "BEN: 我还有个问题。其实更像是个故事。能讲给你听吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:085d7f5",
+      "en": "AGATA: I have never been able to stop you from talking.",
+      "zh": "AGATA: 我从来就没拦住过你说话。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f7d88d",
+      "en": "BEN: So you said you couldn't find anything about me when I was young?",
+      "zh": "BEN: 你说，查不到我小时候的事？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04671ab",
+      "en": "BEN: Well... part of the reason is I lived way, waaay out in the boonies.",
+      "zh": "BEN: 嗯……一部分原因，是我那时候住得太偏了。偏得不能再偏。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0769365",
+      "en": "BEN: It was a big old shack on a mountainside, beside a stream.  The rest of the mountain was woods, but by the stream we had a little clearing.",
+      "zh": "BEN: 山坡上有间又大又破的屋子，旁边是条小溪。山上全是树林，就溪边有块小空地。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f2af10",
+      "en": "BEN: Huh?",
+      "zh": "BEN: 嗯？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0548b25",
+      "en": "BEN: It's almost like I'm there...",
+      "zh": "BEN: 简直像是回来了……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06902e7",
+      "en": "AGATA: We are there. Is your magic creating this illusion?",
+      "zh": "AGATA: 我们就在这里。是你的魔法制造了幻象？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:001e9a1",
+      "en": "BEN: How should I know?",
+      "zh": "BEN: 我哪知道？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c3a123",
+      "en": "????: Hey, Ben!",
+      "zh": "????: 嘿，本！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:004c2f2",
+      "en": "BEN: Oh, hey, Stani. How ya doin'?",
+      "zh": "BEN: 哦，斯塔尼。怎么样啊？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c51f76",
+      "en": "STANI: Great! Boris and Mika are still passed out!",
+      "zh": "STANI: 好得很！鲍里斯和米卡还醉得不省人事呢！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c2710e",
+      "en": "STANI: I've been eating from the butter churn all morning.",
+      "zh": "STANI: 我整个上午都在偷吃搅乳桶里的黄油。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0a8c292",
+      "en": "BEN: You don't think they'll notice?",
+      "zh": "BEN: 不怕他们发现？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:081eb4c",
+      "en": "STANI: What are they gonna do? They already don't feed me.",
+      "zh": "STANI: 发现又能怎样？反正他们也不给我饭吃。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ce097c",
+      "en": "STANI: If they want it back, they can check the outhouse this afternoon.",
+      "zh": "STANI: 想要回去，下午上茅房里找呗。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00d3bd4",
+      "en": "STANI: See ya!",
+      "zh": "STANI: 走啦！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f6145e",
+      "en": "BEN: I seem to remember he ate a lot of bugs.",
+      "zh": "BEN: 我记得他好像还吃过不少虫子。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d85783",
+      "en": "BEN: Let's go, I wanna show you something.",
+      "zh": "BEN: 走，带你看个东西。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-akosVillaSign-2113",
+      "en": "SIGN: Welcome to the Seaside Cottage! Make sure to take your shoes off before entering.",
+      "zh": "SIGN: 欢迎来到海滨小屋！进门前请务必脱鞋。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-benJobSearching-2114",
+      "en": "BEN: (Okay, someone up the street must need magic.)",
+      "zh": "BEN: （好，这条街上总有人用得着魔法。）",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-benJobSearching-2115",
+      "en": "BEN: (I'm gonna ask around, and I'm not gonna take no for an answer.)",
+      "zh": "BEN: （挨个问问。这回可不能让他们随便打发了。）",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-humiliatingRejections-2116",
+      "en": "1/3 Humiliating Rejections",
+      "zh": "惨遭拒绝：1/3",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-humiliatingRejections-2117",
+      "en": "2/3 Humiliating Rejections",
+      "zh": "惨遭拒绝：2/3",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-humiliatingRejections-2118",
+      "en": "3/3 Humiliating Rejections",
+      "zh": "惨遭拒绝：3/3",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:Assets/Cutscenes/ben/magicoLab.yarn-humiliatingRejections-2119",
+      "en": "0/3 Humiliating Rejections",
+      "zh": "惨遭拒绝：0/3",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:053aaff",
+      "en": "BEN: Here we go.",
+      "zh": "BEN: 来吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00164a6",
+      "en": "BEN: Okay, I'm done getting my ass kicked by trees.",
+      "zh": "BEN: 好了，这辈子不想再挨树揍了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0489bcd",
+      "en": "BEN: We're all done here.",
+      "zh": "BEN: 活儿干完了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:05fc6ac",
+      "en": "FARMER: Yep, come on and get your pay.",
+      "zh": "FARMER: 行，过来拿钱吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:07bbee7",
+      "en": "FARMER: (She's a keeper, by the way. Good strong bones. I bet she could get a lot of work done around a farm.)",
+      "zh": "FARMER: （顺便说一句，这姑娘可得留住。身板结实，放农场里肯定能干不少活。）",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0425eb4",
+      "en": "AGATA: What is beyond these trees?",
+      "zh": "AGATA: 树后面是什么地方？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:042b0f0",
+      "en": "FARMER: Old swamp. You know, typical den of evil and unsavory things. Eerie lights at night, moaning fogs by day.",
+      "zh": "FARMER: 老沼泽。你知道的，那种邪物扎堆的地方。晚上冒怪光，白天雾里有呻吟声。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00f06af",
+      "en": "AGATA: When did these strange occurrences start?",
+      "zh": "AGATA: 这些怪事是什么时候开始的？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00bf965",
+      "en": "FARMER: Oh, I'd say about late last harvest season. Big thunderstorm came through, flooded the place. Been an accursed mire pretty much ever since.",
+      "zh": "FARMER: 大概上个收获季快结束的时候。来了一场大雷暴，把那儿淹了。从那以后，就成了这片受诅咒的烂泥潭。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0562b98",
+      "en": "AGATA: You.",
+      "zh": "AGATA: 你。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0852386",
+      "en": "BEN: It's Ben.",
+      "zh": "BEN: 我叫本。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c50bd6",
+      "en": "AGATA: There is dangerous magic beyond here. You and I will investigate its source.",
+      "zh": "AGATA: 前面有危险的魔法。你和我一起去查清来源。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:031f647",
+      "en": "BEN: Am I getting paid?",
+      "zh": "BEN: 有工钱吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ca0116",
+      "en": "AGATA: No. But if you do not assist me, I will drag you to the magical academy.",
+      "zh": "AGATA: 没有。但你要是不配合，我就把你拖去魔法学院。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06a4f3e",
+      "en": "BEN: Alright, fine.",
+      "zh": "BEN: 行吧，行吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0be6497",
+      "en": "FARMER: (Oh, and she's a feisty one, too? Good luck, sonny!)",
+      "zh": "FARMER: （哟，脾气还挺辣？祝你好运，小子！）",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f1e4d4",
+      "en": "AGATA: Let us go.",
+      "zh": "AGATA: 走吧。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04a7163",
+      "en": "AGATA: ...",
+      "zh": "AGATA: ……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0218421",
+      "en": "FARMER: Well, don't just stand there! Get to it!",
+      "zh": "FARMER: 别光站着了！动手吧！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:08ca779",
+      "en": "FARMER: I can spot ya a potion or two if ya want!",
+      "zh": "FARMER: 要是需要，我可以先给你一两瓶药！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f90190",
+      "en": "BEN: Can't leave without getting paid!",
+      "zh": "BEN: 工钱还没拿，可不能走！",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0de29c7",
+      "en": "AGATA: No. Not until we discover the source of the magic.",
+      "zh": "AGATA: 不行。必须先查清魔法的来源。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:052b577",
+      "en": "AGATA: This must be the source, but...",
+      "zh": "AGATA: 源头应该就是这里，可是……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0019520",
+      "en": "????: Who are you?",
+      "zh": "????: 你们是谁？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06c0c90",
+      "en": "AGATA: I am Agata, free member of the Order of the Phylax.",
+      "zh": "AGATA: 我是阿伽塔，守护者团的自由成员。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:07387b2",
+      "en": "BEN: I'm Ben, the cook.",
+      "zh": "BEN: 我是本，厨师。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0939a76",
+      "en": "????: What are you doing in my woods, Phylaka?",
+      "zh": "????: 守护者，你来我的树林做什么？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:078e932",
+      "en": "AGATA: Magic is corrupting the local wildlife.",
+      "zh": "AGATA: 魔法正在侵蚀附近的野生生物。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0bb21bc",
+      "en": "????: So what? This is a solitary place.",
+      "zh": "????: 那又怎样？这里与世隔绝。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:05b56d5",
+      "en": "AGATA: No. The local farms are seeing the effects.",
+      "zh": "AGATA: 并非如此。附近的农场已经受到了影响。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f13d4d",
+      "en": "AGATA: And the law is the law.",
+      "zh": "AGATA: 而且，法律就是法律。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:080f5eb",
+      "en": "BEN: Okay, I feel like maybe I'm out of the loop, here.",
+      "zh": "BEN: 好吧，我是不是又有什么事不知道？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c924b6",
+      "en": "????: Is this what the mighty Phylax have come to?",
+      "zh": "????: 大名鼎鼎的守护者团，已经沦落到这地步了？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:01e1ff2",
+      "en": "AGATA: The law is the law. You know what that means.",
+      "zh": "AGATA: 法律就是法律。你知道这意味着什么。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0110d24",
+      "en": "????: I don't have time to waste on you.",
+      "zh": "????: 我没工夫陪你们浪费时间。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04cdf70",
+      "en": "<align=\"center\">But I can't have you following me...</align>",
+      "zh": "<align=\"center\">不过，也不能让你们跟着我……</align>",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:06ad7a1",
+      "en": "BEN: Well, I'm ready to call it a day.",
+      "zh": "BEN: 行，我准备收工了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0261148",
+      "en": "BEN: Maybe grab a cup of tea and some stuffed grape leaves...",
+      "zh": "BEN: 找杯茶喝，再来点葡萄叶包饭……",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:07c19a6",
+      "en": "BEN: Sorry you didn't catch that guy. Good luck with that.",
+      "zh": "BEN: 没抓到那家伙，真可惜。祝你接下来好运。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:00412f7",
+      "en": "AGATA: Tell me something.",
+      "zh": "AGATA: 回答我一个问题。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:033e275",
+      "en": "AGATA: Why are there no records of your origin? The name \"Ben Balani\" only appeared 20 years ago.",
+      "zh": "AGATA: 为什么查不到你的来历？“本·巴拉尼”这个名字，二十年前才第一次出现。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0e3a860",
+      "en": "BEN: It's a long story.",
+      "zh": "BEN: 说来话长。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04891bf",
+      "en": "BEN: But I actually pay my taxes, so you must know that I worked at Dimitri's Restaurant for the past nine years.",
+      "zh": "BEN: 不过，我可是按时交税的。你肯定查得到，我在迪米特里的餐馆干了九年。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:012d74e",
+      "en": "BEN: And before that, the diner over on Agora street, for eleven years.",
+      "zh": "BEN: 再之前，在阿戈拉街那家小饭馆干了十一年。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:07cc61a",
+      "en": "AGATA: But where were you before that? There are no school records for you.",
+      "zh": "AGATA: 更早以前呢？没有你的入学记录。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fe954c",
+      "en": "BEN: I went to a small school up in the mountains. I wasn't there for very long.",
+      "zh": "BEN: 我在山里一所小学校上过学。没待多久。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0d2ccab",
+      "en": "AGATA: Why?",
+      "zh": "AGATA: 为什么？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fb1e5f",
+      "en": "BEN: They couldn't teach me how to read.",
+      "zh": "BEN: 他们教不会我认字。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:05821d0",
+      "en": "AGATA: I can read Tycish and it is not my first language.",
+      "zh": "AGATA: 堤刻语不是我的母语，连我都能读。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ea5dfb",
+      "en": "BEN: I don't know what to tell you.",
+      "zh": "BEN: 我也不知道该怎么跟你说。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0900677",
+      "en": "BEN: When I look at words on a page, they start to run together after a second.",
+      "zh": "BEN: 纸上的字，我盯着看一会儿，就全挤成一团了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0839818",
+      "en": "AGATA: Then how were you able to run an entire kitchen and keep track of all the orders?",
+      "zh": "AGATA: 那你怎么管得了整个厨房，还能记住所有点单？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0ebb7b3",
+      "en": "BEN: I dunno, I just kept it all in my head.",
+      "zh": "BEN: 不知道，全记在脑子里呗。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0696ce5",
+      "en": "AGATA: (Maybe that's why he can't control his power...?)",
+      "zh": "AGATA: （也许这就是他无法控制力量的原因……？）",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0df55f3",
+      "en": "BEN: Here we go again.",
+      "zh": "BEN: 又来了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0758138",
+      "en": "BEN: Why are you here?",
+      "zh": "BEN: 你怎么在这儿？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0aeaf2f",
+      "en": "DARIO: This is my job, remember?",
+      "zh": "DARIO: 这是我的工作，记得吗？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:04706ad",
+      "en": "BEN: To come into my apartment and drink my tea?",
+      "zh": "BEN: 你的工作就是来我家蹭茶喝？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0f3ba1c",
+      "en": "DARIO: You didn't have any coffee. Also, I had to make sure your powers didn't go off during the night.",
+      "zh": "DARIO: 你这儿没咖啡。而且，我得确保你夜里不会乱放魔法。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0083734",
+      "en": "BEN: Okay, I'm DEFINITELY too old for that.",
+      "zh": "BEN: 好吧，这种事我肯定已经过了年纪了。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0aec43d",
+      "en": "BEN: Anyway, I gotta go find work again today.",
+      "zh": "BEN: 总之，我今天还得出去找活儿。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0c9c7bd",
+      "en": "BEN: So, if you could stop freeloading, that'd be great. Rent in this city is insane, and every teabag counts, buddy.",
+      "zh": "BEN: 你要是能少蹭点就更好了。这城里的房租贵得发疯，老兄，一包茶也是钱。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:053e4f3",
+      "en": "DARIO: Agata was right about you.",
+      "zh": "DARIO: 阿伽塔还真没说错你。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0b0a290",
+      "en": "BEN: I'm hard-working and full of charm?",
+      "zh": "BEN: 勤劳肯干，魅力十足？",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:064ee4a",
+      "en": "DARIO: You're full of something.",
+      "zh": "DARIO: 你倒确实有样东西挺足的。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0042d9a",
+      "en": "BEN: Great. See you soon.",
+      "zh": "BEN: 好极了。回头见。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:0fbe720",
+      "en": "DARIO: I'm just gonna finish my tea and be on my way.",
+      "zh": "DARIO: 喝完这杯茶我就走。",
+      "status": "translated_draft"
+    },
+    {
+      "id": "line:013d654",
+      "en": "BEN: I'm getting a really bad feeling, right about now.",
+      "zh": "BEN: 我这会儿的预感，可不太妙。",
+      "status": "translated_draft"
+    }
+  ]
+}

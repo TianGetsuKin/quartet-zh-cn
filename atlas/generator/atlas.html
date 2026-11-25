@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#132920"><title>四重奏：四界图志</title>
+<style>
+*{box-sizing:border-box} :root{color-scheme:dark;--bg:#182623;--card:#20332e;--edge:#526358;--paper:#f1e6cd;--muted:#afbaac;--gold:#ebc577;--mint:#8cdbc1;--ink:#10221e}body{margin:0;font:14px/1.5 "Microsoft YaHei UI","PingFang SC",system-ui,sans-serif;color:var(--paper);background:var(--bg)}button,input,select{font:inherit;color:inherit}button{cursor:pointer;background:transparent;border:0}button:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--gold);outline-offset:2px}button:disabled{opacity:.45;cursor:default}header{height:68px;display:flex;align-items:center;gap:16px;padding:0 24px;background:#162821;border-bottom:1px solid var(--edge)}header .sig{width:34px;height:34px;display:grid;place-items:center;font:26px Georgia,serif;color:var(--gold);border:1px solid #a68c59;transform:rotate(45deg)}.sig i{font-style:normal;transform:rotate(-45deg)}h1{margin:0;font:600 22px/1.1 "Songti SC",SimSun,serif;letter-spacing:.12em}header small{display:block;font:10px Georgia,serif;letter-spacing:.27em;color:var(--gold);margin-bottom:5px}header .tools{margin-left:auto;display:flex;gap:8px}.tool,.btn{background:#263b32;border:1px solid #516456;border-radius:5px;padding:7px 12px}.tool:hover,.btn:hover{background:#354b3e}main{display:flex;height:calc(100dvh - 68px);min-height:220px}.panel{width:306px;flex-shrink:0;display:flex;flex-direction:column;border-right:1px solid var(--edge);background:var(--bg);z-index:5}.panel.closed{display:none}.panelHead{padding:20px 17px 12px}.section{display:flex;align-items:center;justify-content:space-between;gap:6px}h2{font:600 19px "Songti SC",SimSun,serif;margin:0}.muted,.small{color:var(--muted)}.small{font-size:12px}.search{width:100%;margin:14px 0 9px;padding:9px 12px;border:1px solid #627063;border-radius:5px;background:#101e1a}.filters{display:flex;gap:12px;flex-wrap:wrap;align-items:center}.filters label{display:flex;align-items:center;gap:3px;font-size:12px;color:var(--muted);cursor:pointer}input[type=checkbox]{accent-color:var(--mint)}.list{overflow:auto;flex:1;scrollbar-width:thin}.row{width:100%;display:flex;align-items:center;gap:10px;text-align:left;padding:9px 18px;border-top:1px solid #32443c;min-height:41px}.row:hover,.row.sel{background:#2c4238}.row span.text{flex:1;min-width:0}.text small{display:block;color:var(--muted);font-size:11px}.row .go{color:#91a395}.ic{font-family:system-ui,sans-serif;color:var(--gold);font-size:15px}.ic.chest{color:#ffc66e}.ic.exit{color:#9bcce5}.ic.done{color:var(--mint)}.pfooter{padding:10px 18px;color:var(--muted);font-size:12px;border-top:1px solid var(--edge)}#stage{position:relative;flex:1;min-width:0;overflow:hidden;background:#142c35;isolation:isolate}#surface{position:absolute;isolation:isolate;inset:0;touch-action:none;cursor:grab;overflow:hidden;outline-offset:-3px}#surface:active{cursor:grabbing}#surface::before{content:"";position:absolute;inset:0;background-image:linear-gradient(#a5d5c208 1px,transparent 1px),linear-gradient(90deg,#a5d5c208 1px,transparent 1px);background-size:36px 36px;pointer-events:none}#terrain{position:absolute;pointer-events:none;user-select:none}#terrain.indoor{image-rendering:pixelated;box-shadow:0 0 0 1px #6c776244}#pins{position:absolute;inset:0;pointer-events:none}.pin{position:absolute;pointer-events:auto;padding:0;width:23px;height:23px;transform:translate(-50%,-50%);display:grid;place-items:center;outline-offset:0;border-radius:50%;z-index:1}.pin i{display:grid;place-items:center;width:14px;height:14px;font-size:10px;line-height:1;font-style:normal;background:#20392d;border:1.5px solid #f9e8ad;color:#fce09b;box-shadow:0 1px 4px #000b;border-radius:3px;transform:rotate(45deg)}.pin i b{transform:rotate(-45deg)}.pin.exit i{background:#213d4b;border-color:#a7d8e5;color:#b7e1ff;border-radius:50%;transform:none}.pin.exit i b{transform:none}.pin.chest i{border-color:#ffd184;color:#ffda87;background:#5f4425;transform:none}.pin.chest i b{transform:none}.pin.done i{background:#265447;border-color:var(--mint);color:#a0ebc9}.pin.pick{z-index:3}.pin.pick i{outline:2px solid #fff8d0;outline-offset:3px}.pin .caption{position:absolute;left:22px;top:2px;white-space:nowrap;background:#12241feb;border:1px solid #69755c;border-radius:3px;padding:1px 5px;line-height:16px;font-size:11px;color:#f4ebd5;pointer-events:none}.worldbar{position:absolute;top:13px;left:50%;transform:translateX(-50%);display:flex;gap:3px;padding:4px;border:1px solid #667363;background:#142822f5;border-radius:7px;z-index:4;box-shadow:0 4px 14px #0004}.worldbar button{white-space:nowrap;color:#d6d7c6;border-radius:4px;padding:6px 12px}.worldbar button[aria-pressed=true]{background:var(--gold);color:#242e24;font-weight:700}.nav{position:absolute;top:66px;left:14px;display:flex;gap:6px;align-items:center;max-width:calc(100% - 80px);pointer-events:none}.nav>*{pointer-events:auto}.mapname{font:600 17px "Songti SC",SimSun,serif;text-shadow:0 1px 4px #000,0 0 6px #000;color:#fff4db}.zoom{position:absolute;right:14px;bottom:44px;display:grid;border:1px solid var(--edge);border-radius:5px;overflow:hidden;background:#172d25f5}.zoom button{width:38px;height:36px;font-size:19px;border-bottom:1px solid #40554a}.zoom button:last-child{border-bottom:0}.zoom button:hover{background:#395446}.legend{position:absolute;bottom:0;left:0;right:0;display:flex;align-items:center;gap:14px;min-height:30px;background:#10221eed;border-top:1px solid #526559;padding:4px 14px;font-size:11px;color:#d5d9c7}.legend strong{color:var(--gold);font-weight:500}.legend .scale{margin-left:auto;font-family:monospace}.detail{position:absolute;z-index:5;width:max-content;max-width:min(330px,calc(100% - 16px));border-radius:10px;background:#19251f;box-shadow:0 6px 22px #0008;border:1px solid #758369}.detail:after{content:"";position:absolute;left:var(--tip,50%);width:12px;height:12px;background:#19251f;transform:translateX(-50%) rotate(45deg);pointer-events:none}.detail.above:after{bottom:-7px;border-right:1px solid #758369;border-bottom:1px solid #758369}.detail.below:after{top:-7px;border-left:1px solid #758369;border-top:1px solid #758369}.cardbody{padding:14px 32px 14px 16px;max-height:var(--card-height,300px);overflow:auto}.detail h3{font:600 20px/1.4 "Microsoft YaHei UI",sans-serif;margin:4px 0}.detail .where{color:#b6d596;font-size:12px}.detail .x{position:absolute;right:3px;top:2px;width:28px;height:28px;font-size:20px;color:#c3cabd}.detail .actions{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px;max-width:275px}.detail .actions button{padding:5px 9px;border:1px solid #586b59;border-radius:5px}.detail .actions .primary{background:#314a38}.pin .caption{pointer-events:auto;cursor:pointer}.pin{touch-action:manipulation}.none{padding:14px;color:var(--muted)}dialog{max-width:min(420px,92vw);border:1px solid var(--edge);border-radius:8px;background:#1d3027;color:var(--paper);padding:20px}dialog::backdrop{background:#0008}dialog p{color:var(--muted)}[hidden]{display:none!important}@media(max-width:780px){header{height:56px;padding:0 12px;gap:12px}.sig{scale:.78}h1{font-size:18px}header small{font-size:9px}main{height:calc(100dvh - 56px)}.tool{padding:5px 9px}.panel{position:absolute;top:56px;bottom:0;width:min(305px,87vw);box-shadow:5px 5px 20px #0006}.worldbar{top:8px;max-width:98%;gap:1px}.worldbar button{font-size:12px;padding:6px 8px}.nav{top:53px;left:10px}.legend{gap:8px;padding:4px 7px}.panelHead{padding-top:15px}.zoom{right:8px}.detail{left:8px}.mapname{font-size:15px}}
+.pin.arrival{z-index:3}.pin.arrival i{background:#f3c264;color:#183328;outline:2px solid #fff7d0;outline-offset:2px}.pin.arrival:before{content:"";position:absolute;inset:-5px;border:2px solid #ffde88;border-radius:50%;pointer-events:none;animation:land 1.1s ease-out 3}@keyframes land{to{transform:scale(1.8);opacity:0}}@media(prefers-reduced-motion:reduce){.pin.arrival:before{animation:none}}.pin.arrival .caption{color:#ffe098;border-color:#d7b55c}
+ .pin.boss i,.ic.boss{color:#ffc5aa}.pin.boss i{background:#593123;border-color:#f4ab81}.worldbar button{line-height:1.15}.worldbar button small{display:block;font-size:10px;margin-top:3px;font-weight:400}.worldbar button:first-line{font-weight:bold}.nav{top:78px}
+#bossIndex{width:min(480px,92vw);max-width:92vw;max-height:85dvh}#bossResults{overflow:auto;max-height:57dvh}.boss-entry{border-bottom:1px solid var(--edge);padding:8px 0}.boss-entry summary,.moves summary{cursor:pointer}.boss-entry summary small{display:block;margin-left:16px;color:var(--muted)}.boss-content{padding:6px 4px}.boss-content .btn{margin:6px 6px 0 0}.guide-line{display:flex;gap:10px}.guide-line strong{color:#e9c988;flex-shrink:0}.strategy .tip{color:var(--paper);margin:8px 0}.strategy small{display:block;margin-top:7px}.fighter{background:#273c32;max-width:100%;margin:7px 0}.moves p{margin:5px 0;font-size:12px}.detail:has(.strategy){width:320px}.moves strong{color:#cfdbc0}
+@media(max-width:780px){.nav{top:62px}.worldbar button{padding:5px 7px}.worldbar button small{font-size:9px}.tools{gap:3px!important}.tool{font-size:12px}}
+@media(max-width:480px){header{gap:6px}header .sig{display:none}header h1{font-size:clamp(14px,4vw,18px);letter-spacing:0}}
+
+.world-fire{--element:#ff7668;--gleam:#ffd087;--tint:#512d29}
+.world-wind{--element:#7be0b0;--gleam:#c5f9df;--tint:#224638}
+.world-earth{--element:#e5af62;--gleam:#ffe0a0;--tint:#473a25}
+.world-water{--element:#71c2ff;--gleam:#d3efff;--tint:#243f56}
+.worldbar button{display:flex;align-items:center;justify-content:center;gap:7px;color:var(--element);min-height:44px}
+.worldbar button span{text-align:center}.worldbar button small{color:#d8d9c8}
+.element-emblem{flex:none;width:21px;height:21px;fill:var(--element);shape-rendering:crispEdges}
+.element-emblem path+path{fill:var(--gleam)}
+.mapname.world-heading{display:inline-flex;align-items:center;gap:7px;color:var(--element)}
+.worldbar button:hover,.worldbar button[aria-pressed=true]{background:var(--tint);color:var(--gleam)}
+.worldbar button[aria-pressed=true]{box-shadow:inset 0 0 0 1px var(--element),inset 0 -3px var(--element)}
+@media(max-width:780px){.worldbar button{padding:4px 6px;gap:4px}.element-emblem{width:16px;height:16px}.nav{top:66px}}
+@media(max-width:360px){.worldbar button{padding-inline:4px;gap:2px}}
+
+#panelClose,#sheetShade{display:none}
+@media (max-width:780px), (pointer:coarse) and (max-width:960px) and (max-height:520px){
+ :root{--safe-bottom:env(safe-area-inset-bottom,0px)}
+ body{height:100dvh;display:flex;flex-direction:column;overflow:hidden}
+ header{height:auto;min-height:50px;flex:none;gap:8px;padding:env(safe-area-inset-top,0px) max(8px,env(safe-area-inset-right)) 0 max(12px,env(safe-area-inset-left))}
+ header .sig,header small{display:none}header h1{font-size:clamp(14px,4vw,19px);letter-spacing:0}
+ header .tools{gap:2px!important}.tool{min-height:44px;padding:0 6px;border:0;background:transparent;font-size:13px}#help{min-width:34px}
+ main{position:relative;min-height:0;flex:1;height:auto}
+ #stage{display:grid;grid-template-rows:auto minmax(0,1fr) auto}
+ .worldbar{position:static;transform:none;max-width:none;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:2px;padding:4px max(5px,env(safe-area-inset-right)) 4px max(5px,env(safe-area-inset-left));border:0;border-bottom:1px solid var(--edge);border-radius:0;box-shadow:none}
+ .worldbar button{padding:4px 0;gap:3px;min-height:48px;font-size:13px}.worldbar button small{font-size:10px;margin-top:3px}.worldbar .element-emblem{width:16px;height:16px}
+ #surface{position:relative;grid-row:2;grid-column:1;min-height:0}
+ .nav{grid-row:2;grid-column:1;align-self:start;justify-self:start;position:relative;top:auto;left:auto;margin:5px 8px;max-width:calc(100% - 16px);z-index:2}
+ .mapname{font-size:14px;background:#142821de;border-radius:4px;padding:3px 6px}.nav .btn{min-height:40px}
+ .legend{position:static;grid-row:3;min-height:26px;padding:4px max(10px,env(safe-area-inset-right)) max(4px,var(--safe-bottom)) max(10px,env(safe-area-inset-left))}
+ .zoom{position:relative;grid-row:2;grid-column:1;align-self:end;justify-self:end;right:auto;bottom:auto;margin:8px max(8px,env(safe-area-inset-right));display:flex}
+ .zoom button{width:44px;height:42px;border:0;border-right:1px solid var(--edge)}.zoom button:last-child{border:0}
+ .panel{position:absolute;z-index:8;inset:auto 0 0;width:100%;height:min(72%,540px);border:1px solid var(--edge);border-radius:16px 16px 0 0;box-shadow:0 -6px 24px #0006;padding:0 max(4px,env(safe-area-inset-right)) var(--safe-bottom) max(4px,env(safe-area-inset-left))}
+ #sheetShade:not([hidden]){display:block;position:absolute;inset:0;z-index:7;background:#08171088}
+ #panelClose{display:block}.panelHead{padding:4px 12px 0}.section h2{font-size:17px}.section #count{margin-left:auto}
+ #panelClose,.detail .x{width:44px;height:44px;font:24px/1 system-ui;color:var(--paper)}
+ input.search{font-size:16px;margin:2px 0 0;padding:8px 10px}.filters label{min-height:40px;font-size:13px}.filters{gap:8px}
+ .row{min-height:46px;padding:8px 12px}.list,.cardbody{overscroll-behavior:contain}.pfooter{padding:5px 12px}
+ #detail{position:absolute;inset:auto max(6px,env(safe-area-inset-right)) var(--safe-bottom) max(6px,env(safe-area-inset-left));width:auto;max-width:none;border-radius:14px 14px 0 0;box-shadow:0 -5px 20px #0007}
+ #detail:after{display:none}.cardbody{max-height:min(40dvh,360px);padding:12px 46px 12px 14px}.detail h3{font-size:18px}.detail .actions{max-width:none}.detail .actions button{min-height:42px}.detail .actions .primary{order:-1}
+ .pin{width:32px;height:32px}.pin i{width:16px;height:16px}.pin .caption{font-size:12px}
+ #stage:has(#detail:not([hidden])) .zoom{visibility:hidden}
+ #bossIndex,#guide{max-height:88dvh;overflow:auto}#bossResults{max-height:52dvh}#bossIndex .search{margin:8px 0}.boss-entry summary{padding:6px 0}
+}
+@media (max-height:520px) and (orientation:landscape) and (max-width:960px) and (pointer:coarse){
+ header{min-height:42px}.worldbar button{min-height:40px}.worldbar{padding-block:1px}
+ .panel{inset:0 auto 0 0;height:auto;width:min(380px,58%);border-radius:0}
+ #detail{inset:auto max(6px,env(safe-area-inset-right)) var(--safe-bottom) auto;width:min(340px,46%)}.cardbody{max-height:56dvh}
+}
+.item-sprite{display:inline-block;flex:none;--size:22px;width:var(--size);height:var(--size);background-image:var(--item-sheet);background-size:calc(var(--size) * 16) auto;background-position:calc(var(--col) * var(--size)) calc(var(--row) * var(--size));image-rendering:pixelated}
+#layerButton{position:absolute;z-index:4;right:10px;top:12px}.filtered{border-color:var(--mint);color:var(--mint)}#layerDialog{width:min(390px,94vw);max-height:88dvh;overflow:auto}.layer-grid{display:grid;grid-template-columns:1fr 1fr;gap:2px 8px;margin-top:8px}.layer-option,.layer-group label{display:flex;gap:6px;align-items:center;min-height:42px;cursor:pointer}.layer-symbol{width:22px;text-align:center;color:var(--gold)}.layer-group{border-top:1px solid var(--edge);margin-top:8px}.layer-group h3{font-size:15px;margin:12px 0 3px}.pin.reward-pin i{width:23px;height:23px;background:#1b2b24e8;border:1px solid #b6a273;border-radius:5px}.pin.reward-pin .symbol{color:#ffce68;font-size:14px}.ic{display:inline-grid;place-items:center;min-width:22px}.detail h3 .item-sprite,.detail h3 .symbol{margin-right:6px;vertical-align:middle}.mark-badge,.boss-badge{position:absolute;pointer-events:none;z-index:1;right:-2px;top:-4px;border-radius:4px;padding:1px 2px;line-height:12px;font-size:12px;background:#623c2b;color:#ffe2b3}.mark-badge{background:#234d3e;color:#baffd5}.area-guides{margin:8px 0}.area-guides summary{cursor:pointer;color:#ffcfad}.area-guides button{display:block;text-align:left;margin-top:4px}.rank-note{font-size:12px}.nav{max-width:calc(100% - 88px)}#sceneGuide{white-space:nowrap;color:#ffd2b1}
+@media(max-width:780px),(pointer:coarse) and (max-height:520px) and (max-width:960px){#layerButton{grid-row:2;grid-column:1;position:relative;top:auto;right:auto;align-self:start;justify-self:end;margin:5px 7px;min-height:40px}.detail h3 .item-sprite{--size:24px}.mapname{overflow-wrap:anywhere}#layerDialog{padding:14px}}
+.coin{display:inline-block;width:12px;height:12px;border-radius:50%;background:#ffcb62;border:2px solid #ae7733;box-shadow:inset 2px 1px #ffeeb2;vertical-align:middle}.detail h3 .coin{margin-right:8px}</style>
+<header><span class="sig" aria-hidden="true"><i>✧</i></span><div><small>QUARTET</small><h1>四重奏：四界图志</h1></div><div class="tools"><button class="tool" id="openBoss">首领攻略</button><button class="tool" id="directory" aria-controls="panel">地点目录</button><button class="tool" id="help" aria-label="使用说明">？</button></div></header>
+<main><button type="button" id="sheetShade" aria-label="收起目录" tabindex="-1" hidden></button><aside id="panel" class="panel"><div class="panelHead"><div class="section"><h2 id="panelTitle">地点目录</h2><span id="count" class="small"></span><button id="panelClose" aria-label="关闭目录">×</button></div><input id="search" class="search" type="search" aria-label="搜索全部地点、宝箱和首领" placeholder="搜索地点、宝箱或首领…"><div class="filters"><label><input id="labels" type="checkbox" checked>地名</label><label><input id="hide" type="checkbox">隐藏已标记</label></div></div><div id="list" class="list"></div><div id="progress" class="pfooter">正在读取地图…</div></aside>
+<section id="stage" aria-label="互动地图"><div id="surface" tabindex="0" aria-label="地图，可用方向键移动，加减号缩放"><img id="terrain" draggable="false" alt=""><div id="pins"></div></div><nav id="worldbar" class="worldbar" aria-label="切换世界"></nav><div class="nav"><button id="back" class="btn" hidden>‹ 返回</button><span class="mapname" id="mapname"></span><button class="btn" id="sceneGuide" hidden>⚔ 场景遭遇</button></div><button id="layerButton" class="btn" aria-haspopup="dialog">▱ 图层</button><div class="zoom"><button title="放大" aria-label="放大" id="plus">＋</button><button title="缩小" aria-label="缩小" id="minus">−</button><button title="看全图" aria-label="看全图" id="fit">⛶</button></div><section class="detail" id="detail" hidden></section><div class="legend"><span id="legendText">◆ 世界地点</span><span>✓ 已标记</span><strong class="scale" id="scale"></strong></div></section></main>
+<dialog id="bossIndex" aria-labelledby="bossTitle"><div class="section"><h2 id="bossTitle">首领攻略</h2><button class="btn" id="closeBoss">关闭</button></div><input class="search" id="bossQuery" type="search" placeholder="搜索首领或场景…" aria-label="搜索首领或场景"><p class="rank-note">按敌方最高基础等级从低到高排列，同级按全队基础 HP 总和排序。</p><div id="bossResults"></div></dialog>
+<dialog id="layerDialog" aria-labelledby="layerTitle"><div class="section"><h2 id="layerTitle">地图图层</h2><button class="btn" id="closeLayers">完成</button></div><div id="placeLayers" class="layer-grid"></div><div class="section layer-group"><h3>物品与货币</h3><label><input id="allRewards" type="checkbox"> 全选</label></div><div id="rewardLayers" class="layer-grid"></div></dialog>
+<dialog id="guide"><h2>地图使用说明</h2><p>单击标记查看卡片，双击地点或出口直接进入。若入口有多个章节版本，可在卡片里选。点「图层」可以统一开关各类道具、首领、地点和出口。房间用游戏瓦片简绘，箭头连接到相邻场景，宝箱可查看内容并标记领取。剑形标记可查看首领打法；也可以从顶部打开首领攻略，按敌人或场景检索。</p><p>拖动平移，滚轮或双指缩放。键盘可用方向键、＋、−，按 Esc 关闭详情或返回上一张地图。</p><p>图中汇总了不同剧情阶段的地点和宝箱，部分入口只在特定章节出现。记录保存在当前浏览器；移动文件或换浏览器可能需要重新标记。</p><button class="btn" id="dismiss">关闭</button></dialog>
+<script>
+'use strict';
+const $=id=>document.getElementById(id),worldNames=['尼古拉','本','亚历珊德拉','科黛莉娅'],elements=['火','风','地','水'],worldTitle=i=>elements[i]+'之世界 · '+worldNames[i],data64='__DATA__';
+const make=(tag,cl,txt)=>{let n=document.createElement(tag);if(cl)n.className=cl;if(txt!==undefined)n.textContent=txt;return n};
+const btn=(cl,txt,fn)=>{let b=make('button',cl,txt);b.onclick=fn;return b};
+(async()=>{
+const bin=Uint8Array.from(atob(data64),c=>c.charCodeAt(0));
+const expanded=await new Response(new Blob([bin]).stream().pipeThrough(new DecompressionStream('gzip'))).arrayBuffer(),headSize=new DataView(expanded).getUint32(0,true);
+const [rooms,worlds,images,worldRoom,sheet64,formations,itemArt]=JSON.parse(new TextDecoder().decode(new Uint8Array(expanded,4,headSize)));
+const mapBytes=new Uint8Array(expanded,4+headSize);
+let terrain=$('terrain');
+const worldImage=terrain,surface=$('surface'),small=matchMedia('(max-width:780px), (pointer:coarse) and (max-width:960px) and (max-height:520px)'),store='quartet.atlas.v1';
+// Legacy file links may carry progress from the browser's per-file storage.
+if(location.hash.startsWith('#from-old=')){
+ try{
+  const [anchor,previous]=JSON.parse(decodeURIComponent(location.hash.slice(10)));
+  if(Array.isArray(previous)&&previous.every(id=>typeof id==='string')&&localStorage.getItem(store)===null)
+   localStorage.setItem(store,JSON.stringify(previous));
+  location.replace(typeof anchor==='string'&&anchor.startsWith('#p=')?anchor:'#');
+ }catch{}
+}
+let marks=new Set,storageOK=true;try{marks=new Set(JSON.parse(localStorage.getItem(store)||'[]'))}catch{storageOK=false}
+let w=0,room=-1,z=1,ox=0,oy=0,chosen=null,history=[],pins=[],dots=[],pending=false;
+let arrival=null;
+let cardSide=null;
+let bounds=[0,0,184.5,193],cx=0,cy=0,mul=1,base=1;
+const nameOf=i=>rooms[i][1]||rooms[i][0].split('/').pop();
+const chapter=i=>{let m=/^chapter(\d+)/.exec(rooms[i][0]);return m?'第 '+m[1]+' 章':''};
+const key=(kind,x,y,r,wi)=>kind==='chest'?'ch/'+rooms[r][0]+'/'+x+','+y:'loc/'+wi+'/'+x+','+y;
+const cleanPanel=()=>{if(small.matches)$('panel').classList.add('closed');syncToggle()};
+function syncToggle(){
+ const open=!$('panel').classList.contains('closed');
+ $('directory').setAttribute('aria-expanded',String(open));$('sheetShade').hidden=!small.matches||!open
+}
+function closeDirectory(){cleanPanel();$('directory').focus({preventScroll:true})}
+$('panelClose').onclick=$('sheetShade').onclick=closeDirectory;
+small.addEventListener('change',()=>{$('panel').classList.toggle('closed',small.matches);syncToggle();schedule()});
+$('directory').onclick=()=>{$('panel').classList.toggle('closed');syncToggle();schedule()};cleanPanel();
+$('help').onclick=()=>$('guide').showModal();$('dismiss').onclick=()=>$('guide').close();
+const worldEmblems=[
+ ['fire','M8 0h2v3h2v3h1V5h1v2h1v5h-1v2h-2v1H5v-1H3v-2H2V8h1V6h2v3h1V6h1V4h1z','M8 8h2v2h1v2h-1v2H7v-1H6v-2h1v-1h1z'],
+ ['wind','M2 4h7V3h1V2h3v1h1v3h-1v1H3V6H1V4z M0 9h12V8h3v1h1v2h-2v1H4v-1H0z','M6 13h5v1h1v2H9v-1H6z'],
+ ['earth','M1 12h1v-2h2V8h2V5h2V2h2v3h2v3h1v2h2v2h1v2H1z','M7 7h1V5h2v2h1v2H9V8H7z M2 15h13v1H2z'],
+ ['water','M7 0h2v3h1v2h2v2h1v2h1v4h-1v1h-2v1H5v-1H3v-2H2V9h1V7h2V5h1V3h1z','M4 9h2v3h2v1H5v-1H4z']
+];
+function worldIcon(i){
+ const [,shape,highlight]=worldEmblems[i];
+ const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');
+ svg.setAttribute('class','element-emblem');svg.setAttribute('viewBox','0 0 16 16');svg.setAttribute('aria-hidden','true');
+ for(const path of [shape,highlight]){
+  const part=document.createElementNS(svg.namespaceURI,'path');part.setAttribute('d',path);svg.append(part)
+ }
+ return svg
+}
+for(const [i,[theme]] of worldEmblems.entries()){
+ const b=btn('world-'+theme,'',()=>{go(i,-1,true);cleanPanel()});
+ const label=make('span','',elements[i]+'之世界');label.append(make('small','',worldNames[i]));
+ b.append(worldIcon(i),label);b.title=worldTitle(i);b.setAttribute('aria-label',b.title);$('worldbar').append(b)
+}
+const owner=Array(rooms.length).fill(-1),adj=rooms.map(()=>new Set),queue=[];
+for(let i=0;i<rooms.length;i++)for(let e of rooms[i][4])if(!worldRoom.includes(i)&&!worldRoom.includes(e[2])){adj[i].add(e[2]);adj[e[2]].add(i)}
+for(let wi=0;wi<4;wi++)for(let p of worlds[wi])for(let j of p[4])if(owner[j]<0){owner[j]=wi;queue.push(j)}
+for(let i=0;i<rooms.length;i++){
+ if(owner[i]>=0)continue;
+ const direct=[...new Set(rooms[i][4].map(e=>worldRoom.indexOf(e[2])).filter(v=>v>=0))];
+ const rootWorld={nikolai:0,ethosarchives:0,ben:1,bathosarchives:1,alex:2,pathosarchives:2,cordelia:3,logosarchives:3}[rooms[i][0].split('/')[0]];
+ const known=direct.length===1?direct[0]:rootWorld;
+ if(known!==undefined){owner[i]=known;queue.push(i)}
+}
+for(let n=0;n<queue.length;n++){let i=queue[n];for(let j of adj[i])if(owner[j]<0){owner[j]=owner[i];queue.push(j)}}
+__LAYER_UI__
+__BOSS_UI__
+const chestAliases=new Map,choices=new Map;
+rooms.forEach((r,i)=>r[5].forEach(([x,y,n,group])=>{
+ const id=key('chest',x,y,i,0);
+ if(group?.startsWith('shared/'))chestAliases.set(id,group);
+ if(group?.startsWith('choice/')){if(!choices.has(group))choices.set(group,[]);choices.get(group).push(id)}
+}));
+for(const [old,group] of chestAliases)if(marks.has(old)){marks.delete(old);marks.add(group)}
+function chestAt(wi,r,[x,y,n,group,reward]){const [layer,sprite]=rewardTypes[reward];const old=key('chest',x,y,r,wi);return {x,y,n,group,layer,sprite,kind:'chest',id:chestAliases.get(old)||old}}
+function storyItems(r){return rooms[r][8].map(([x,y,n,reward,tech])=>({x,y,n,kind:'event',layer:'keyitem',sprite:rewardTypes[reward][1],id:'event/'+rooms[r][0]+'/'+x+','+y+'/'+tech}))}
+function excluded(p){return p.group?.startsWith('choice/')&&!marks.has(p.id)&&choices.get(p.group).some(id=>marks.has(id))}
+function allDots(wi,r){
+ if(r<0)return worlds[wi].map(([x,y,n,en,targets,bossRooms])=>({x,y,n,en,targets,bossRooms,kind:'loc',id:key('loc',x,y,r,wi)}));
+ return rooms[r][5].map(row=>chestAt(wi,r,row)).concat(storyItems(r),bossPins(r)).concat(rooms[r][4].map(([x,y,dest,landing])=>({x,y,landing,n:worldRoom.includes(dest)?worldTitle(worldRoom.indexOf(dest)):nameOf(dest),dest,kind:'exit'})))
+}
+const glyph=p=>excluded(p)?'—':marks.has(p.id)?'✓':({loc:'◆',chest:'▣',boss:'⚔',exit:'↗',landing:'◎',room:'▤'})[p.kind];
+function areaBoss(p){return p.bossRooms?.length&&!hiddenLayers.has('boss')}
+function shown(p){
+ if(hiddenLayers.has(p.layer||p.kind)&&!areaBoss(p))return false;
+ return p===arrival||!($('hide').checked&&(marks.has(p.id)||excluded(p)))
+}
+function snapshot(){return {w,room,z,ox,oy,chosen,arrival}}
+const tileSheet=new Image();
+tileSheet.src='data:image/webp;base64,'+sheet64;
+await tileSheet.decode();
+const roomCache=new Map;
+function roomArt(r){
+ if(roomCache.has(r))return roomCache.get(r);
+ const [,,b,encoded]=rooms[r],can=document.createElement('canvas');
+ const cell=tileSheet.naturalWidth/128,cols=b[2];can.width=cols*cell;can.height=b[3]*cell;
+ const c=can.getContext('2d');c.fillStyle='#16272c';c.fillRect(0,0,can.width,can.height);
+ let off=encoded[0];
+ function read(){let v=0,k=0;for(;;){let b=mapBytes[off++];v|=(b&127)<<k;if(b<128)return v;k+=7}}
+ const dict=Array.from({length:read()},read),lengths=Array.from({length:read()},read);
+ const gaps=Uint32Array.from({length:lengths.reduce((a,b)=>a+b,0)},read);let j=0;
+ for(const length of lengths){let pos=0;for(let i=0;i<length;i++){
+  pos+=gaps[j++];const id=dict[read()];if(id){c.drawImage(tileSheet,(id%128)*cell,Math.floor(id/128)*cell,cell,cell,(pos%cols)*cell,Math.floor(pos/cols)*cell,cell,cell);pos++}
+ }}
+ roomCache.set(r,can);if(roomCache.size>3)roomCache.delete(roomCache.keys().next().value);return can
+}
+function go(wi,r,remember=false){
+ if(worldRoom.includes(r)){wi=worldRoom.indexOf(r);r=-1}
+ if(remember && (r!==room||wi!==w)){history.push(snapshot());if(history.length>80)history.shift()}
+ w=wi;room=r;chosen=null;arrival=null;cardSide=null;z=1;ox=oy=0;$('search').value='';
+ const isWorld=r<0;
+ // On a tall phone start closer to the mainland. Fit always restores the full extent.
+ if(isWorld&&small.matches&&surface.clientHeight>surface.clientWidth*1.45){
+  z=Math.min(1.35,surface.clientHeight/surface.clientWidth/1.3)
+ }
+ bounds=isWorld?[0,0,[2952,2952,2944,2956][w]/16,[3088,3080,3088,3094][w]/16]:rooms[r][2];
+ const nextTerrain=isWorld?worldImage:roomArt(r);
+ if(isWorld&&worldImage.dataset.world!==String(w)){worldImage.src='data:image/webp;base64,'+images[w];worldImage.dataset.world=w}
+ if(nextTerrain!==terrain){terrain.removeAttribute('id');nextTerrain.id='terrain';terrain.replaceWith(nextTerrain);terrain=nextTerrain}terrain.classList.toggle('indoor',!isWorld);
+ terrain.alt=isWorld?worldTitle(w)+'地形图':nameOf(r)+'瓦片简图';const heading=$('mapname');
+ heading.className=isWorld?'mapname world-heading world-'+worldEmblems[w][0]:'mapname';
+ heading.textContent=isWorld?worldTitle(w):nameOf(r);
+ if(isWorld)heading.prepend(worldIcon(w));
+ [...$('worldbar').children].forEach((b,i)=>b.setAttribute('aria-pressed',String(i===w)));
+ $('back').hidden=!history.length;$('panelTitle').textContent=isWorld?'地点目录':'场景点位';$('legendText').textContent=isWorld?'◆ 世界地点　⚔ 首领区域':'物品　⚔ 首领　↗ 出口';
+ dots=allDots(w,r);$('detail').hidden=true;refresh()
+}
+$('back').onclick=()=>{let s=history.pop();if(!s)return;
+ go(s.w,s.room);
+ if(s.room<0){
+  if(s.arrival){arrival=dots.find(p=>p.id&&p.id===s.arrival.id);if(!arrival&&s.arrival.kind==='landing'){arrival=s.arrival;dots.push(arrival)}}
+
+ }
+ z=s.z;ox=s.ox;oy=s.oy;if(s.chosen){chosen=dots.find(p=>p.x===s.chosen.x&&p.y===s.chosen.y&&p.kind===s.chosen.kind&&p.n===s.chosen.n)||null;if(chosen)detail()}refresh()};
+let touchTarget=null,lastTap=null;
+surface.addEventListener('pointerdown',e=>{
+ touchTarget=null;
+ if(e.pointerType!=='touch'||!e.target.closest('.pin')||e.target.closest('.caption'))return;
+ // A phone can expand or retarget a tap onto the neighbouring button in a cluster.
+ // Resolve a tap on a marker by the original contact; captions retain their named target.
+ let nearest=11;
+ for(const [point,b] of pins){const r=b.getBoundingClientRect(),d=Math.hypot(e.clientX-r.x-r.width/2,e.clientY-r.y-r.height/2);
+  if(d<nearest){nearest=d;touchTarget=point}}
+},true);
+function refresh(){
+ if(chosen&&!shown(chosen)){chosen=null;$('detail').hidden=true}
+ let visibles=dots.filter(shown);pins=[];$('pins').replaceChildren();
+ for(let p of visibles){
+  let b=btn('pin '+p.kind+(p===arrival?' arrival':'')+(marks.has(p.id)?' done':'')+(p===chosen?' pick':''),'',e=>{
+   if(e.pointerType==='touch'&&draggedTouch)return;
+   const tapped=e.pointerType==='touch'?touchTarget||p:p;
+   select(tapped,false,e);
+   if(e.pointerType==='touch'){
+    const now=performance.now();if(lastTap?.point===tapped&&now-lastTap.at<440){lastTap=null;enter(tapped)}else lastTap={point:tapped,at:now};
+    touchTarget=null
+   }
+  });b.ondblclick=e=>{e.preventDefault();enter(p)};
+  b.title=p.n;b.setAttribute('aria-label',p.n);let icon=make('i');const art=pointIcon(p);
+  if(p.kind==='chest'||p.kind==='event'){b.classList.add('reward-pin');icon.append(art)}else icon.append(make('b','',glyph(p)));
+  if(areaBoss(p)){b.classList.add('boss-area');b.append(make('span','boss-badge','⚔'));b.setAttribute('aria-label',p.n+' · 有首领')}
+  if((p.kind==='chest'||p.kind==='event')&&(marks.has(p.id)||excluded(p)))b.append(make('span','mark-badge',glyph(p)));
+  let label=make('span','caption',p.n);b.append(icon,label);$('pins').append(b);pins.push([p,b,label])
+ }
+ const sceneGuide=$('sceneGuide');sceneGuide.hidden=room<0||!rooms[room][7].length||hiddenLayers.has('boss');
+ let track=dots.filter(p=>p.id),total=new Set(track.map(p=>p.group||p.id)).size;$('progress').textContent=(room<0?'已探索地点 ':'已标记物品 ')+track.filter(p=>marks.has(p.id)).length+' / '+total+(storageOK?'　·　本机记录':'　·　仅本次有效');
+ list();draw()
+}
+function destinations(p){return p.kind==='exit'?[p.dest]:[...(p.targets||[])].sort((a,b)=>phase(a)-phase(b))}
+function phase(i){return Number(/^chapter(\d+)/.exec(rooms[i][0])?.[1]||0)}
+function focusArrival(info,source){
+ arrival=Number.isInteger(info)?dots[info]:null;
+ if(Array.isArray(info)){
+  arrival={x:info[0],y:info[1],kind:'landing',n:source+' · 返回点'};dots.push(arrival)
+ }
+ if(!arrival)return;
+ z=1.85;metrics();ox=(bounds[0]+bounds[2]/2-arrival.x)*mul;oy=(bounds[1]+bounds[3]/2-arrival.y)*mul;refresh()
+}
+function travel(p,j){
+ chosen=p;
+ const leaving=room>=0&&p.kind==='exit'&&worldRoom.includes(j),source=leaving?nameOf(room):'';
+ go(w,j,true);if(leaving)focusArrival(p.landing,source)
+}
+function enter(p){if(!dots.includes(p))return;const [j]=destinations(p);if(j!==undefined)travel(p,j)}
+function select(p,focus=true,event){chosen=p;cardSide=null;
+ if(event?.target.closest('.caption')){let box=event.currentTarget.getBoundingClientRect();cardSide=event.clientY<box.top+box.height/2?'below':'above'}if(focus){z=Math.max(z,1.65);metrics();ox=(bounds[2]/2+bounds[0]-p.x)*mul;oy=(bounds[3]/2+bounds[1]-p.y)*mul}cleanPanel();detail();
+ for(let [q,b] of pins)b.classList.toggle('pick',p===q);
+ for(let row of $('list').children)row.classList.toggle('sel',row.point===p);
+ draw()}
+function detail(){
+ let p=chosen,d=$('detail');if(!p){d.hidden=true;return}d.replaceChildren();d.hidden=false;
+ const body=make('div','cardbody'),close=btn('x','×',()=>{chosen=null;d.hidden=true;refresh()});close.setAttribute('aria-label','关闭卡片');d.append(body,close);
+ const kind={loc:'世界地点',chest:layerNames[p.layer]+' · 宝箱',event:'关键物品 · 剧情触发点',exit:'场景出口',landing:'世界返回点',boss:'首领战 · 触发位置'}[p.kind];
+ body.append(make('div','where',kind+' · '+Math.floor(p.x)+', '+Math.floor(p.y)),make('h3','',p.n));
+ const dest=destinations(p);
+ const context=p.kind==='event'?'从此处触发剧情，随剧情进展获得。':p.kind==='boss'?nameOf(room):p.kind==='landing'?'刚离开场景时在世界地图上的位置。':p.kind==='chest'?nameOf(room):p.kind==='exit'?'双击前往此场景':dest.length>1?'双击进入'+(chapter(dest[0])||'初次到访的场景')+'，也可选择章节。':dest.length?'双击进入地点':'地形标记';
+ if(!small.matches||!dest.length||p.kind==='boss'||p.kind==='chest')body.append(make('div','small',context));
+ else if(dest.length>1)body.append(make('div','small','选择要进入的章节。'));
+ if(p.sprite!==undefined)body.querySelector('h3').prepend(pointIcon(p));
+ if(p.kind==='boss')guideCard(body,p.groups);
+ if(areaBoss(p))areaGuides(body,p.bossRooms);
+ if(p.group?.startsWith('shared/'))body.append(make('div','small','此宝箱与其他场景版本共用领取记录。'));
+ if(p.group?.startsWith('choice/'))body.append(make('div','small',excluded(p)?'已选择另一只宝箱。':'二选一奖励，领取后另一只会消失。'));
+ if(p.en&&p.en!==p.n)body.append(make('div','small',p.en));
+ const a=make('div','actions');body.append(a);
+ if(p.id)a.append(btn('',marks.has(p.id)?'✓ 取消标记':p.kind==='chest'?(excluded(p)?'改选这只宝箱':'标记为已领取'):p.kind==='event'?'标记为已获得':'标记为已探索',()=>{if(marks.has(p.id))marks.delete(p.id);else{if(p.group?.startsWith('choice/'))for(const id of choices.get(p.group))marks.delete(id);marks.add(p.id)}try{localStorage.setItem(store,JSON.stringify([...marks]))}catch{storageOK=false}
+ if(!shown(p)){chosen=null;d.hidden=true}else detail();refresh()}));
+ for(let j of dest)a.append(btn('primary',dest.length===1?'进入地点 →':(chapter(j)||nameOf(j))+' →',()=>travel(p,j)));
+ const copy=btn('','复制点位链接',async()=>{
+  const url=new URL(location.href);url.hash='p='+encodeURIComponent(JSON.stringify([w,room<0?'':rooms[room][0],p.kind,p.x,p.y,p.n]));
+  try{await navigator.clipboard.writeText(url.href);copy.textContent='链接已复制'}catch{
+   let input=body.querySelector('input');if(!input){input=make('input','search');input.readOnly=true;input.setAttribute('aria-label','点位链接');body.append(input)}
+   input.value=url.href;input.select();copy.textContent='选中链接后复制';schedule()
+  }
+ });a.append(copy);
+}
+function list(){
+ const q=$('search').value.trim().toLowerCase(),host=$('list');host.replaceChildren();let count=0;
+ const add=(p,sub,fn)=>{count++;if(count>150)return;let b=btn('row'+(!q&&p===chosen?' sel':''),'',fn),t=make('span','text',p.n);if(sub)t.append(make('small','',sub));b.point=p;if(!q)b.ondblclick=()=>enter(p);const ic=make('span','ic '+p.kind+(marks.has(p.id)?' done':''));ic.append(pointIcon(p));b.append(ic,t,make('span','go','›'));host.append(b)};
+ if(!q){for(let p of dots.filter(shown))add(p,p===arrival?'刚离开的地点':'',()=>select(p));if(room>=0&&!hiddenLayers.has('boss'))for(const g of rooms[room][7])add({kind:'boss',n:bossName(g)},'剧情战斗 · 查看攻略',()=>openGuide(bossName(g)))}
+ else{
+  for(let wi=0;wi<4;wi++)for(let p of allDots(wi,-1))if((p.n+' '+p.en).toLowerCase().includes(q)&&shown(p))add(p,worldTitle(wi),()=>{go(wi,-1,true);select(dots.find(t=>t.id===p.id))});
+  for(let i=0;i<rooms.length;i++){if(worldRoom.includes(i))continue;let n=nameOf(i);
+   let wi=owner[i]>=0?owner[i]:w,context=[chapter(i),n].filter(Boolean).join(' · ');
+   if((n+' '+rooms[i][0]).toLowerCase().includes(q))add({n,kind:'room'},chapter(i)||'场景',()=>{go(wi,i,true);cleanPanel()});
+   for(const p of bossPins(i))if(shown(p)&&(p.n+' 首领 boss').toLowerCase().includes(q))add(p,context,()=>{go(wi,i,true);select(dots.find(t=>t.kind==='boss'&&t.x===p.x&&t.y===p.y))});
+   for(const p of storyItems(i))if(shown(p)&&p.n.includes(q))add(p,context,()=>{go(wi,i,true);select(dots.find(t=>t.id===p.id))});
+   for(const row of rooms[i][5]){let p=chestAt(wi,i,row);if(p.n.toLowerCase().includes(q)&&shown(p))add(p,context,()=>{go(wi,i,true);select(dots.find(t=>t.id===p.id))})}
+  }
+ }
+ $('count').textContent=count+(q?' 项结果':' 处');if(!count)host.append(make('div','none',q?'没有匹配的地点、宝箱或首领。':'当前筛选下没有点位。'));if(count>150)host.append(make('div','none','已列出前 150 项，可输入更具体的名称。'));
+}
+function metrics(){const sw=surface.clientWidth,sh=surface.clientHeight;cx=sw/2;cy=small.matches?sh/2:(sh+38)/2;base=Math.max(.05,Math.min((sw-(small.matches?14:32))/bounds[2],(sh-(small.matches?48:112))/bounds[3]));mul=base*z}
+function placeCard(x,y){
+ const d=$('detail'),sw=surface.clientWidth,sh=surface.clientHeight,pad=8;
+ if(!chosen||(!small.matches&&(x<0||x>sw||y<0||y>sh))){d.hidden=true;return}
+ d.hidden=false;
+ if(small.matches){d.style.removeProperty('left');d.style.removeProperty('top');return}
+ const above=y-20-pad,below=sh-y-20-pad;
+ d.style.setProperty('--card-height',Math.max(52,Math.min(320,Math.max(above,below)-2))+'px');
+ const wid=d.offsetWidth,h=d.offsetHeight,up=cardSide==='below'&&below>=h?false:cardSide==='above'&&above>=h?true:above>=h||above>=below;
+ const left=Math.max(pad,Math.min(sw-pad-wid,x-wid/2));
+ d.classList.toggle('above',up);d.classList.toggle('below',!up);
+ d.style.left=left+'px';d.style.top=(up?y-20-h:y+20)+'px';d.style.setProperty('--tip',Math.max(14,Math.min(wid-14,x-left))+'px')
+}
+function draw(){pending=false;metrics();let width=bounds[2]*mul,height=bounds[3]*mul;ox=Math.max(-width/2,Math.min(width/2,ox));oy=Math.max(-height/2,Math.min(height/2,oy));let l=cx+ox-width/2,t=cy+oy-height/2;
+ Object.assign(terrain.style,{width:width+'px',height:height+'px',left:l+'px',top:t+'px'});$('scale').textContent=Math.round(z*100)+'%';
+ const half=pins.length?pins[0][1].offsetWidth/2:0;
+ const stacked=new Set(pins.filter(([p])=>p.kind==='boss').map(([p])=>p.x+','+p.y));
+ const shift=p=>p.kind==='event'&&stacked.has(p.x+','+p.y)?-22:0;
+ let boxes=[];let items=pins.map(v=>[...v,shift(v[0])+l+(v[0].x-bounds[0])*mul,t+(v[0].y-bounds[1])*mul]);
+ for(let [p,b,label,x,y] of items){b.style.left=x+'px';b.style.top=y+'px';label.hidden=true}
+ if(chosen)placeCard(shift(chosen)+l+(chosen.x-bounds[0])*mul,t+(chosen.y-bounds[1])*mul);
+ if(!$('labels').checked&&!arrival)return;
+ for(let [p,b,label,x,y] of (arrival?[...items].sort((a,b)=>Number(b[0]===arrival)-Number(a[0]===arrival)):items)){
+  if((!$('labels').checked&&p!==arrival)||x<0||y<40||x>surface.clientWidth||y>surface.clientHeight-30)continue;
+  let ww=p.n.length*12+11;
+  for(let [dx,dy] of [[12,-8],[-ww-12,-8],[5,-28],[-ww-4,11]]){
+   let box=[x+dx,y+dy,x+dx+ww,y+dy+18];
+   if(box[0]<1||box[2]>surface.clientWidth-1||box[1]<48||box[3]>surface.clientHeight-30)continue;
+   if(boxes.some(o=>o[0]<box[2]+3&&o[2]+3>box[0]&&o[1]<box[3]+2&&o[3]+2>box[1])||items.some(v=>v[0]!==p&&v[3]>box[0]-6&&v[3]<box[2]+6&&v[4]>box[1]-6&&v[4]<box[3]+6))continue;
+   label.hidden=false;label.style.left=(dx+half)+'px';label.style.top=(dy+half)+'px';boxes.push(box);break
+  }
+ }
+}
+function schedule(){if(!pending){pending=true;requestAnimationFrame(draw)}}
+function zoom(f,x=cx,y=cy){let next=Math.max(.65,Math.min(12,z*f)),ratio=next/z;ox=(ox+cx-x)*ratio+x-cx;oy=(oy+cy-y)*ratio+y-cy;z=next;schedule()}
+$('plus').onclick=()=>zoom(1.4);$('minus').onclick=()=>zoom(1/1.4);$('fit').onclick=()=>{ox=oy=0;z=1;schedule()};
+$('search').oninput=list;for(let k of ['labels','hide'])$(k).onchange=refresh;
+surface.onwheel=e=>{e.preventDefault();let r=surface.getBoundingClientRect();zoom(Math.exp(-Math.max(-140,Math.min(140,e.deltaY))*.0028),e.clientX-r.left,e.clientY-r.top)};
+let fingers=new Map,gesture=null,firstTouch=null,draggedTouch=false;
+const gestureData=()=>{let a=[...fingers.values()],b=a[1]||a[0];return {x:(a[0].x+b.x)/2,y:(a[0].y+b.y)/2,d:Math.hypot(a[0].x-b.x,a[0].y-b.y)}};
+surface.onpointerdown=e=>{if(e.button!==0)return;const pin=e.target.closest('.pin');
+ if(pin&&e.pointerType!=='touch')return;
+ if(e.pointerType==='touch'){
+  if(!fingers.size){draggedTouch=false;firstTouch=[e.clientX,e.clientY]}else draggedTouch=true
+ }
+ (pin||surface).setPointerCapture(e.pointerId);fingers.set(e.pointerId,{x:e.clientX,y:e.clientY});gesture=gestureData()};
+surface.onpointermove=e=>{if(!fingers.has(e.pointerId))return;if(e.pointerType==='touch'&&firstTouch&&Math.hypot(e.clientX-firstTouch[0],e.clientY-firstTouch[1])>7){draggedTouch=true;lastTap=null}fingers.set(e.pointerId,{x:e.clientX,y:e.clientY});let g=gestureData(),r=surface.getBoundingClientRect();if(gesture.d&&g.d)zoom(g.d/gesture.d,gesture.x-r.left,gesture.y-r.top);ox+=g.x-gesture.x;oy+=g.y-gesture.y;gesture=g;schedule()};
+surface.onpointerup=surface.onpointercancel=e=>{fingers.delete(e.pointerId);gesture=fingers.size?gestureData():null};
+document.onkeydown=e=>{if(e.target.matches('input,textarea,select')||$('guide').open||$('bossIndex').open)return;
+ if(e.key==='Escape'){if(small.matches&&!$('panel').classList.contains('closed')){closeDirectory();return}if(chosen){chosen=null;$('detail').hidden=true;refresh()}else if(history.length)$('back').click();return}
+ if(e.key==='+'||e.key==='=')zoom(1.35);else if(e.key==='-')zoom(1/1.35);else if(e.key.startsWith('Arrow')){e.preventDefault();ox+=(e.key==='ArrowLeft'?45:e.key==='ArrowRight'?-45:0);oy+=(e.key==='ArrowUp'?45:e.key==='ArrowDown'?-45:0);schedule()}
+};
+function followLink(){
+ if(!location.hash.startsWith('#p='))return;
+ try{const [wi,k,kind,x,y,n]=JSON.parse(decodeURIComponent(location.hash.slice(3)));
+  if(!Number.isInteger(wi)||wi<0||wi>3)return;
+  const r=k?rooms.findIndex(row=>row[0]===k):-1;if(k&&r<0)return;
+  go(wi,r,true);
+  if(r<0&&kind==='landing'){
+   const matched=rooms.find(v=>v[1]+' · 返回点'===n&&v[4].some(e=>e[2]===worldRoom[wi]&&Array.isArray(e[3])&&e[3][0]===x&&e[3][1]===y));
+   if(matched)focusArrival([x,y],matched[1])
+  }
+  const p=dots.find(q=>q.kind===kind&&q.x===x&&q.y===y&&q.n===n);if(p){if(hiddenLayers.has(p.layer||p.kind))setLayers([p.layer||p.kind],true);select(p)}
+ }catch{}
+}
+let startTap=null;
+surface.addEventListener('pointerdown',e=>{startTap=(!e.target.closest('.pin')&&e.isPrimary&&fingers.size===1)?[e.clientX,e.clientY]:null});
+surface.addEventListener('pointerup',e=>{if(startTap&&chosen&&Math.hypot(e.clientX-startTap[0],e.clientY-startTap[1])<4){chosen=null;$('detail').hidden=true;refresh()}startTap=null});
+new ResizeObserver(schedule).observe(surface);go(0,-1);followLink();addEventListener('hashchange',followLink)
+})().catch(err=>{$('progress').textContent='地图读取失败，请使用较新版本的 Edge、Chrome、Firefox 或 Safari。';console.error(err)});
+</script></html>
