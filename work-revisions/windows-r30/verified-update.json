@@ -1,0 +1,10 @@
+{
+  "yarn_scene_and_global_sha256": [
+    "9ec76ca2a48d9cc5ae74e336ddac030bd0146e6520972467a2c5dd06cb7c2045",
+    "9ec76ca2a48d9cc5ae74e336ddac030bd0146e6520972467a2c5dd06cb7c2045"
+  ],
+  "asset_containers": 14,
+  "official_unwind_entries": 214168,
+  "additional_unwind_entries": 35,
+  "isolated_dll_load": true
+}

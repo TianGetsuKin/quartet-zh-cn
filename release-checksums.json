@@ -1,14 +1,16 @@
 [
   {
-    "file": "四重奏-1.5.20260912-Windows-r29-简体中文完整覆盖包.zip",
-    "bytes": 360272280,
+    "file": "quartet-zh-cn-windows-r30.zip",
+    "bytes": 358966928,
     "members": 21,
-    "sha256": "34dfaed432bba9ca0cc3325423d42788a0ccd358f511222d5acf76a7ea8aea84"
-  },
-  {
-    "file": "四重奏-1.5.20260912-原生Linux-l15-简体中文完整覆盖包.zip",
-    "bytes": 224824100,
-    "members": 22,
-    "sha256": "d8e985c0592df527f44a89d769872ea12eff6e209927fed48c4ca79cb918e7c3"
+    "sha256": "1efbb2b230287877aeb70198a7fa9e93486b7a7c2a5cf999de0f1d3210d46b1b",
+    "platform": "Windows x64",
+    "version": "1.5.20261124",
+    "steam_build": 26908524,
+    "revision": "r30",
+    "original_files": 16,
+    "verified_payloads": 18,
+    "isolated_install_restore": true,
+    "game_ui_verified": false
   }
 ]

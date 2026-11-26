@@ -1,0 +1,142 @@
+{
+  "old_build": 25279268,
+  "new_build": 26908524,
+  "version": "1.5.20261124",
+  "changed": [
+    "GameAssembly.dll",
+    "Quartet_Data/Plugins/x86_64/lib_burst_generated.dll",
+    "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/default_assets_all_164062b0a8025366ff2d66f257c0a286.bundle",
+    "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/default_assets_all_26b04c406693eb4093ad5111b2943287.bundle",
+    "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/default_scenes_all_0d640517810de65c16c500a8bd13c06f.bundle",
+    "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/default_scenes_all_11ddb8fb23731296c6fca1887efbd338.bundle",
+    "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/maps_assets_all_a4fde8d56f7eb31d0025f81375dba6f0.bundle",
+    "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/maps_assets_all_b2cb506c39046c7dcb3b620561f0c7b1.bundle",
+    "Quartet_Data/StreamingAssets/aa/catalog.bin",
+    "Quartet_Data/StreamingAssets/aa/catalog.hash",
+    "Quartet_Data/StreamingAssets/aa/settings.json",
+    "Quartet_Data/boot.config",
+    "Quartet_Data/globalgamemanagers",
+    "Quartet_Data/globalgamemanagers.assets",
+    "Quartet_Data/il2cpp_data/Metadata/global-metadata.dat",
+    "Quartet_Data/level2",
+    "Quartet_Data/level4",
+    "Quartet_Data/level6",
+    "Quartet_Data/level7",
+    "Quartet_Data/resources.assets",
+    "Quartet_Data/sharedassets2.assets",
+    "Quartet_Data/sharedassets4.assets",
+    "Quartet_Data/sharedassets4.assets.resS",
+    "Quartet_Data/sharedassets6.assets",
+    "Quartet_Data/sharedassets7.assets"
+  ],
+  "patch_files": [
+    {
+      "old": "GameAssembly.dll",
+      "new": "GameAssembly.dll",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/globalgamemanagers.assets",
+      "new": "Quartet_Data/globalgamemanagers.assets",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "new": "Quartet_Data/il2cpp_data/Metadata/global-metadata.dat",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/level2",
+      "new": "Quartet_Data/level2",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/level3",
+      "new": "Quartet_Data/level3",
+      "state": "same",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/level4",
+      "new": "Quartet_Data/level4",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/level5",
+      "new": "Quartet_Data/level5",
+      "state": "same",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/level6",
+      "new": "Quartet_Data/level6",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/level7",
+      "new": "Quartet_Data/level7",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/resources.assets",
+      "new": "Quartet_Data/resources.assets",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/sharedassets2.assets",
+      "new": "Quartet_Data/sharedassets2.assets",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/sharedassets3.assets",
+      "new": "Quartet_Data/sharedassets3.assets",
+      "state": "same",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/sharedassets4.assets",
+      "new": "Quartet_Data/sharedassets4.assets",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/default_scenes_all_0d640517810de65c16c500a8bd13c06f.bundle",
+      "new": "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/default_scenes_all_11ddb8fb23731296c6fca1887efbd338.bundle",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/maps_assets_all_a4fde8d56f7eb31d0025f81375dba6f0.bundle",
+      "new": "Quartet_Data/StreamingAssets/aa/StandaloneWindows64/maps_assets_all_b2cb506c39046c7dcb3b620561f0c7b1.bundle",
+      "state": "changed",
+      "clean": true
+    },
+    {
+      "old": "QuartetRecentItems.dll",
+      "new": "QuartetRecentItems.dll",
+      "state": "patch-added",
+      "clean": false
+    },
+    {
+      "old": "QuartetZhLanguage.dll",
+      "new": "QuartetZhLanguage.dll",
+      "state": "patch-added",
+      "clean": false
+    },
+    {
+      "old": "Quartet_Data/sharedassets7.assets.resS",
+      "new": "Quartet_Data/sharedassets7.assets.resS",
+      "state": "same",
+      "clean": true
+    }
+  ]
+}
