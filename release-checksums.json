@@ -14,20 +14,21 @@
     "game_ui_verified": false
   },
   {
-    "file": "quartet-zh-cn-linux-l16-delta.zip",
-    "bytes": 128034181,
+    "file": "quartet-zh-cn-linux-l17-delta.zip",
+    "bytes": 128034762,
     "members": 23,
-    "sha256": "72527601a15e23c7601ea0eab4b892344c777533316e765bad12b2e9a93f89c2",
+    "sha256": "9215486dac267d1e76feb60001b7ed0739c0d94d86305f5f514308d143518358",
     "platform": "原生 Linux／Steam Deck",
     "version": "1.5.20261124",
     "steam_build": 26908524,
     "linux_depot": 1307964,
     "steam_manifest": "2325920819324936782",
-    "revision": "l16",
+    "revision": "l17",
     "format": "BSDIFF40",
     "original_files": 17,
     "verified_payloads": 19,
     "isolated_install_restore": true,
-    "game_ui_verified": false
+    "game_ui_verified": false,
+    "deck_save_load_verified": true
   }
 ]

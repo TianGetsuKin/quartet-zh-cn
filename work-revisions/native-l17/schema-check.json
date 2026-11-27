@@ -1,0 +1,19 @@
+{
+  "FieldMenuEquipController": {
+    "l16_additions": [
+      "selectedSlot"
+    ],
+    "level3_objects": [
+      {
+        "id": 10327,
+        "l16_error": "EOFError"
+      }
+    ]
+  },
+  "QuartetLineView": {
+    "l16_additions": []
+  },
+  "QuartetOptionsListView": {
+    "l16_additions": []
+  }
+}

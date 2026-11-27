@@ -1,0 +1,2 @@
+manifest.json -text whitespace=cr-at-eol,-blank-at-eof
+quartet_l16.py -text whitespace=cr-at-eol,-blank-at-eof

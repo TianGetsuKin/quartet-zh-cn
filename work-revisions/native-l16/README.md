@@ -1,5 +1,7 @@
 # 《四重奏》1.5.20261124 原生 Linux / Steam Deck 汉化补丁 l16
 
+**l16 已由 l17 取代。** l16 可能在部分场景读档时崩溃。已安装的玩家请参考 [l16 升级与还原说明](../native-l17/l16-rollback/)。以下为 l16 的历史构建记录。
+
 对应 Steam Build 26908524，Linux depot 1307964，清单 2325920819324936782。l15 仅适用于游戏 1.5.20260912（清单 2670900619531972171）。Windows 同版本使用 r30。
 
 ## 构建与核验
@@ -12,9 +14,9 @@
 4. 同一流水线在旧版重建的游戏程序集与 l15 的类、字段、属性、方法指令及异常处理比较无差异。新版官方变更的 12 个声明或方法与汉化改动零重叠，其中包括 BattleActorManager.Start 和 BattleTime.Tick。既有实际托管逻辑测试覆盖调用、跳转、历史记录、库存和标签。
 5. 在原维护树运行 pack_l16.py，核对 19 个载荷、中文资源回读、两份 Yarn 程序的 SHA-256 以及本地覆盖还原。此目录的 release-l16.json 保留原件和输出指纹。Deck 的游戏画面与利甘蒂实战交玩家继续验证。
 
-玩家使用同版本 [GitHub Release](https://github.com/TianGetsuKin/quartet-zh-cn/releases/tag/1.5.20261124-zh-r30) 内的原生 Linux 差分包。发布包用 17 个原版文件生成差分，另含 2 个本项目的新增托管 DLL。包中有安装和回滚说明。
+玩家使用同版本 [GitHub Release](https://github.com/TianGetsuKin/quartet-zh-cn/releases/tag/1.5.20261124-zh-r30) 内的 l17 原生 Linux 差分包。l16 发布包原先用 17 个原版文件生成差分，另含 2 个本项目的新增托管 DLL。
 
 
 仓库展示的是原维护树中的脚本和核验记录。按原结构将本目录放在 rebased-26908524 下，compare_depots.py 随 [Windows r30 维护记录](../windows-r30/) 保存。输入需由有权访问游戏的维护者准备。公开快照可用于核对和接手，完整重建目前只在原维护树验证。
 
-差分包构建器为 prepare_delta.py，需 Python 3.11 及 bsdiff4，并以准备完成的原维护树为输入。delta-manifest.json 为已发布差分的校验清单，quartet_l16.py 为玩家安装及回滚器。
+差分包构建器为 prepare_delta.py，需 Python 3.11 及 bsdiff4，并以准备完成的原维护树为输入。根目录中的 delta-manifest.json 是构建记录。玩家还原时使用从公开包原样提取的清单与脚本。 [l16 还原工具](../native-l17/l16-rollback/)

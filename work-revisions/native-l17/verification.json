@@ -1,0 +1,19 @@
+{
+  "archive": "quartet-zh-cn-linux-l17-delta.zip",
+  "bytes": 128034762,
+  "sha256": "9215486dac267d1e76feb60001b7ed0739c0d94d86305f5f514308d143518358",
+  "archive_entries": 23,
+  "original_files_verified": 17,
+  "installed_sha256_verified": 19,
+  "restored_sha1_verified": 17,
+  "added_dlls_removed_on_restore": 2,
+  "l16_upgrade_rehearsed": [
+    "l16 install",
+    "l17 check rejected until clean",
+    "l16 restore",
+    "l17 check",
+    "l17 install",
+    "l17 restore"
+  ],
+  "environment": "isolated installation using fingerprinted Steam native Linux files"
+}

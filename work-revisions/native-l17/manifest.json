@@ -1,0 +1,162 @@
+{
+  "game_version": "1.5.20261124",
+  "steam_build": 26908524,
+  "depot": 1307964,
+  "steam_manifest": "2325920819324936782",
+  "revision": "l17",
+  "format": "BSDIFF40",
+  "files": [
+    {
+      "path": "QuartetLinux_Data/Managed/Assembly-CSharp.dll",
+      "payload": "payload/01.bsdiff",
+      "payload_sha256": "44fc5c42070c4284175567cccddd4a882dc7432693cf7a640f953daf35d7d05b",
+      "original_sha1": "1804305bc03c73f368cb1ee95159b48a234be211",
+      "result_sha256": "8a9cad8f36e03536c0dfdbacfe7ca52955b594ceae16fd0392d62eba89538225",
+      "result_bytes": 1504768
+    },
+    {
+      "path": "QuartetLinux_Data/Managed/Quartet.Chinese.dll",
+      "payload": "payload/02.dll",
+      "payload_sha256": "54d7767cde62095f4ce3262bf493d9be5fceef57b802510bff1bf1c2948944a8",
+      "original_sha1": null,
+      "result_sha256": "54d7767cde62095f4ce3262bf493d9be5fceef57b802510bff1bf1c2948944a8",
+      "result_bytes": 2654208
+    },
+    {
+      "path": "QuartetLinux_Data/Managed/Quartet.RecentItems.dll",
+      "payload": "payload/03.dll",
+      "payload_sha256": "e1f1bbc83e08c259788bcd9587c8fff229dfc5a9ab9bcec146c02c60acd0ee1a",
+      "original_sha1": null,
+      "result_sha256": "e1f1bbc83e08c259788bcd9587c8fff229dfc5a9ab9bcec146c02c60acd0ee1a",
+      "result_bytes": 12800
+    },
+    {
+      "path": "QuartetLinux_Data/Managed/Unity.TextMeshPro.dll",
+      "payload": "payload/04.bsdiff",
+      "payload_sha256": "b97ba9b963bd09e14327cb1b3ae359d8a902481a7920a7fce5a45f46ee4b6c8e",
+      "original_sha1": "218685bbd700c56e80a1e5ae26e7b69a7e763fcd",
+      "result_sha256": "bac7aef8e63889f74d61ca43ebfc70bea3f9f964b24bb0047d0df6820e4eb216",
+      "result_bytes": 444928
+    },
+    {
+      "path": "QuartetLinux_Data/Managed/YarnSpinner.Unity.dll",
+      "payload": "payload/05.bsdiff",
+      "payload_sha256": "d2aed0b9cad4eae03f83df099c0c635a86e564d36f7d998220ea4d80e79cb406",
+      "original_sha1": "98f26b30aa042af306fbd7b6d293422876094214",
+      "result_sha256": "f61913745ead4c4acb55ded21cc170d9ab76d3be6403d69457f2dae1bd7f2c14",
+      "result_bytes": 82944
+    },
+    {
+      "path": "QuartetLinux_Data/StreamingAssets/aa/StandaloneLinux64/default_scenes_all_2decaceaf16319ba55f4324ab4b978bc.bundle",
+      "payload": "payload/06.bsdiff",
+      "payload_sha256": "2d1106b7a36171e75cd25d0811276caeaf918e7dba9982aeb8c1a6faebb495a6",
+      "original_sha1": "265503636d5c95b5bb8e1a59a874398daf8a9d90",
+      "result_sha256": "d2ef192dd401ae548804267e68b359b8da8a89a6226ba659cbe9aa5adf22e80d",
+      "result_bytes": 60638501
+    },
+    {
+      "path": "QuartetLinux_Data/StreamingAssets/aa/StandaloneLinux64/maps_assets_all_093f430665e7e203cf475b8c9a286e8a.bundle",
+      "payload": "payload/07.bsdiff",
+      "payload_sha256": "6426438e4eb6d37628659c7d0d441aa85ada5f31f11ba2b4d8ab74912f69fdb2",
+      "original_sha1": "75d7ecb4afc6e6dbbcdaec7cd335f3dba7278dd6",
+      "result_sha256": "8c1648809fe8a503567d14f90b2d41a0b7df73f216eba005e60254b751e81148",
+      "result_bytes": 107778632
+    },
+    {
+      "path": "QuartetLinux_Data/globalgamemanagers.assets",
+      "payload": "payload/08.bsdiff",
+      "payload_sha256": "e0e9bd21f5e167f26c3e20b2b8d9461aa2b9233d14a56b6049a2f7911aab79c1",
+      "original_sha1": "943e89cec742a1635f9bc436ef02e484c3fc6714",
+      "result_sha256": "f6cc7887e110e6a5acea1a1881d614adf94a011f0b43cd746aa6564ce77c9413",
+      "result_bytes": 211449456
+    },
+    {
+      "path": "QuartetLinux_Data/level2",
+      "payload": "payload/09.bsdiff",
+      "payload_sha256": "4be5d5fa9c0598a7a88abad1571cdac684485b7a82ca6ea9598a55c7f199b172",
+      "original_sha1": "0d0491ed11ef2437fa8aec96456ed4b23c129c51",
+      "result_sha256": "12751fcccc20d439b13fb9f144df3988c281cf9fb5bcf6c3d6f6bbdb3ed4bb5e",
+      "result_bytes": 860696
+    },
+    {
+      "path": "QuartetLinux_Data/level3",
+      "payload": "payload/10.bsdiff",
+      "payload_sha256": "6284cbf67ac984cb5311b720949918a7b1df4d8df0e678ad9852654edb236ea5",
+      "original_sha1": "866f7fa984ca0e500609b32b8c5ee980871914b4",
+      "result_sha256": "2a37bd7a833f816271fdd4fcc9162c377302f906d6471a36f0d22cc1ac6a4427",
+      "result_bytes": 2187360
+    },
+    {
+      "path": "QuartetLinux_Data/level4",
+      "payload": "payload/11.bsdiff",
+      "payload_sha256": "45b3c02459a1e5b4a0b997495c04bf832a5510c52fe13b65fc678906eb08d92f",
+      "original_sha1": "e714d58f5ef4583ef8f12bc5b13a8bf11b01667d",
+      "result_sha256": "75bd84929457643c8d805f12081fb9ac6c058d63e9251b503be99f65688ff83d",
+      "result_bytes": 2745720
+    },
+    {
+      "path": "QuartetLinux_Data/level5",
+      "payload": "payload/12.bsdiff",
+      "payload_sha256": "b3caaf0a5569568417a0dc108c13f9d936cf89eb95c793cd8cbc978275fd6a59",
+      "original_sha1": "f27846fa77f2b38f41ed2073375983d4233c2b01",
+      "result_sha256": "a2704c7d417c8e92e7c164e3cf6ff8bcacfa95e9cd98821a7bab305359517ee2",
+      "result_bytes": 32496
+    },
+    {
+      "path": "QuartetLinux_Data/level6",
+      "payload": "payload/13.bsdiff",
+      "payload_sha256": "de7708f372f3e71ff925d3088f6c4a9b8c2a8d1612962695db5e4921e480521b",
+      "original_sha1": "a965502c1d9d55d47314fa291548dbbe8466c54a",
+      "result_sha256": "5270b1ffd294f8eb8c94b733518a1dfb15521bce5eeac7768b02d753dd976e3c",
+      "result_bytes": 51944
+    },
+    {
+      "path": "QuartetLinux_Data/level7",
+      "payload": "payload/14.bsdiff",
+      "payload_sha256": "e96098d3937eab08688733d91bb3b91d5ca1854c3977035ad92c72a7f5305af4",
+      "original_sha1": "b6e3f495fea951b190ba0d47affcac5dc4ab1088",
+      "result_sha256": "632448e3b1d8a937d52a8a0695532dfccdf686bcd09791ac3857702197e1c3ea",
+      "result_bytes": 129672
+    },
+    {
+      "path": "QuartetLinux_Data/resources.assets",
+      "payload": "payload/15.bsdiff",
+      "payload_sha256": "b53dfb584178c009ab6a23a87944f6cda4cac903f3c8be149699ece34228e070",
+      "original_sha1": "456f904400dbc806c78518ee451a1cb0297a4283",
+      "result_sha256": "b0fe8eaa5876174f6d2803d4078b967a8c4c355ee5d63ad8d994a2448f8a2a14",
+      "result_bytes": 4708704
+    },
+    {
+      "path": "QuartetLinux_Data/sharedassets2.assets",
+      "payload": "payload/16.bsdiff",
+      "payload_sha256": "32f10572d6e0d232108659cc9d4dc28f17daeb853da9c52c33eb99977a0c4c75",
+      "original_sha1": "be01fdc2e15e6cac0d5da94e35855b058469de20",
+      "result_sha256": "804e3561bd5e92224f2c85dd9e32985e2b6253cdc629a83a9ef967b5364bfc37",
+      "result_bytes": 147101936
+    },
+    {
+      "path": "QuartetLinux_Data/sharedassets3.assets",
+      "payload": "payload/17.bsdiff",
+      "payload_sha256": "ddaaa8f75a28a8613f5143f3519ac035075d86a672e53dd553ed0de1d523e340",
+      "original_sha1": "cf2c4f617d4943f87e82d1898567647842f53319",
+      "result_sha256": "39c841e583eab6619eb06288375176c7b52fbe9055fc34ad5160ca83b36293ee",
+      "result_bytes": 74468856
+    },
+    {
+      "path": "QuartetLinux_Data/sharedassets4.assets",
+      "payload": "payload/18.bsdiff",
+      "payload_sha256": "ed9d3fe22651c5aff97c01ae9693c3dc616924401484a760d95bd4d5eb870a30",
+      "original_sha1": "b938a753c5c6bea9bad25a5f4f63238ceca5142f",
+      "result_sha256": "6b7e9f5265cc394dbb09a4ab924c2f7bc8dbeb90126a99f7fe82e233d3f70888",
+      "result_bytes": 1988072
+    },
+    {
+      "path": "QuartetLinux_Data/sharedassets7.assets.resS",
+      "payload": "payload/19.bsdiff",
+      "payload_sha256": "70429a86346ec78263ed9dcb57be1750824c3f5e2f7ef7e1e6479ea79a18cde0",
+      "original_sha1": "3dd1c9f85367244e7b29fab101cd05ce1480d9be",
+      "result_sha256": "f0b093a9daf4bc9308b819147a9464710ff59af91429e4bf17d375c06b0ece79",
+      "result_bytes": 2959968
+    }
+  ]
+}
