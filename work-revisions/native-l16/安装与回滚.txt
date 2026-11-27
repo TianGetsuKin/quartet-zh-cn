@@ -1,0 +1,32 @@
+《四重奏》简体中文补丁 l16
+Steam Deck／原生 Linux，游戏 1.5.20261124
+
+对应 Steam Build 26908524、Linux depot 1307964 和清单 2325920819324936782。
+Steam 的兼容性设置应选择原生 Linux 版。Windows 或 Proton 使用同版本的 Windows r30。旧版 1.5.20260912 使用 l15。
+
+安装
+
+1. 退出游戏。在 Steam 游戏属性的「已安装文件」里打开游戏目录，确认里面有 QuartetLinux_Data。先恢复成干净的新版原生文件。验证游戏文件完整性后，若上次汉化留下 QuartetLinux_Data/Managed/Quartet.Chinese.dll 或 Quartet.RecentItems.dll，请按上次补丁的还原说明清理。
+2. 把 ZIP 完整解压到任意目录，在该目录打开终端。需要 Python 3.8 或更新版本，可用 python3 --version 确认。游戏所在磁盘预留约 1.1 GB 存放原件备份和临时数据。
+3. 将示例引号内的路径替换成实际的游戏目录，再执行两条命令。
+
+   python3 ./quartet_l16.py check "/游戏路径/Quartet"
+   python3 ./quartet_l16.py install "/游戏路径/Quartet"
+
+差分安装前核对 17 个官方游戏文件与 19 个补丁载荷的指纹。在全部目标文件准备并验证完毕后才逐个换入。包内含 17 个差分和 2 个补丁新增 DLL。
+
+还原
+
+保留解压目录和游戏目录下的 .quartet-l16-backup。退出游戏后运行：
+
+   python3 ./quartet_l16.py restore "/游戏路径/Quartet"
+
+还原会校验备份，恢复 17 个原件，删除 2 个由本补丁新增且指纹相符的 DLL。它不会覆盖已经更新到其他版本或被其他补丁改动的游戏文件。若正在使用更新后的游戏文件，先按当前版本处理，保留备份供核对。
+
+中途中断
+
+若安装器报告自动还原未完成，请保留备份并重试 restore。若终端被强制关闭，确认安装器和游戏均已退出后，只移除游戏目录内的空目录 .quartet-l16-lock，然后运行 restore。没有完整的备份标记时，安装器尚未替换游戏文件。可先运行 check 核实原件，再另存残留的 .quartet-l16-backup 以重新安装。
+
+验证范围
+
+发行包已在隔离的干净新版文件副本上测试安装与还原。19 个目标 SHA-256 和还原后的 17 个 Steam SHA-1 全部匹配。维护者已在 Steam Deck 上核对 l16 的 19 个文件。新版游戏内的画面和利甘蒂实战仍待玩家验证。字体授权见 OFL.txt。

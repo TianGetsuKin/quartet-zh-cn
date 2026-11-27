@@ -1,0 +1,135 @@
+{
+
+  "hook_runtime_verified": true,
+
+  "localized_delta": [
+
+    "F:HeroUIRenderEquipSlots FieldMenuEquipController::equipSlots",
+
+    "F:QuartetLineView Quartet.Behaviours.YarnDialogueWindow::lineView",
+
+    "F:QuartetOptionsListView Quartet.Behaviours.YarnDialogueWindow::optionsListView",
+
+    "F:Services.Inventory.EquippableSlots FieldMenuEquipController::selectedSlot",
+
+    "F:System.Boolean FieldMenuController::usePushOnCharacterSelected",
+
+    "F:TMPro.TMP_Text Quartet.Behaviours.YarnDialogueWindow::titleContent",
+
+    "F:UIInventoryListRender FieldMenuController::inventoryPanelListRender",
+
+    "F:UIInventoryListRender FieldMenuEquipController::equipInventoryItemRender",
+
+    "F:UnityEngine.RectTransform FieldMenuController::equipPanel",
+
+    "F:UnityEngine.RectTransform FieldMenuController::partySummary",
+
+    "F:UnityEngine.RectTransform FieldMenuEquipController::equipPanel",
+
+    "F:Yarn.Unity.LocalizedLine QuartetLineView::currentLine",
+
+    "F:Yarn.Unity.LocalizedLine QuartetOptionsListView::lastSeenLine",
+
+    "M:ConfigParamData ConfigParamData::GetMetadata(ConfigParam)",
+
+    "M:Services.UI.UIService/PushContext Services.UI.UIService::Peek()",
+
+    "M:Services.UI.UIService/PushContext Services.UI.UIService::Pop(Services.UI.UIService/InteractionHint)",
+
+    "M:System.Collections.Generic.IEnumerable`1<Services.Inventory.InventoryManager/Entry> UIInventoryListRender::GetItems()",
+
+    "M:System.Collections.Generic.IEnumerable`1<Services.Inventory.InventoryManager/Entry> UIInventoryListRender::SortedInventoryEntries(System.Collections.Generic.IEnumerable`1<Services.Inventory.InventoryManager/Entry>)",
+
+    "M:System.IDisposable Services.SaveLoad.SaveLoadService/<>c__DisplayClass33_0::<SaveGameState>b__0(System.IObserver`1<System.Boolean>)",
+
+    "M:System.Int32 Services.Inventory.InventoryManager::ConsumeItem(System.String,System.Int32)",
+
+    "M:System.String ConfigParamData::GetStrValue(ConfigParam)",
+
+    "M:System.String Services.Input.InputService::GetGamepadDisplayName(UnityEngine.InputSystem.InputAction,System.String)",
+
+    "M:System.Threading.Tasks.Task Services.SaveLoad.SaveLoadService::ApplyGameData(Services.SaveLoad.SaveData,System.Int32,System.Boolean,System.Boolean)",
+
+    "M:System.Void ConfigParamData::SetValue(ConfigParam,System.String)",
+
+    "M:System.Void FieldMenuController::CharacterActivate()",
+
+    "M:System.Void FieldMenuController::CommandEquipActivate()",
+
+    "M:System.Void FieldMenuController::CommandItemsActivate()",
+
+    "M:System.Void FieldMenuController::InventoryItemSelected(Services.Inventory.InventoryManager/Entry)",
+
+    "M:System.Void FieldMenuEquipController::ActivateInventoryWindow(Services.Inventory.EquippableSlots)",
+
+    "M:System.Void FieldMenuEquipController::AdjustInventoryFilter(Services.Inventory.EquippableSlots)",
+
+    "M:System.Void FieldMenuEquipController::OnEquipInventoryEntrySelected(Services.Inventory.InventoryManager/Entry)",
+
+    "M:System.Void Quartet.NewBattleManager::ProcessVictory()",
+
+    "M:System.Void Services.SaveLoad.Platforms.PCSaveLoad::Save(Services.SaveLoad.SaveSlot,System.String,System.String)",
+
+    "M:System.Void Services.SaveLoad.Platforms.PCSaveLoad::SetSavesMeta(System.String,System.String)",
+
+    "M:System.Void Services.SaveLoad.SaveLoadService::Clear()",
+
+    "M:System.Void ShopConfirmationController::SetDefaultMode(Services.Inventory.InventoryItem,System.Int32)",
+
+    "M:System.Void ShopConfirmationController::SetGearMode(Services.Inventory.InventoryItem,System.Int32)",
+
+    "M:System.Void ShopController::OnConfirmTransaction()",
+
+    "M:System.Void ShopController::OnHeroPreviewConfirm(Services.Character.BaseCharacter)",
+
+    "M:System.Void Storyteller.Extensions.InventoryExtension::CommandInventoryAddItem(System.String,System.Int32,System.String)",
+
+    "M:System.Void UIConfigOption::Refresh()",
+
+    "M:System.Void UIConfigTabStrip::Refresh()",
+
+    "M:System.Void UIInventoryListRender::InitItem(Services.Inventory.InventoryManager/Entry,UnityEngine.GameObject)",
+
+    "M:System.Void UIInventoryTab::.cctor()",
+
+    "M:System.Void UIInventoryTab::Refresh()",
+
+    "M:UIInventoryListRender/ItemFilter FieldMenuEquipController::GetFilterForSlot(Services.Inventory.EquippableSlots)",
+
+    "M:UIInventoryListRender/ItemFilter InventoryFilterGlue::GetFilterForTab(UIInventoryTab/TabType)"
+
+  ],
+
+  "official_delta": [
+
+    "F:BattleActorManager/<>c BattleActorManager/<>c::<>9",
+
+    "F:System.Func`2<BattleTime/TurnInfo,System.Boolean> BattleActorManager/<>c::<>9__17_0",
+
+    "F:System.Func`2<BattleTime/TurnInfo,System.Boolean> BattleActorManager/<>c::<>9__17_1",
+
+    "M:System.Boolean BattleActorManager/<>c::<Start>b__17_0(BattleTime/TurnInfo)",
+
+    "M:System.Boolean BattleActorManager/<>c::<Start>b__17_1(BattleTime/TurnInfo)",
+
+    "M:System.Void BattleActorManager::<Start>b__17_0(Services.Character.BaseCharacter)",
+
+    "M:System.Void BattleActorManager::<Start>b__17_2(BattleTime/TurnInfo)",
+
+    "M:System.Void BattleActorManager::Start()",
+
+    "M:System.Void BattleActorManager/<>c::.cctor()",
+
+    "M:System.Void BattleActorManager/<>c::.ctor()",
+
+    "M:System.Void BattleTime::Tick()",
+
+    "T:BattleActorManager/<>c"
+
+  ],
+
+  "old_replay_diff": 0,
+
+  "official_vs_hooks_overlap": 0
+
+}
